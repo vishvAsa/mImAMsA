@@ -4,6 +4,6 @@
 	update = merge
 [submodule "content"]
 	path = content
-	url = https://github.com/vvasuki/mImAMsA.git
+	url = https://github.com/vishvAsa/mImAMsA.git
 	update = merge
 	branch = content
