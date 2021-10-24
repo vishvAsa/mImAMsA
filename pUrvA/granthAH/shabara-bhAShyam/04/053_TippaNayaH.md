@@ -2,11 +2,16 @@
 title: ५३ टिप्पन्यः
 
 ---
-- 4/176: Tait.Br. 3.2.4.1
-- 4/177: E2: praṇītānām utpannānāṃ vyāpāraḥ śrūyate, praṇītābhir
-- 4/178: E2,6: tatra
-- 4/179: E2: vibhāgaḥ
-- 4/180: Tait.Br. 3.3.5.5
+
+[^4/176]: Tait.Br. 3.2.4.1
+
+[^4/177]: E2: praṇītānām utpannānāṃ vyāpāraḥ śrūyate, praṇītābhir
+
+[^4/178]: E2,6: tatra
+
+[^4/179]: E2: vibhāgaḥ
+
+[^4/180]: Tait.Br. 3.3.5.5
 
 ____________________________________________
 

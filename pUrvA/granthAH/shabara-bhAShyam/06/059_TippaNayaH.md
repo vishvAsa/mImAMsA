@@ -2,8 +2,10 @@
 title: ५९ टिप्पन्यः
 
 ---
-- 6/195: E1,6; E2: saṃnayataḥ. kutaḥ. auṣadhasaṃyogāt
-- 6/196: E1,6; E2: ata ubhayor
+
+[^6/195]: E1,6; E2: saṃnayataḥ. kutaḥ. auṣadhasaṃyogāt
+
+[^6/196]: E1,6; E2: ata ubhayor
 
 ____________________________________________
 

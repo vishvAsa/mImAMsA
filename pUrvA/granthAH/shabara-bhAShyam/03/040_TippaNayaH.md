@@ -2,11 +2,16 @@
 title: ४० टिप्पन्यः
 
 ---
-- 3/162: E2: saṃnidhānāvacanāc ca, asya, E4: saṃnidhānād avacanāc ca, asya
-- 3/163: Zu MS 3.2.1
-- 3/164: E2,4,6: evotkarṣo
-- 3/165: E2: 4,152; E4: 4,55; E6: 1,175
-- 3/166: 1. Teil: Tait.Br. 3.5.10.2
+
+[^3/162]: E2: saṃnidhānāvacanāc ca, asya, E4: saṃnidhānād avacanāc ca, asya
+
+[^3/163]: Zu MS 3.2.1
+
+[^3/164]: E2,4,6: evotkarṣo
+
+[^3/165]: E2: 4,152; E4: 4,55; E6: 1,175
+
+[^3/166]: 1. Teil: Tait.Br. 3.5.10.2
 
 ____________________________________________
 

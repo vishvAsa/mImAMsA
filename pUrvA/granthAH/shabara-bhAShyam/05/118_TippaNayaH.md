@@ -2,10 +2,14 @@
 title: ११८ टिप्पन्यः
 
 ---
-- 5/356: Vgl. den zweiten adhyāya
-- 5/357: E2: utāsātatyeneti
-- 5/358: E2: paurṇamāsyā
-- 5/359: E2: amāvāsyayā
+
+[^5/356]: Vgl. den zweiten adhyāya
+
+[^5/357]: E2: utāsātatyeneti
+
+[^5/358]: E2: paurṇamāsyā
+
+[^5/359]: E2: amāvāsyayā
 
 ____________________________________________
 

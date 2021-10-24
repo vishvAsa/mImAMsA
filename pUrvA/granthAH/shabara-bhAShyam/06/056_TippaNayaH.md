@@ -2,8 +2,10 @@
 title: ५६ टिप्पन्यः
 
 ---
-- 6/189: E1 hat sāminirupta ity arthaḥ in Klammern
-- 6/190: E2: 5,309; E6: 2,176
+
+[^6/189]: E1 hat sāminirupta ity arthaḥ in Klammern
+
+[^6/190]: E2: 5,309; E6: 2,176
 
 ____________________________________________
 

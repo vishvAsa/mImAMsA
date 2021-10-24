@@ -2,8 +2,10 @@
 title: १४६ टिप्पन्यः
 
 ---
-- 4/491: E1 (Fn.,K): sādyaskraḥ somayāgaviśeṣaḥ
-- 4/492: E2: sahaśabdasamāmnātaḥ
+
+[^4/491]: E1 (Fn.,K): sādyaskraḥ somayāgaviśeṣaḥ
+
+[^4/492]: E2: sahaśabdasamāmnātaḥ
 
 ____________________________________________
 

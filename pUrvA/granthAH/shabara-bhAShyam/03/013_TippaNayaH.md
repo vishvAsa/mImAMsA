@@ -2,10 +2,14 @@
 title: १३ टिप्पन्यः
 
 ---
-- 3/79: E2,4, E1 (v.l.): paricchinnati
-- 3/80: Vgl. E1, S.229/1-2
-- 3/81: E2,4: san na paryudasitavyo, E6: sann aparyudasitavyo
-- 3/82: E2: 4,96; E4: 3,643; E6: 1,158
+
+[^3/79]: E2,4, E1 (v.l.): paricchinnati
+
+[^3/80]: Vgl. E1, S.229/1-2
+
+[^3/81]: E2,4: san na paryudasitavyo, E6: sann aparyudasitavyo
+
+[^3/82]: E2: 4,96; E4: 3,643; E6: 1,158
 
 ____________________________________________
 

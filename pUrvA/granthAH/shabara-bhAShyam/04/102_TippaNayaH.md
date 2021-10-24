@@ -2,10 +2,14 @@
 title: १०२ टिप्पन्यः
 
 ---
-- 4/361: E2: 5,86; E6: 2,52
-- 4/362: E1 gibt vājapeyena phalasya vyāpāraṃ kṛtvā in Klammern
-- 4/363: E1 gibt agni cayanena saṃskṛtyety arthaḥ in Klammern
-- 4/364: E2: 5,87; E6: 2,53
+
+[^4/361]: E2: 5,86; E6: 2,52
+
+[^4/362]: E1 gibt vājapeyena phalasya vyāpāraṃ kṛtvā in Klammern
+
+[^4/363]: E1 gibt agni cayanena saṃskṛtyety arthaḥ in Klammern
+
+[^4/364]: E2: 5,87; E6: 2,53
 
 ____________________________________________
 

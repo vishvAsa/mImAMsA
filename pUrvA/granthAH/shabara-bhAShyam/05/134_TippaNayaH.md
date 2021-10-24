@@ -2,7 +2,8 @@
 title: १३४ टिप्पन्यः
 
 ---
-- 5/402: E1 gibt anyo yāgaḥ in Klammern
+
+[^5/402]: E1 gibt anyo yāgaḥ in Klammern
 
 ____________________________________________
 

@@ -2,8 +2,10 @@
 title: २५५ टिप्पन्यः
 
 ---
-- 3/723: E1 gibt yājamānaḥ kāma ity arthaḥ in Klammern
-- 3/724: E2,4: prakṛtenārthinā
+
+[^3/723]: E1 gibt yājamānaḥ kāma ity arthaḥ in Klammern
+
+[^3/724]: E2,4: prakṛtenārthinā
 
 ____________________________________________
 

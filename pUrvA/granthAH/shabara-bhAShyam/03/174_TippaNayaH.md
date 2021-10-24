@@ -2,11 +2,16 @@
 title: १७४ टिप्पन्यः
 
 ---
-- 3/548: E1 gibt phalacamasena yajetety arthaḥ in Klammern
-- 3/549: E2: 4,478; E4: 4,759; E6: 1,245
-- 3/550: E2,4: ijyākāro
-- 3/551: E2,4 om. vā
-- 3/552: E2,4: yadi
+
+[^3/548]: E1 gibt phalacamasena yajetety arthaḥ in Klammern
+
+[^3/549]: E2: 4,478; E4: 4,759; E6: 1,245
+
+[^3/550]: E2,4: ijyākāro
+
+[^3/551]: E2,4 om. vā
+
+[^3/552]: E2,4: yadi
 
 ____________________________________________
 

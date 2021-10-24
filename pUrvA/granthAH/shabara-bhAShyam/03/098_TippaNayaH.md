@@ -2,8 +2,10 @@
 title: ९८ टिप्पन्यः
 
 ---
-- 3/358: E2: ādhvaryavati
-- 3/359: E2,4,6: samākhyānugrahīṣyate
+
+[^3/358]: E2: ādhvaryavati
+
+[^3/359]: E2,4,6: samākhyānugrahīṣyate
 
 ____________________________________________
 

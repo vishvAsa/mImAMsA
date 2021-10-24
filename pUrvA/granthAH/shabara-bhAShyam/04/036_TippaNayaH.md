@@ -2,9 +2,12 @@
 title: ३६ टिप्पन्यः
 
 ---
-- 4/128: ŚPBr 1.3.2.9
-- 4/129: E1 gibt aupabhṛte jauhave ca in Klammern
-- 4/130: E2: 5,33; E6: 2,19
+
+[^4/128]: ŚPBr 1.3.2.9
+
+[^4/129]: E1 gibt aupabhṛte jauhave ca in Klammern
+
+[^4/130]: E2: 5,33; E6: 2,19
 
 ____________________________________________
 

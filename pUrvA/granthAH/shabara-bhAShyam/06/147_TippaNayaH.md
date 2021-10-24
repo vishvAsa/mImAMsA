@@ -2,8 +2,10 @@
 title: १४७ टिप्पन्यः
 
 ---
-- 6/399: E1,6; E2: anyatarad vacanaṃ gauṇam
-- 6/400: E1 (v.l.): uktaparimāṇasyārthasya
+
+[^6/399]: E1,6; E2: anyatarad vacanaṃ gauṇam
+
+[^6/400]: E1 (v.l.): uktaparimāṇasyārthasya
 ____________________________________________
 
 

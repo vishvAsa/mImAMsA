@@ -2,14 +2,22 @@
 title: १४५ टिप्पन्यः
 
 ---
-- 4/483: E2,6: triṇavenaujaskāmam
-- 4/484: Tait.S. 2.2.4.7
-- 4/485: Vgl. MS 10.5.26
-- 4/486: E1 (Fn.), E2: aniyatakramāḥ
-- 4/487: E2: kāṇḍakrameṇeti
-- 4/488: E1 (Fn.): yad uttarasya smaraṇaṃ
-- 4/489: E2: triṇavādiśabdair
-- 4/490: E2: 5,117; E6: 2,71
+
+[^4/483]: E2,6: triṇavenaujaskāmam
+
+[^4/484]: Tait.S. 2.2.4.7
+
+[^4/485]: Vgl. MS 10.5.26
+
+[^4/486]: E1 (Fn.), E2: aniyatakramāḥ
+
+[^4/487]: E2: kāṇḍakrameṇeti
+
+[^4/488]: E1 (Fn.): yad uttarasya smaraṇaṃ
+
+[^4/489]: E2: triṇavādiśabdair
+
+[^4/490]: E2: 5,117; E6: 2,71
 
 ____________________________________________
 

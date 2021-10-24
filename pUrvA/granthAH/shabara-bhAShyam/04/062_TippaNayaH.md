@@ -2,11 +2,16 @@
 title: ६२ टिप्पन्यः
 
 ---
-- 4/215: E2: adhikaraṇātideśo 'yam
-- 4/216: Tait. S. 2.1.1.1
-- 4/217: Mait. S. 2.1.5
-- 4/218: Tait.S. 1.8.9.1
-- 4/219: E2: prāptasya varṇasya niyamārtha
+
+[^4/215]: E2: adhikaraṇātideśo 'yam
+
+[^4/216]: Tait. S. 2.1.1.1
+
+[^4/217]: Mait. S. 2.1.5
+
+[^4/218]: Tait.S. 1.8.9.1
+
+[^4/219]: E2: prāptasya varṇasya niyamārtha
 
 ____________________________________________
 

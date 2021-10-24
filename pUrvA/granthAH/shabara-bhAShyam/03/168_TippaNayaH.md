@@ -2,9 +2,12 @@
 title: १६८ टिप्पन्यः
 
 ---
-- 3/534: E2,4: upahvayasvety
-- 3/535: E2,4: etenānujñāpayed
-- 3/536: E2,4: upahvayasveti
+
+[^3/534]: E2,4: upahvayasvety
+
+[^3/535]: E2,4: etenānujñāpayed
+
+[^3/536]: E2,4: upahvayasveti
 
 ____________________________________________
 

@@ -2,12 +2,18 @@
 title: ५६ टिप्पन्यः
 
 ---
-- 4/189: E1,6 und E2 (Fn.); E2 om. kartṛdaṇḍasaṃyogo bhavati
-- 4/190: E2: yathāpūrvaṃ
-- 4/191: E2: praviśati
-- 4/192: E2: 5,50; E6: 2,29
-- 4/193: Tait. S. 1.8.18.1
-- 4/194: E2: tathāyuktaṃ
+
+[^4/189]: E1,6 und E2 (Fn.); E2 om. kartṛdaṇḍasaṃyogo bhavati
+
+[^4/190]: E2: yathāpūrvaṃ
+
+[^4/191]: E2: praviśati
+
+[^4/192]: E2: 5,50; E6: 2,29
+
+[^4/193]: Tait. S. 1.8.18.1
+
+[^4/194]: E2: tathāyuktaṃ
 
 ____________________________________________
 

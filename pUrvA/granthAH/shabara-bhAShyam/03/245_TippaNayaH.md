@@ -2,8 +2,10 @@
 title: २४५ टिप्पन्यः
 
 ---
-- 3/709: Vgl. Tait.S. 1.7.3.1
-- 3/710: E2,4: svayaṃ karotīti gamyate. kasmāt?
+
+[^3/709]: Vgl. Tait.S. 1.7.3.1
+
+[^3/710]: E2,4: svayaṃ karotīti gamyate. kasmāt?
 
 ____________________________________________
 

@@ -2,8 +2,10 @@
 title: ११७ टिप्पन्यः
 
 ---
-- 6/316: E1,6; E2: saptadaśo vai vaiśya
-- 6/317: E1,6,E2 (v.l.); E2: nāvaiśyasya
+
+[^6/316]: E1,6; E2: saptadaśo vai vaiśya
+
+[^6/317]: E1,6,E2 (v.l.); E2: nāvaiśyasya
 
 ____________________________________________
 

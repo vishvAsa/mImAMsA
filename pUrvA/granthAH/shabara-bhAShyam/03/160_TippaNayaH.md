@@ -2,8 +2,10 @@
 title: १६० टिप्पन्यः
 
 ---
-- 3/520: E2: 4,463; E4: 4,740; E6: 1,240
-- 3/521: E1 gibt hāriyojanasya praśāṃsārthā in Klammern
+
+[^3/520]: E2: 4,463; E4: 4,740; E6: 1,240
+
+[^3/521]: E1 gibt hāriyojanasya praśāṃsārthā in Klammern
 
 ____________________________________________
 

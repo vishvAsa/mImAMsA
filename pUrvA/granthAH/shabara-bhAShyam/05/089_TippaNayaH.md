@@ -2,8 +2,10 @@
 title: ८९ टिप्पन्यः
 
 ---
-- 5/272: E2: ity uttaraḥ pakṣaḥ. tad
-- 5/273: E2: taddharmeti
+
+[^5/272]: E2: ity uttaraḥ pakṣaḥ. tad
+
+[^5/273]: E2: taddharmeti
 
 ____________________________________________
 

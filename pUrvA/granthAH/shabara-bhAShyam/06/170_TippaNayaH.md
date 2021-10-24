@@ -2,10 +2,14 @@
 title: १७० टिप्पन्यः
 
 ---
-- 6/446: E1,6; E2: utobhayathāpi; E2 (v.l.): utobhayam api
-- 6/447: E1,6,E2 (v.l.); E2: dravyasaṃbhavārthaṃ
-- 6/448: E1,6; E2: yāñcākrayaṇam arthavad bhaviṣyati. tad
-- 6/449: E1,6; E2: tathā
+
+[^6/446]: E1,6; E2: utobhayathāpi; E2 (v.l.): utobhayam api
+
+[^6/447]: E1,6,E2 (v.l.); E2: dravyasaṃbhavārthaṃ
+
+[^6/448]: E1,6; E2: yāñcākrayaṇam arthavad bhaviṣyati. tad
+
+[^6/449]: E1,6; E2: tathā
 
 ____________________________________________
 

@@ -2,9 +2,12 @@
 title: २०९ टिप्पन्यः
 
 ---
-- 3/631: E2 und 4 geben na in Klammern
-- 3/632: E2: 4,532, E4: 4,821; E6: 1,259
-- 3/633: E2,4: sarvāvasthasya prakaraṇam
+
+[^3/631]: E2 und 4 geben na in Klammern
+
+[^3/632]: E2: 4,532, E4: 4,821; E6: 1,259
+
+[^3/633]: E2,4: sarvāvasthasya prakaraṇam
 
 ____________________________________________
 

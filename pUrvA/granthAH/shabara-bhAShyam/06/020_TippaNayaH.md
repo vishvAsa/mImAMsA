@@ -2,38 +2,70 @@
 title: २० टिप्पन्यः
 
 ---
-- 6/52: E1,6; E2: viśeṣyamāṇe
-- 6/53: E1 (v.l.): aviśeṣād yatkiṃcid iti gamyate
-- 6/54: E1 (fn.): Einige HSS haben: cintitam nicht
-- 6/55: E1,6; E2: nitye 'nupapannaṃ
-- 6/56: E2: 5,281; E6: 2,160
-- 6/57: E1,6; E2: eva hīyate
-- 6/58: E2 (v.l.): ubhayārtheta viśiṣṭārtir
-- 6/59: E1,6; E2: avirviśeṣṭagatāpy
-- 6/60: E1,6; E2: nimitta
-- 6/61: E1,6; E2: haviśekṣyati (?)
-- 6/62: E2 (v.l.): pratyāyayati
-- 6/63: E1,6; E2: evam abhihite na kṛṣṇām
-- 6/64: E2: 5,282; E6: 2,160
-- 6/65: E1 (v.l.): aśuklaśabdāt
-- 6/66: E1,6,E2 (v.l.); E2: pañcaśarāvaḥ kartavyaḥ
-- 6/67: E2 (v.l.): viyutyeti
-- 6/68: E1,6; E2: tatrobhayaviśeṣaṇaviśiṣṭam
-- 6/69: E1,6, E2 (v.l.); E1 (v.l.), E2: kṛtī
-- 6/70: E2 (v.l.): tasyārthaḥ
-- 6/71: E2: 5,284; E6: 2,161
-- 6/72: E2 (v.l.): haviṣobhayaśabdasya
-- 6/73: E1,6; E2: ko vā viśeṣa
-- 6/74: E2 (v.l.): tad ucyate
-- 6/75: E1,6,E2 (v.l.); E2: nirdiṣṭe
-- 6/76: E2: 5,285; E6: 2,162
-- 6/77: E2: haviṣāviśeṣyamāṇāyam
-- 6/78: E2 om. na
-- 6/79: E2: punaś cobhayahaviḥśabdāv ārtiviśeṣaṇārtham
-- 6/80: E1,6,E2 (v.l.); E2: tantreṇārtyubhayāśrayalakṣaṇatve
-- 6/81: E1,6; E2: tathāpy aviśiṣṭam
-- 6/82: E2: 5,287; E6: 2,163
-- 6/83: E1,6; E2: 'nyatarasmin
+
+[^6/52]: E1,6; E2: viśeṣyamāṇe
+
+[^6/53]: E1 (v.l.): aviśeṣād yatkiṃcid iti gamyate
+
+[^6/54]: E1 (fn.): Einige HSS haben: cintitam nicht
+
+[^6/55]: E1,6; E2: nitye 'nupapannaṃ
+
+[^6/56]: E2: 5,281; E6: 2,160
+
+[^6/57]: E1,6; E2: eva hīyate
+
+[^6/58]: E2 (v.l.): ubhayārtheta viśiṣṭārtir
+
+[^6/59]: E1,6; E2: avirviśeṣṭagatāpy
+
+[^6/60]: E1,6; E2: nimitta
+
+[^6/61]: E1,6; E2: haviśekṣyati (?)
+
+[^6/62]: E2 (v.l.): pratyāyayati
+
+[^6/63]: E1,6; E2: evam abhihite na kṛṣṇām
+
+[^6/64]: E2: 5,282; E6: 2,160
+
+[^6/65]: E1 (v.l.): aśuklaśabdāt
+
+[^6/66]: E1,6,E2 (v.l.); E2: pañcaśarāvaḥ kartavyaḥ
+
+[^6/67]: E2 (v.l.): viyutyeti
+
+[^6/68]: E1,6; E2: tatrobhayaviśeṣaṇaviśiṣṭam
+
+[^6/69]: E1,6, E2 (v.l.); E1 (v.l.), E2: kṛtī
+
+[^6/70]: E2 (v.l.): tasyārthaḥ
+
+[^6/71]: E2: 5,284; E6: 2,161
+
+[^6/72]: E2 (v.l.): haviṣobhayaśabdasya
+
+[^6/73]: E1,6; E2: ko vā viśeṣa
+
+[^6/74]: E2 (v.l.): tad ucyate
+
+[^6/75]: E1,6,E2 (v.l.); E2: nirdiṣṭe
+
+[^6/76]: E2: 5,285; E6: 2,162
+
+[^6/77]: E2: haviṣāviśeṣyamāṇāyam
+
+[^6/78]: E2 om. na
+
+[^6/79]: E2: punaś cobhayahaviḥśabdāv ārtiviśeṣaṇārtham
+
+[^6/80]: E1,6,E2 (v.l.); E2: tantreṇārtyubhayāśrayalakṣaṇatve
+
+[^6/81]: E1,6; E2: tathāpy aviśiṣṭam
+
+[^6/82]: E2: 5,287; E6: 2,163
+
+[^6/83]: E1,6; E2: 'nyatarasmin
 
 ____________________________________________
 

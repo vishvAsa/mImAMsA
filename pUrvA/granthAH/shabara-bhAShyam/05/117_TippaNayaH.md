@@ -2,9 +2,12 @@
 title: ११७ टिप्पन्यः
 
 ---
-- 5/353: E1 gibt upanayanena saha pravarteran in Klammern
-- 5/354: Vgl. zu MS 1.3.1
-- 5/355: E2: 5,238; E6: 2,137
+
+[^5/353]: E1 gibt upanayanena saha pravarteran in Klammern
+
+[^5/354]: Vgl. zu MS 1.3.1
+
+[^5/355]: E2: 5,238; E6: 2,137
 
 ____________________________________________
 

@@ -2,10 +2,14 @@
 title: ५९ टिप्पन्यः
 
 ---
-- 4/201: E2: abhyavayantīti
-- 4/202: Mait. S. 4.8.5
-- 4/203: E2: yad audumbarī; E6: yadīnduvarī
-- 4/204: Mait.S. 4.8.5
+
+[^4/201]: E2: abhyavayantīti
+
+[^4/202]: Mait. S. 4.8.5
+
+[^4/203]: E2: yad audumbarī; E6: yadīnduvarī
+
+[^4/204]: Mait.S. 4.8.5
 
 ____________________________________________
 

@@ -2,8 +2,10 @@
 title: ११५ टिप्पन्यः
 
 ---
-- 5/346: E2: 5,234; E6: 2,135
-- 5/347: Jha schlägt vor, mit MS nañ saṃbadhyate zu lesen
+
+[^5/346]: E2: 5,234; E6: 2,135
+
+[^5/347]: Jha schlägt vor, mit MS nañ saṃbadhyate zu lesen
 
 ____________________________________________
 

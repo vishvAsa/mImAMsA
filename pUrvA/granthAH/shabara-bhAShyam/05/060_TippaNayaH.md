@@ -2,13 +2,20 @@
 title: ६० टिप्पन्यः
 
 ---
-- 5/185: E2,6: yajñasādhanavadhakārī
-- 5/186: E2,6: yajñavadhakārī
-- 5/187: E2,6: yajñavadho
-- 5/188: E2,6: yajñavadhaḥ
-- 5/189: E1 gibt kukṣāv in Klammern
-- 5/190: Tait.Br. 1.5.9.7
-- 5/191: Vgl. MS 4.1.17
+
+[^5/185]: E2,6: yajñasādhanavadhakārī
+
+[^5/186]: E2,6: yajñavadhakārī
+
+[^5/187]: E2,6: yajñavadho
+
+[^5/188]: E2,6: yajñavadhaḥ
+
+[^5/189]: E1 gibt kukṣāv in Klammern
+
+[^5/190]: Tait.Br. 1.5.9.7
+
+[^5/191]: Vgl. MS 4.1.17
 
 ____________________________________________
 

@@ -2,8 +2,10 @@
 title: २५० टिप्पन्यः
 
 ---
-- 3/716: E1 gibt idaṃ padottaraṃ sūtram in Klammern
-- 3/717: E2: 4,597; E4: 4,942; E6: 1,279
+
+[^3/716]: E1 gibt idaṃ padottaraṃ sūtram in Klammern
+
+[^3/717]: E2: 4,597; E4: 4,942; E6: 1,279
 
 ____________________________________________
 

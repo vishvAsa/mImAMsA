@@ -2,10 +2,14 @@
 title: १५ टिप्पन्यः
 
 ---
-- 6/32: E2 (v.l.): na śakya
-- 6/33: E2: ekadeśakṣāmo
-- 6/34: E2 (v.l.): niyamenāgnisaṃyoge hy asya sūkṣmā
-- 6/35: E2: 5,277; E6: 2,158
+
+[^6/32]: E2 (v.l.): na śakya
+
+[^6/33]: E2: ekadeśakṣāmo
+
+[^6/34]: E2 (v.l.): niyamenāgnisaṃyoge hy asya sūkṣmā
+
+[^6/35]: E2: 5,277; E6: 2,158
 
 ____________________________________________
 

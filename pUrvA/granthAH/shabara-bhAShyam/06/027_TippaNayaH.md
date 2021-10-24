@@ -2,8 +2,10 @@
 title: २७ टिप्पन्यः
 
 ---
-- 6/110: E2: 5,291; E6: 2,165
-- 6/111: E2: niṣprayojanasyārthe; E6: niṣprayojanasyātha
+
+[^6/110]: E2: 5,291; E6: 2,165
+
+[^6/111]: E2: niṣprayojanasyārthe; E6: niṣprayojanasyātha
 
 ____________________________________________
 

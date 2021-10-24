@@ -2,8 +2,10 @@
 title: ११५ टिप्पन्यः
 
 ---
-- 3/420: E2,4,6: karmaṇertset (karmaṇā īrtset)
-- 3/421: Vgl. Tait.S. 3.4.6.2; dazu auch Jha, Übs., Bd.1, S.516
+
+[^3/420]: E2,4,6: karmaṇertset (karmaṇā īrtset)
+
+[^3/421]: Vgl. Tait.S. 3.4.6.2; dazu auch Jha, Übs., Bd.1, S.516
 
 ____________________________________________
 

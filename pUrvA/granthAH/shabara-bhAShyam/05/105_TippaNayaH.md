@@ -2,8 +2,10 @@
 title: १०५ टिप्पन्यः
 
 ---
-- 5/318: E2: svargakāmo nety
-- 5/319: E2: nāpy anyasya
+
+[^5/318]: E2: svargakāmo nety
+
+[^5/319]: E2: nāpy anyasya
 
 ____________________________________________
 

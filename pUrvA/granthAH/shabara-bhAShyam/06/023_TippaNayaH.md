@@ -2,10 +2,14 @@
 title: २३ टिप्पन्यः
 
 ---
-- 6/89: E1,6; E2: yasyobhāv agnī anugatāv
-- 6/90: E1,6; E2: 'nyatarasyārto
-- 6/91: E1 (v.l.): ity evainam eva tat samindhata
-- 6/92: E2: 5,289; E6: 2,164
+
+[^6/89]: E1,6; E2: yasyobhāv agnī anugatāv
+
+[^6/90]: E1,6; E2: 'nyatarasyārto
+
+[^6/91]: E1 (v.l.): ity evainam eva tat samindhata
+
+[^6/92]: E2: 5,289; E6: 2,164
 
 ____________________________________________
 

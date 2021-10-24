@@ -2,8 +2,10 @@
 title: १७३ टिप्पन्यः
 
 ---
-- 3/546: E2,4 om. vā
-- 3/547: E1 gibt kiṃ phalacamasaṃ bhakṣayed ity arthaḥ, uta phalacamasena yajeteti in Klammern
+
+[^3/546]: E2,4 om. vā
+
+[^3/547]: E1 gibt kiṃ phalacamasaṃ bhakṣayed ity arthaḥ, uta phalacamasena yajeteti in Klammern
 
 ____________________________________________
 

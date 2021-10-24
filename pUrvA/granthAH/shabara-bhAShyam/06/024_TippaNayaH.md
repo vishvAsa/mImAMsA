@@ -2,13 +2,20 @@
 title: २४ टिप्पन्यः
 
 ---
-- 6/93: E2 (v.l.): dravyotpatteś cobhayoḥ
-- 6/94: E1 (v.l.): tasyā
-- 6/95: E1,6; E2: viguṇaṃ hi syāt
-- 6/96: E1,6; E2: saṃskāraḥ
-- 6/97: Tait.Br. 1.1.10.5
-- 6/98: E1,6; E2: juhotīti hi śrūyate
-- 6/99: E2 om. hi
+
+[^6/93]: E2 (v.l.): dravyotpatteś cobhayoḥ
+
+[^6/94]: E1 (v.l.): tasyā
+
+[^6/95]: E1,6; E2: viguṇaṃ hi syāt
+
+[^6/96]: E1,6; E2: saṃskāraḥ
+
+[^6/97]: Tait.Br. 1.1.10.5
+
+[^6/98]: E1,6; E2: juhotīti hi śrūyate
+
+[^6/99]: E2 om. hi
 
 ____________________________________________
 

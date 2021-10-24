@@ -2,11 +2,16 @@
 title: १२३ टिप्पन्यः
 
 ---
-- 6/333: E1,6,E2 (v.l.); E2: kṛtabhāṇḍakāni
-- 6/334: E2: 5,341; E6: 2,199
-- 6/335: E1,6; E2: sarvato
-- 6/336: E1,6,E2 (v.l.); E2: kṛtabhāṇḍakānīti
-- 6/337: E1,6; E2: viśvajiti dānaṃ pratīkṣeta. naimittikaṃ tasmān na
+
+[^6/333]: E1,6,E2 (v.l.); E2: kṛtabhāṇḍakāni
+
+[^6/334]: E2: 5,341; E6: 2,199
+
+[^6/335]: E1,6; E2: sarvato
+
+[^6/336]: E1,6,E2 (v.l.); E2: kṛtabhāṇḍakānīti
+
+[^6/337]: E1,6; E2: viśvajiti dānaṃ pratīkṣeta. naimittikaṃ tasmān na
 
 ____________________________________________
 

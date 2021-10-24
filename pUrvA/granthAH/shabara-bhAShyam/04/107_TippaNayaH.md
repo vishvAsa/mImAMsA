@@ -2,10 +2,14 @@
 title: १०७ टिप्पन्यः
 
 ---
-- 4/372: E2, E1 (Fn.): āmanasyāmanasya devā iti
-- 4/373: E2: ity evānupajyate
-- 4/374: E2: āmanasyāmanasya devā iti
-- 4/375: E2: 5,91; E6: 2,55
+
+[^4/372]: E2, E1 (Fn.): āmanasyāmanasya devā iti
+
+[^4/373]: E2: ity evānupajyate
+
+[^4/374]: E2: āmanasyāmanasya devā iti
+
+[^4/375]: E2: 5,91; E6: 2,55
 
 ____________________________________________
 

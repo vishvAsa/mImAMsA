@@ -2,9 +2,12 @@
 title: ५९ टिप्पन्यः
 
 ---
-- 5/182: E2: veti
-- 5/183: E2: 5,188; E6: 2,111
-- 5/184: E1 gibt puṃliṅgena viśeṣeṇa nirdeśo bhavati svargakāmo yajeteti in Klammern
+
+[^5/182]: E2: veti
+
+[^5/183]: E2: 5,188; E6: 2,111
+
+[^5/184]: E1 gibt puṃliṅgena viśeṣeṇa nirdeśo bhavati svargakāmo yajeteti in Klammern
 
 ____________________________________________
 

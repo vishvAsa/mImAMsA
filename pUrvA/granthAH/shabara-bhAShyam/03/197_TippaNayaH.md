@@ -2,9 +2,12 @@
 title: १९७ टिप्पन्यः
 
 ---
-- 3/602: E1 gibt idaṃ padottaraṃ sūtram in Klammern
-- 3/603: E2,4: tasyāgnīṣomīyārthatve
-- 3/604: E2: 4,521; E4: 4,805; E6: 1,254
+
+[^3/602]: E1 gibt idaṃ padottaraṃ sūtram in Klammern
+
+[^3/603]: E2,4: tasyāgnīṣomīyārthatve
+
+[^3/604]: E2: 4,521; E4: 4,805; E6: 1,254
 
 ____________________________________________
 

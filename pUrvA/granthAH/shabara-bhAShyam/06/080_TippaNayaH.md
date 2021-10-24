@@ -2,8 +2,10 @@
 title: ८० टिप्पन्यः
 
 ---
-- 6/229: E2: 5,320; E6: 2,183
-- 6/230: E1,6; E2: abhidhīyate, keśakīṭāv apannam, anyena vopaghātenopahatam, tadvyāpabhojyam āryāṇām, śeśakīṭāv apannam
+
+[^6/229]: E2: 5,320; E6: 2,183
+
+[^6/230]: E1,6; E2: abhidhīyate, keśakīṭāv apannam, anyena vopaghātenopahatam, tadvyāpabhojyam āryāṇām, śeśakīṭāv apannam
 
 ____________________________________________
 

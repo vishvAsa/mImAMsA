@@ -2,17 +2,28 @@
 title: १३९ टिप्पन्यः
 
 ---
-- 5/414: Tait.S. 2.6.3.3
-- 5/415: Tait.Br. 1.1.106
-- 5/416: E1 gibt mantraḥ in Klammern
-- 5/417: Tait.S. 2.6.1.1
-- 5/418: E2: 5,255; E6: 2,145
-- 5/419: E2: tasmānn agneḥ
-- 5/420: E2: pratinidhīyate. kutaḥ? anyārthasaṃyogāt. mantrasya
-- 5/421: E2: 5,256; E6: 2,145
-- 5/422: E1 gibt chabdāt pratītiṃ kuryāt in Klammern
-- 5/423: E2 om. na
-- 5/424: E2: kriyāntaram pratinidadhyāt. anyārthasaṃyogāt
+
+[^5/414]: Tait.S. 2.6.3.3
+
+[^5/415]: Tait.Br. 1.1.106
+
+[^5/416]: E1 gibt mantraḥ in Klammern
+
+[^5/417]: Tait.S. 2.6.1.1
+
+[^5/418]: E2: 5,255; E6: 2,145
+
+[^5/419]: E2: tasmānn agneḥ
+
+[^5/420]: E2: pratinidhīyate. kutaḥ? anyārthasaṃyogāt. mantrasya
+
+[^5/421]: E2: 5,256; E6: 2,145
+
+[^5/422]: E1 gibt chabdāt pratītiṃ kuryāt in Klammern
+
+[^5/423]: E2 om. na
+
+[^5/424]: E2: kriyāntaram pratinidadhyāt. anyārthasaṃyogāt
 
 ____________________________________________
 

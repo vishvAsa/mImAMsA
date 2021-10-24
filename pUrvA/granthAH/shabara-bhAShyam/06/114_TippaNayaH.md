@@ -2,10 +2,14 @@
 title: ११४ टिप्पन्यः
 
 ---
-- 6/308: E1,6; E2: vipratiṣedho hi bhavati
-- 6/309: E1 (v.l.): taṃ pakṣaṃ samavardheyur
-- 6/310: E2: śarīrasaṃskāraḥ parilupyeta; E2 (v.l.), E1,6: śarīrasaṃskārāḥ parilupyeran
-- 6/311: E1 (v.l.): na tathā kāryam
+
+[^6/308]: E1,6; E2: vipratiṣedho hi bhavati
+
+[^6/309]: E1 (v.l.): taṃ pakṣaṃ samavardheyur
+
+[^6/310]: E2: śarīrasaṃskāraḥ parilupyeta; E2 (v.l.), E1,6: śarīrasaṃskārāḥ parilupyeran
+
+[^6/311]: E1 (v.l.): na tathā kāryam
 
 ____________________________________________
 

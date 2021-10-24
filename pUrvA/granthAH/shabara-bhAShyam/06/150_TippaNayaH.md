@@ -2,10 +2,14 @@
 title: १५० टिप्पन्यः
 
 ---
-- 6/410: E1 (v.l.): uttareṇārdham
-- 6/411: E1,6; E2: iti
-- 6/412: E1 (v.l.): homādīnākāṅkṣyante
-- 6/413: E1 (v.l.): saṃskṛtāgninirvartyatvam
+
+[^6/410]: E1 (v.l.): uttareṇārdham
+
+[^6/411]: E1,6; E2: iti
+
+[^6/412]: E1 (v.l.): homādīnākāṅkṣyante
+
+[^6/413]: E1 (v.l.): saṃskṛtāgninirvartyatvam
 
 ____________________________________________
 

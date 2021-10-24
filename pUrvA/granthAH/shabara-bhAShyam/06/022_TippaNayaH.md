@@ -2,9 +2,12 @@
 title: २२ टिप्पन्यः
 
 ---
-- 6/86: E2: 5,288; E6: 2,163
-- 6/87: E1,6; E2: tato homābhiṣavau
-- 6/88: E1,6,,E2 (fn.); E2 ubhābhyāṃ nimittābhyāṃ bhakṣaṇam
+
+[^6/86]: E2: 5,288; E6: 2,163
+
+[^6/87]: E1,6; E2: tato homābhiṣavau
+
+[^6/88]: E1,6,,E2 (fn.); E2 ubhābhyāṃ nimittābhyāṃ bhakṣaṇam
 
 ____________________________________________
 

@@ -2,14 +2,22 @@
 title: ५६ टिप्पन्यः
 
 ---
-- 5/164: E2: 5,183; E6: 2,107
-- 5/165: E2,6: vākyabhedaprasaṅgaḥ
-- 5/166: Jha (2,969) schlägt mit einer HS evam ayāgakartavyatāyāṃ vor
-- 5/167: E2 om. iti
-- 5/168: E2 (Fn.): saṃbandhād avagamyate
-- 5/169: E2 (Fn.): manyase
-- 5/170: E2: bhavet
-- 5/171: E2: 5,183; E6: 2,108
+
+[^5/164]: E2: 5,183; E6: 2,107
+
+[^5/165]: E2,6: vākyabhedaprasaṅgaḥ
+
+[^5/166]: Jha (2,969) schlägt mit einer HS evam ayāgakartavyatāyāṃ vor
+
+[^5/167]: E2 om. iti
+
+[^5/168]: E2 (Fn.): saṃbandhād avagamyate
+
+[^5/169]: E2 (Fn.): manyase
+
+[^5/170]: E2: bhavet
+
+[^5/171]: E2: 5,183; E6: 2,108
 
 ____________________________________________
 

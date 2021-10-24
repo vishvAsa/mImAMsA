@@ -2,11 +2,16 @@
 title: १०९ टिप्पन्यः
 
 ---
-- 5/331: E2: kriyāniyamyatvāt
-- 5/332: E2: 5,231; E6: 2,132
-- 5/333: E2: ārambhaparisamāpti
-- 5/334: E2: kartavyam iti codyate yad iṣṭaphalam. nanv
-- 5/335: E2: grāmādikāmena
+
+[^5/331]: E2: kriyāniyamyatvāt
+
+[^5/332]: E2: 5,231; E6: 2,132
+
+[^5/333]: E2: ārambhaparisamāpti
+
+[^5/334]: E2: kartavyam iti codyate yad iṣṭaphalam. nanv
+
+[^5/335]: E2: grāmādikāmena
 
 ____________________________________________
 

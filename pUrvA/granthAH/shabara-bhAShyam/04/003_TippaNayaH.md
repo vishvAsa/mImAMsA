@@ -2,29 +2,52 @@
 title: ०३ टिप्पन्यः
 
 ---
-- 4/3: E2: natha (?)
-- 4/4: E2: 5,2; E6: 2,1
-- 4/5: E1 hat yasmin prītiḥ puruṣasya, yasmin kṛte padārthe puruṣasya pratītir bhavati in Klammern
-- 4/6: E2: tasya lipsārthalakṣaṇā. tasya lipsārthenaiva bhavati
-- 4/7: Tait.S. 2.6.5.2
-- 4/8: E2,6: bādarir
-- 4/9: MS 3.1.3
-- 4/10: E2: upakārāya, yata ebhyaḥ
-- 4/11: E2 om. śeṣa ity uktam
-- 4/12: MS 3.1.2
-- 4/13: E2: 5,3; E6: 2,2
-- 4/14: Tait.S. 2.2.2.4-5
-- 4/15: Tait.S. 2.3.2.5
-- 4/16: E2: kāmaśrutigṛhītaṃ
-- 4/17: E2: savargāl; E1 (Fn.): svargāl
-- 4/18: E2: 5,4; E6: 2,3
-- 4/19: Tait.S. 2.2.5.4
-- 4/20: E6: bahir
-- 4/21: E2: eva, karmārtham upārjito 'pi vrīhivrīhir eva, tasmān
-- 4/22: E2: phalavataikavākyabhāvāt
-- 4/23: E2: phalavataivaikavākyabhāvaḥ
-- 4/24: E2: kṣāmavatyādīnāṃ
-- 4/25: E2: 5,7: E6: 2,3
+
+[^4/3]: E2: natha (?)
+
+[^4/4]: E2: 5,2; E6: 2,1
+
+[^4/5]: E1 hat yasmin prītiḥ puruṣasya, yasmin kṛte padārthe puruṣasya pratītir bhavati in Klammern
+
+[^4/6]: E2: tasya lipsārthalakṣaṇā. tasya lipsārthenaiva bhavati
+
+[^4/7]: Tait.S. 2.6.5.2
+
+[^4/8]: E2,6: bādarir
+
+[^4/9]: MS 3.1.3
+
+[^4/10]: E2: upakārāya, yata ebhyaḥ
+
+[^4/11]: E2 om. śeṣa ity uktam
+
+[^4/12]: MS 3.1.2
+
+[^4/13]: E2: 5,3; E6: 2,2
+
+[^4/14]: Tait.S. 2.2.2.4-5
+
+[^4/15]: Tait.S. 2.3.2.5
+
+[^4/16]: E2: kāmaśrutigṛhītaṃ
+
+[^4/17]: E2: savargāl; E1 (Fn.): svargāl
+
+[^4/18]: E2: 5,4; E6: 2,3
+
+[^4/19]: Tait.S. 2.2.5.4
+
+[^4/20]: E6: bahir
+
+[^4/21]: E2: eva, karmārtham upārjito 'pi vrīhivrīhir eva, tasmān
+
+[^4/22]: E2: phalavataikavākyabhāvāt
+
+[^4/23]: E2: phalavataivaikavākyabhāvaḥ
+
+[^4/24]: E2: kṣāmavatyādīnāṃ
+
+[^4/25]: E2: 5,7: E6: 2,3
 
 ____________________________________________
 

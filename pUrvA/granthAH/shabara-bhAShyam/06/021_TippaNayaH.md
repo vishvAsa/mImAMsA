@@ -2,8 +2,10 @@
 title: २१ टिप्पन्यः
 
 ---
-- 6/84: E2 hat bhakṣān in Klammern
-- 6/85: E1 (v.l.): apareṇāpi, hutvā bhakṣayantīti
+
+[^6/84]: E2 hat bhakṣān in Klammern
+
+[^6/85]: E1 (v.l.): apareṇāpi, hutvā bhakṣayantīti
 
 ____________________________________________
 

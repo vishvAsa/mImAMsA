@@ -2,14 +2,22 @@
 title: ४३ टिप्पन्यः
 
 ---
-- 6/160: E1,6; E2: abhyudiyāt
-- 6/161: E1,6; E2: sa tredhā
-- 6/162: Tait.S. 2.5.5.2
-- 6/163: E1,6; E2: kuryāt
-- 6/164: E1,6; E2: śipiviṣṭāya śṛte carum iti. yajatis
-- 6/165: E1,6; E2: dravyaphalabhoktṛsaṃyogād
-- 6/166: E1,6; E2: yāgavidhānaṃ
-- 6/167: E2: 5,301; E6: 2,171
+
+[^6/160]: E1,6; E2: abhyudiyāt
+
+[^6/161]: E1,6; E2: sa tredhā
+
+[^6/162]: Tait.S. 2.5.5.2
+
+[^6/163]: E1,6; E2: kuryāt
+
+[^6/164]: E1,6; E2: śipiviṣṭāya śṛte carum iti. yajatis
+
+[^6/165]: E1,6; E2: dravyaphalabhoktṛsaṃyogād
+
+[^6/166]: E1,6; E2: yāgavidhānaṃ
+
+[^6/167]: E2: 5,301; E6: 2,171
 
 ____________________________________________
 

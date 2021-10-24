@@ -2,12 +2,18 @@
 title: १८ टिप्पन्यः
 
 ---
-- 6/42: E1 (Fn.): 2 HSS haben anyāyatvāt nicht
-- 6/43: E2: ijyagāmī
-- 6/44: E1 hat taddhaviṣka karma santiṣṭheta in Klammern gesetzt
-- 6/45: E2: tena saṃsthānaṃ nimittam
-- 6/46: E1 (v.l.): haviḥṣv eva buddhisaṃbandhād
-- 6/47: E1,6; E2: devadattasaṃbaddhyā
+
+[^6/42]: E1 (Fn.): 2 HSS haben anyāyatvāt nicht
+
+[^6/43]: E2: ijyagāmī
+
+[^6/44]: E1 hat taddhaviṣka karma santiṣṭheta in Klammern gesetzt
+
+[^6/45]: E2: tena saṃsthānaṃ nimittam
+
+[^6/46]: E1 (v.l.): haviḥṣv eva buddhisaṃbandhād
+
+[^6/47]: E1,6; E2: devadattasaṃbaddhyā
 
 ____________________________________________
 

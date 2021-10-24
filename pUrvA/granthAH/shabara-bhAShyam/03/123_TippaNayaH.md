@@ -2,9 +2,12 @@
 title: १२३ टिप्पन्यः
 
 ---
-- 3/447: E1 gibt yajamānārtham in Klammern
-- 3/448: E2,4: somendraṃ
-- 3/449: E2,4: sadupakartuṃ
+
+[^3/447]: E1 gibt yajamānārtham in Klammern
+
+[^3/448]: E2,4: somendraṃ
+
+[^3/449]: E2,4: sadupakartuṃ
 
 ____________________________________________
 

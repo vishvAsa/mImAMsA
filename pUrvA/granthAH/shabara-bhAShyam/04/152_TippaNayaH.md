@@ -2,8 +2,10 @@
 title: १५२ टिप्पन्यः
 
 ---
-- 4/504: Tait.S. 1.8.4.1
-- 4/505: E1 (Fn.): yā yā vikṛtiḥ, sā sā dvyahakālā bhavitum arhatīti
+
+[^4/504]: Tait.S. 1.8.4.1
+
+[^4/505]: E1 (Fn.): yā yā vikṛtiḥ, sā sā dvyahakālā bhavitum arhatīti
 
 ____________________________________________
 

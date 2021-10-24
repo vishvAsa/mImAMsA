@@ -2,19 +2,32 @@
 title: ७३ टिप्पन्यः
 
 ---
-- 5/221: E2: 5,195; E6: 2,116
-- 5/222: E2: nānuvādas
-- 5/223: E2,6: sadvitīyeti
-- 5/224: E2: yugapadadhikaraṇavacanāyāṃ
-- 5/225: E2: 5,197; E6: 2,117
-- 5/226: E2: dhavau
-- 5/227: E2: sahāyata
-- 5/228: Pāṇ. 1.2.67
-- 5/229: E2: 5,198; E6: 2,117
-- 5/230: E2,6: vākyam, kṣaumasaṃbandhasyārthavattvāt
-- 5/231: E2: kim artham
-- 5/232: E2: kṣaumākṣaumayoḥ
-- 5/233: E2: 5,199; E6: 2,118
+
+[^5/221]: E2: 5,195; E6: 2,116
+
+[^5/222]: E2: nānuvādas
+
+[^5/223]: E2,6: sadvitīyeti
+
+[^5/224]: E2: yugapadadhikaraṇavacanāyāṃ
+
+[^5/225]: E2: 5,197; E6: 2,117
+
+[^5/226]: E2: dhavau
+
+[^5/227]: E2: sahāyata
+
+[^5/228]: Pāṇ. 1.2.67
+
+[^5/229]: E2: 5,198; E6: 2,117
+
+[^5/230]: E2,6: vākyam, kṣaumasaṃbandhasyārthavattvāt
+
+[^5/231]: E2: kim artham
+
+[^5/232]: E2: kṣaumākṣaumayoḥ
+
+[^5/233]: E2: 5,199; E6: 2,118
 
 ____________________________________________
 

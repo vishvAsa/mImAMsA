@@ -2,9 +2,12 @@
 title: १७० टिप्पन्यः
 
 ---
-- 3/540: E2,4 om. nanu
-- 3/541: E2: 4,474; E4: 4,754; E6: 1,244
-- 3/542: E2,4 geben yena yājyāgrahaṇenāsau gṛhyeta in Klammern
+
+[^3/540]: E2,4 om. nanu
+
+[^3/541]: E2: 4,474; E4: 4,754; E6: 1,244
+
+[^3/542]: E2,4 geben yena yājyāgrahaṇenāsau gṛhyeta in Klammern
 
 ____________________________________________
 

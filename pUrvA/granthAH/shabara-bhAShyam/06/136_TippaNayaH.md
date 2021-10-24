@@ -2,10 +2,14 @@
 title: १३६ टिप्पन्यः
 
 ---
-- 6/368: E1,6; E2: athedānīm idaṃ saṃdihyate
-- 6/369: E2 (v.l.): kaścid atra bahutvaviśeṣa
-- 6/370: E2 (v.l.): yathākāmaṃ syāt, yathākṛtaṃ sādhu
-- 6/371: E2: 5,348; E6: 2,204
+
+[^6/368]: E1,6; E2: athedānīm idaṃ saṃdihyate
+
+[^6/369]: E2 (v.l.): kaścid atra bahutvaviśeṣa
+
+[^6/370]: E2 (v.l.): yathākāmaṃ syāt, yathākṛtaṃ sādhu
+
+[^6/371]: E2: 5,348; E6: 2,204
 
 ____________________________________________
 

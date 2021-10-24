@@ -2,11 +2,16 @@
 title: १६१ टिप्पन्यः
 
 ---
-- 4/520: Tait.S. 1.8.4.1
-- 4/521: E1 (Fn.): pratibalād
-- 4/522: E2. 5,130; E6: 2,77
-- 4/523: E2: agnihotram anagnihotrakāla
-- 4/524: E1 (Fn.): pratibanlād
+
+[^4/520]: Tait.S. 1.8.4.1
+
+[^4/521]: E1 (Fn.): pratibalād
+
+[^4/522]: E2. 5,130; E6: 2,77
+
+[^4/523]: E2: agnihotram anagnihotrakāla
+
+[^4/524]: E1 (Fn.): pratibanlād
 
 ____________________________________________
 

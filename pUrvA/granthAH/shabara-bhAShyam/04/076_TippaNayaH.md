@@ -2,12 +2,18 @@
 title: ७६ टिप्पन्यः
 
 ---
-- 4/291: E2: iti vā
-- 4/292: E2 om. padam
-- 4/293: E2: 5,70; E6: 2,42
-- 4/294: E2: atra, itaḥ
-- 4/295: E2: vanaspatim iti
-- 4/296: E1 gibt phalakāmapadaṃ dūre 'pi sat tasya vākyasyaikadeśabhūtam ity arthaḥ in Klammern
+
+[^4/291]: E2: iti vā
+
+[^4/292]: E2 om. padam
+
+[^4/293]: E2: 5,70; E6: 2,42
+
+[^4/294]: E2: atra, itaḥ
+
+[^4/295]: E2: vanaspatim iti
+
+[^4/296]: E1 gibt phalakāmapadaṃ dūre 'pi sat tasya vākyasyaikadeśabhūtam ity arthaḥ in Klammern
 
 ____________________________________________
 

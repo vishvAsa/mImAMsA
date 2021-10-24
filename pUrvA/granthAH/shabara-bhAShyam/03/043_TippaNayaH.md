@@ -2,8 +2,10 @@
 title: ४३ टिप्पन्यः
 
 ---
-- 3/182: E1 gibt jyotiṣṭomasamākhyātaḥ in Klammern
-- 3/183: E2: 4,167; E4: 4,87; E6: 1,179
+
+[^3/182]: E1 gibt jyotiṣṭomasamākhyātaḥ in Klammern
+
+[^3/183]: E2: 4,167; E4: 4,87; E6: 1,179
 
 ____________________________________________
 

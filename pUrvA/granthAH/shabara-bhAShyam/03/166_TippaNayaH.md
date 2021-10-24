@@ -2,8 +2,10 @@
 title: १६६ टिप्पन्यः
 
 ---
-- 3/530: E2,4: ajñātabhakṣaṇam
-- 3/531: E1 gibt prāptisūtram etat in Klammern
+
+[^3/530]: E2,4: ajñātabhakṣaṇam
+
+[^3/531]: E1 gibt prāptisūtram etat in Klammern
 
 ____________________________________________
 

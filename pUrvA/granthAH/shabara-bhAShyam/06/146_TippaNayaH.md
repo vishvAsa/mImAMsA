@@ -2,8 +2,10 @@
 title: १४६ टिप्पन्यः
 
 ---
-- 6/397: E1 (v.l.): guṇād anyataraḥ
-- 6/398: E1,6; E2: nātmīyamatapratiṣedhārtham
+
+[^6/397]: E1 (v.l.): guṇād anyataraḥ
+
+[^6/398]: E1,6; E2: nātmīyamatapratiṣedhārtham
 
 ____________________________________________
 

@@ -2,18 +2,30 @@
 title: ७५ टिप्पन्यः
 
 ---
-- 4/279: Tait.S. 2.5.3.6
-- 4/280: Tait.Br. 1.4.7.7
-- 4/281: E2: 5,68; E6: 2,41
-- 4/282: E2,6: ṣaḍapūpā
-- 4/283: E2 om. uttaram
-- 4/284: E1 (Fn.): yāgamātram eṣa
-- 4/285: E2: ca kāryāṇi na
-- 4/286: E1 (Fn.): phalam
-- 4/287: E1 (Fn.): kṣemo 'yaṃ panthā
-- 4/288: E2: vipralambhakāpadeśaḥ
-- 4/289: E2: vipralambhakatve 'pi; E2 (Fn.): vipralambhakakartṛkam
-- 4/290: E2: 5,69; E6: 2,41
+
+[^4/279]: Tait.S. 2.5.3.6
+
+[^4/280]: Tait.Br. 1.4.7.7
+
+[^4/281]: E2: 5,68; E6: 2,41
+
+[^4/282]: E2,6: ṣaḍapūpā
+
+[^4/283]: E2 om. uttaram
+
+[^4/284]: E1 (Fn.): yāgamātram eṣa
+
+[^4/285]: E2: ca kāryāṇi na
+
+[^4/286]: E1 (Fn.): phalam
+
+[^4/287]: E1 (Fn.): kṣemo 'yaṃ panthā
+
+[^4/288]: E2: vipralambhakāpadeśaḥ
+
+[^4/289]: E2: vipralambhakatve 'pi; E2 (Fn.): vipralambhakakartṛkam
+
+[^4/290]: E2: 5,69; E6: 2,41
 
 ____________________________________________
 

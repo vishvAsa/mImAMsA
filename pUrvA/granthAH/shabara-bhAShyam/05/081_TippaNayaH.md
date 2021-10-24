@@ -2,8 +2,10 @@
 title: ८१ टिप्पन्यः
 
 ---
-- 5/252: E1 gibt puruṣaprādhānyaṃ hi vrate in Klammern
-- 5/253: E2,6: evam
+
+[^5/252]: E1 gibt puruṣaprādhānyaṃ hi vrate in Klammern
+
+[^5/253]: E2,6: evam
 
 ____________________________________________
 

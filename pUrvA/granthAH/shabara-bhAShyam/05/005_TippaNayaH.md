@@ -2,18 +2,30 @@
 title: ०५ टिप्पन्यः
 
 ---
-- 5/14: Tait.S. 2.5.8.2
-- 5/15: E2: 5,147; E6: 2,86
-- 5/16: Tait.S. 2.5.10.2
-- 5/17: Vgl. zu MS 10.5.26
-- 5/18: Vgl. ṚV 3.27.4
-- 5/19: Vgl. ṚV 5.28.5
-- 5/20: Vgl. MS 5.2.19
-- 5/21: E1 gibt saṃstavād ity arthaḥ in Klammern
-- 5/22: E2: samidhyamānavatī dyauḥ
-- 5/23: E2: samiddhavatī pṛthivī
-- 5/24: E2: antarikṣasaṃstutyā
-- 5/25: E2: tasmin
+
+[^5/14]: Tait.S. 2.5.8.2
+
+[^5/15]: E2: 5,147; E6: 2,86
+
+[^5/16]: Tait.S. 2.5.10.2
+
+[^5/17]: Vgl. zu MS 10.5.26
+
+[^5/18]: Vgl. ṚV 3.27.4
+
+[^5/19]: Vgl. ṚV 5.28.5
+
+[^5/20]: Vgl. MS 5.2.19
+
+[^5/21]: E1 gibt saṃstavād ity arthaḥ in Klammern
+
+[^5/22]: E2: samidhyamānavatī dyauḥ
+
+[^5/23]: E2: samiddhavatī pṛthivī
+
+[^5/24]: E2: antarikṣasaṃstutyā
+
+[^5/25]: E2: tasmin
 
 ____________________________________________
 

@@ -2,8 +2,10 @@
 title: ११ टिप्पन्यः
 
 ---
-- 6/25: E1,6; E2 om. vacanād
-- 6/26: E2 (v.l.): na guṇā guṇārthā bhavitum arhanti
+
+[^6/25]: E1,6; E2 om. vacanād
+
+[^6/26]: E2 (v.l.): na guṇā guṇārthā bhavitum arhanti
 
 ____________________________________________
 

@@ -2,8 +2,10 @@
 title: ६५ टिप्पन्यः
 
 ---
-- 6/204: E1 hat sāmarthyād ity arthaḥ in Klammern
-- 6/205: E1,6; E2: nvatīveti(?)
+
+[^6/204]: E1 hat sāmarthyād ity arthaḥ in Klammern
+
+[^6/205]: E1,6; E2: nvatīveti(?)
 
 ____________________________________________
 

@@ -2,8 +2,10 @@
 title: १५३ टिप्पन्यः
 
 ---
-- 6/417: E1,6,E2 (v.l.); E2: aviśeṣāt. caturhotṝṇām ayaṃ dharma
-- 6/418: E1,6; E2: na viśeṣaḥ kratuśeṣāṇām akratuśeṣāṇāṃ ceti. tasmāt
+
+[^6/417]: E1,6,E2 (v.l.); E2: aviśeṣāt. caturhotṝṇām ayaṃ dharma
+
+[^6/418]: E1,6; E2: na viśeṣaḥ kratuśeṣāṇām akratuśeṣāṇāṃ ceti. tasmāt
 
 ____________________________________________
 

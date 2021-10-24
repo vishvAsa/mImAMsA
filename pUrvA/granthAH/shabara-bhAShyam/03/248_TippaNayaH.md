@@ -2,7 +2,8 @@
 title: २४८ टिप्पन्यः
 
 ---
-- 3/714: E1 gibt yena karmakaraṇena sāmarthyam upajanyate in Klammern
+
+[^3/714]: E1 gibt yena karmakaraṇena sāmarthyam upajanyate in Klammern
 
 ____________________________________________
 

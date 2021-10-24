@@ -2,14 +2,22 @@
 title: १२० टिप्पन्यः
 
 ---
-- 3/431: Tait.S. 2.3.12.1
-- 3/432: E2,4: taṃ niravapat
-- 3/433: E2,4: varuṇo vā etaṃ
-- 3/434: E1 gibt prayacchati in Klammern
-- 3/435: E2: 4,409; E4: 4,633; E6: 1,226
-- 3/436: MS 12.2.23 (v.l.: pūrvacodanāl)
-- 3/437: E2 om. ca
-- 3/438: E1 gibt yo dadāti in Klammern
+
+[^3/431]: Tait.S. 2.3.12.1
+
+[^3/432]: E2,4: taṃ niravapat
+
+[^3/433]: E2,4: varuṇo vā etaṃ
+
+[^3/434]: E1 gibt prayacchati in Klammern
+
+[^3/435]: E2: 4,409; E4: 4,633; E6: 1,226
+
+[^3/436]: MS 12.2.23 (v.l.: pūrvacodanāl)
+
+[^3/437]: E2 om. ca
+
+[^3/438]: E1 gibt yo dadāti in Klammern
 
 ____________________________________________
 

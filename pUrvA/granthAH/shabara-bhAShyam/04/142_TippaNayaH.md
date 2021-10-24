@@ -2,10 +2,14 @@
 title: १४२ टिप्पन्यः
 
 ---
-- 4/477: E2: 5,113; E6: 2,70
-- 4/478: E1 (Fn.): dvitīyo 'pi padārtha ārabdhavyaḥ
-- 4/479: E2: teṣāṃ teṣāṃ
-- 4/480: E1 (Fn.): 'bhyadhikaiḥ
+
+[^4/477]: E2: 5,113; E6: 2,70
+
+[^4/478]: E1 (Fn.): dvitīyo 'pi padārtha ārabdhavyaḥ
+
+[^4/479]: E2: teṣāṃ teṣāṃ
+
+[^4/480]: E1 (Fn.): 'bhyadhikaiḥ
 
 ____________________________________________
 

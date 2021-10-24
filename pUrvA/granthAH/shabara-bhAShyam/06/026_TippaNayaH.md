@@ -2,8 +2,10 @@
 title: २६ टिप्पन्यः
 
 ---
-- 6/108: E1,6,E2 (v.l.); E2: dravyadevatāvidher
-- 6/109: E1,6,E2 (v.l.); E2: nimitte vāṅgabhūtaṃ karmānataraṃ yajatiḥ, dravyadevatāvidheḥ
+
+[^6/108]: E1,6,E2 (v.l.); E2: dravyadevatāvidher
+
+[^6/109]: E1,6,E2 (v.l.); E2: nimitte vāṅgabhūtaṃ karmānataraṃ yajatiḥ, dravyadevatāvidheḥ
 
 ____________________________________________
 

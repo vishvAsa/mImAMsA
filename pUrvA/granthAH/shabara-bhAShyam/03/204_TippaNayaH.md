@@ -2,9 +2,12 @@
 title: २०४ टिप्पन्यः
 
 ---
-- 3/623: E2,4 om. vā
-- 3/624: E1 gibt guṇakāmānāṃ pravṛttir vā prayojanam adhikaraṇacintāyāḥ in Klammern
-- 3/625: E2,4: evaṃjātīyakasamānavidhānaṃ
+
+[^3/623]: E2,4 om. vā
+
+[^3/624]: E1 gibt guṇakāmānāṃ pravṛttir vā prayojanam adhikaraṇacintāyāḥ in Klammern
+
+[^3/625]: E2,4: evaṃjātīyakasamānavidhānaṃ
 
 ____________________________________________
 

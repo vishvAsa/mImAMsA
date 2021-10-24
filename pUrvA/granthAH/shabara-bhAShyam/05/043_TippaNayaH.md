@@ -2,7 +2,8 @@
 title: ४३ टिप्पन्यः
 
 ---
-- 5/120: E2: naitad asti kṛtsnotkarṣa iti
+
+[^5/120]: E2: naitad asti kṛtsnotkarṣa iti
 
 ____________________________________________
 

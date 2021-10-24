@@ -2,11 +2,16 @@
 title: २४४ टिप्पन्यः
 
 ---
-- 3/704: E1 gibt prākṛtadharmagrahaṇāt in Klammern
-- 3/705: E1 gibt codakaprāptaiḥ saṃyuktaḥ in Klammer, E2,4: svair dharmaiś codakaprāptaiḥ saṃyuktaḥ
-- 3/706: E2,4: coṣaṃ puṭair
-- 3/707: ŚPBr 5.2.1.16
-- 3/708: E2: 4,593; E4: 4,933; E6: 1,277
+
+[^3/704]: E1 gibt prākṛtadharmagrahaṇāt in Klammern
+
+[^3/705]: E1 gibt codakaprāptaiḥ saṃyuktaḥ in Klammer, E2,4: svair dharmaiś codakaprāptaiḥ saṃyuktaḥ
+
+[^3/706]: E2,4: coṣaṃ puṭair
+
+[^3/707]: ŚPBr 5.2.1.16
+
+[^3/708]: E2: 4,593; E4: 4,933; E6: 1,277
 
 ____________________________________________
 

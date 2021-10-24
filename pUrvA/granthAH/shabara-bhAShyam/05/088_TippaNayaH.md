@@ -2,11 +2,16 @@
 title: ८८ टिप्पन्यः
 
 ---
-- 5/267: E2: 'dravyasaṃyogaḥ
-- 5/268: E2: yajeteti śabadaḥ
-- 5/269: E2: vipratiṣiddham. tad idam abhidhīyate. tasmād
-- 5/270: E2 hat noch: adhikāro 'dravyasyāpīti
-- 5/271: E2: 5,215; E6: 2,124
+
+[^5/267]: E2: 'dravyasaṃyogaḥ
+
+[^5/268]: E2: yajeteti śabadaḥ
+
+[^5/269]: E2: vipratiṣiddham. tad idam abhidhīyate. tasmād
+
+[^5/270]: E2 hat noch: adhikāro 'dravyasyāpīti
+
+[^5/271]: E2: 5,215; E6: 2,124
 
 ____________________________________________
 

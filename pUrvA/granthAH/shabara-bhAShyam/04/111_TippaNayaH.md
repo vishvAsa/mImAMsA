@@ -2,7 +2,8 @@
 title: १११ टिप्पन्यः
 
 ---
-- 4/381: E1 gibt adhvaryuyajamānayoḥ in Klammern
+
+[^4/381]: E1 gibt adhvaryuyajamānayoḥ in Klammern
 
 ____________________________________________
 

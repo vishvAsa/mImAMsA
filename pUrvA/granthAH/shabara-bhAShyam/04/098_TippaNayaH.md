@@ -2,12 +2,18 @@
 title: ९८ टिप्पन्यः
 
 ---
-- 4/344: E2: darśapūrṇamāsābhyām
-- 4/345: Tait.S. 2.5.6.1
-- 4/346: E2: katham atatparatāsya; E2 (Fn.): kathaṃ vāgrūpāvacanād
-- 4/347: E2: 5,82; E6: 2,50
-- 4/348: E2: yātuḥ
-- 4/349: E2: yaṣṭuḥ
+
+[^4/344]: E2: darśapūrṇamāsābhyām
+
+[^4/345]: Tait.S. 2.5.6.1
+
+[^4/346]: E2: katham atatparatāsya; E2 (Fn.): kathaṃ vāgrūpāvacanād
+
+[^4/347]: E2: 5,82; E6: 2,50
+
+[^4/348]: E2: yātuḥ
+
+[^4/349]: E2: yaṣṭuḥ
 
 ____________________________________________
 

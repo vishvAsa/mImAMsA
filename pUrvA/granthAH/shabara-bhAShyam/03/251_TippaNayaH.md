@@ -2,7 +2,8 @@
 title: २५१ टिप्पन्यः
 
 ---
-- 3/718: E2,4: duḥkhaphalabhogāyādharmaḥ
+
+[^3/718]: E2,4: duḥkhaphalabhogāyādharmaḥ
 
 ____________________________________________
 

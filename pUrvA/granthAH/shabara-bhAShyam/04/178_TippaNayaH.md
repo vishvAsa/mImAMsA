@@ -2,7 +2,8 @@
 title: १७८ टिप्पन्यः
 
 ---
-- 4/561: E1 (Fn.): phalīkaraṇādayaś ca tasyaiva viśeṣāḥ
+
+[^4/561]: E1 (Fn.): phalīkaraṇādayaś ca tasyaiva viśeṣāḥ
 
 ____________________________________________
 

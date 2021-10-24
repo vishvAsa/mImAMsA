@@ -2,9 +2,12 @@
 title: १०६ टिप्पन्यः
 
 ---
-- 5/320: E2: sūktavākaphalārthaṃ
-- 5/321: Tait.Br. 3.5.10.4
-- 5/322: E2: māntravarṇikī devatā, tataḥ
+
+[^5/320]: E2: sūktavākaphalārthaṃ
+
+[^5/321]: Tait.Br. 3.5.10.4
+
+[^5/322]: E2: māntravarṇikī devatā, tataḥ
 
 ____________________________________________
 

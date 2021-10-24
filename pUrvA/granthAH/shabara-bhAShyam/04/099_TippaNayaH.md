@@ -2,11 +2,16 @@
 title: ९९ टिप्पन्यः
 
 ---
-- 4/350: Tait.S. 2.2.5.4
-- 4/351: E2: iti vidhāyāmnāyate, yasmiñ jāta etām iṣṭaṃ nirvapati pūta eva sa tejasvy annād indriyāvī paśumān bhavatīti. tatra
-- 4/352: Tait.S. 2.6.3.6
-- 4/353: E2: 5,83; E6: 2,50
-- 4/354: E2 om. iti
+
+[^4/350]: Tait.S. 2.2.5.4
+
+[^4/351]: E2: iti vidhāyāmnāyate, yasmiñ jāta etām iṣṭaṃ nirvapati pūta eva sa tejasvy annād indriyāvī paśumān bhavatīti. tatra
+
+[^4/352]: Tait.S. 2.6.3.6
+
+[^4/353]: E2: 5,83; E6: 2,50
+
+[^4/354]: E2 om. iti
 
 ____________________________________________
 

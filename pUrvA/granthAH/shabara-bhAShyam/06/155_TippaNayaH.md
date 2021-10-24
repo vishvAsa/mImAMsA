@@ -2,9 +2,12 @@
 title: १५५ टिप्पन्यः
 
 ---
-- 6/421: E2 (v.l.): sarvaśeṣatvād eva
-- 6/422: E1,6; E2: vānāhitāgner
-- 6/423: E2 (v.l.): ye japas teṣām ayam anuvādaḥ
+
+[^6/421]: E2 (v.l.): sarvaśeṣatvād eva
+
+[^6/422]: E1,6; E2: vānāhitāgner
+
+[^6/423]: E2 (v.l.): ye japas teṣām ayam anuvādaḥ
 
 ____________________________________________
 

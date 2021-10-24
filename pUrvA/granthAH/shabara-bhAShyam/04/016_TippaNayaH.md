@@ -2,9 +2,12 @@
 title: १६ टिप्पन्यः
 
 ---
-- 4/65: E1 hat uttamaḥ prayājaḥ paśupuroḍāśaḥ sviṣṭakṛd ity ete yāgā udāharaṇam in Klammern
-- 4/66: E2: pratīyeta
-- 4/67: E2 om. iti
+
+[^4/65]: E1 hat uttamaḥ prayājaḥ paśupuroḍāśaḥ sviṣṭakṛd ity ete yāgā udāharaṇam in Klammern
+
+[^4/66]: E2: pratīyeta
+
+[^4/67]: E2 om. iti
 
 ____________________________________________
 

@@ -2,9 +2,12 @@
 title: ५७ टिप्पन्यः
 
 ---
-- 6/191: E2: nirvāpe 'rdho
-- 6/192: E1,6; E2: itaradevatākaḥ prākṛta itaradevatāko vā
-- 6/193: E2: 5,310; E6: 2,177
+
+[^6/191]: E2: nirvāpe 'rdho
+
+[^6/192]: E1,6; E2: itaradevatākaḥ prākṛta itaradevatāko vā
+
+[^6/193]: E2: 5,310; E6: 2,177
 
 ____________________________________________
 

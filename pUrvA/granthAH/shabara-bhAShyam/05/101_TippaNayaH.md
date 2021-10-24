@@ -2,9 +2,12 @@
 title: १०१ टिप्पन्यः
 
 ---
-- 5/309: E2: evaṃ
-- 5/310: E2: ced bhavān paśyatv avivakṣitam ekatvam iti. pratyarthaṃ
-- 5/311: E2: 5,226; E6: 2,130
+
+[^5/309]: E2: evaṃ
+
+[^5/310]: E2: ced bhavān paśyatv avivakṣitam ekatvam iti. pratyarthaṃ
+
+[^5/311]: E2: 5,226; E6: 2,130
 
 ____________________________________________
 

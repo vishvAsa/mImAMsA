@@ -2,11 +2,16 @@
 title: ५१ टिप्पन्यः
 
 ---
-- 6/180: E1; E2: abhyudayenāparāddhasyeti; E6: abhyudayenāparāhṇasyeti
-- 6/181: E1,6; E2: upāṃśuyājasyāpi
-- 6/182: E1 hat vibhāgaṃ kuryād ity arthaḥ in Klammern
-- 6/183: E2: 5,306; E6: 2,174
-- 6/184: E1,6; E2: devatāntareṇa
+
+[^6/180]: E1; E2: abhyudayenāparāddhasyeti; E6: abhyudayenāparāhṇasyeti
+
+[^6/181]: E1,6; E2: upāṃśuyājasyāpi
+
+[^6/182]: E1 hat vibhāgaṃ kuryād ity arthaḥ in Klammern
+
+[^6/183]: E2: 5,306; E6: 2,174
+
+[^6/184]: E1,6; E2: devatāntareṇa
 
 ____________________________________________
 

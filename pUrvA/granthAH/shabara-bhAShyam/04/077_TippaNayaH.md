@@ -2,10 +2,14 @@
 title: ७७ टिप्पन्यः
 
 ---
-- 4/297: E2: sūkara
-- 4/298: Tait.S. 5.5.11.1
-- 4/299: E2: vaitaṃ gṛhṇātīti
-- 4/300: E2: vyavadhāraṇakalpanāyām api prāmāṇyam. evam
+
+[^4/297]: E2: sūkara
+
+[^4/298]: Tait.S. 5.5.11.1
+
+[^4/299]: E2: vaitaṃ gṛhṇātīti
+
+[^4/300]: E2: vyavadhāraṇakalpanāyām api prāmāṇyam. evam
 
 ____________________________________________
 

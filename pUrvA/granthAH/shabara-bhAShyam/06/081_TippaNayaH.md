@@ -2,9 +2,12 @@
 title: ८१ टिप्पन्यः
 
 ---
-- 6/231: E1,6; E2: jyotiṣṭome prastotrudgātror
-- 6/232: E1,6; E2: yatra yugapad apacchedaḥ
-- 6/233: E1,6; E2: kṛte
+
+[^6/231]: E1,6; E2: jyotiṣṭome prastotrudgātror
+
+[^6/232]: E1,6; E2: yatra yugapad apacchedaḥ
+
+[^6/233]: E1,6; E2: kṛte
 
 ____________________________________________
 

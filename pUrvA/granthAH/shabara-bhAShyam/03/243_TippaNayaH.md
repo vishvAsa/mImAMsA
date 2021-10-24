@@ -2,8 +2,10 @@
 title: २४३ टिप्पन्यः
 
 ---
-- 3/702: E1 gibt samākhyānād ity arthaḥ in Klammern
-- 3/703: E2: 4,591; E4: 4,928; E6: 1,277
+
+[^3/702]: E1 gibt samākhyānād ity arthaḥ in Klammern
+
+[^3/703]: E2: 4,591; E4: 4,928; E6: 1,277
 
 ____________________________________________
 

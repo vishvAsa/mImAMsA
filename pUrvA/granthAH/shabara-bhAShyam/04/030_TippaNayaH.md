@@ -2,10 +2,14 @@
 title: ३० टिप्पन्यः
 
 ---
-- 4/116: Ait.Br. 2.14
-- 4/117: E2: śrūyate
-- 4/118: E2: pratyakṣam arūkṣās tāḥ. ato rūkṣāvacanaṃ vyāmoha iti
-- 4/119: E2: 5,29; E6: 2,17
+
+[^4/116]: Ait.Br. 2.14
+
+[^4/117]: E2: śrūyate
+
+[^4/118]: E2: pratyakṣam arūkṣās tāḥ. ato rūkṣāvacanaṃ vyāmoha iti
+
+[^4/119]: E2: 5,29; E6: 2,17
 
 ____________________________________________
 

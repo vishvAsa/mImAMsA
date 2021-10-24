@@ -2,12 +2,18 @@
 title: ६३ टिप्पन्यः
 
 ---
-- 4/220: E2: yajatir juhotir
-- 4/221: E2: yathā
-- 4/222: E2: dravyaṃ devatām uddiśya tyajyate, tasya ca kriyā, yathā kriyayā tayoḥ
-- 4/223: E1 gibt yayā tayoḥ saṃbandho bhavati in Klammern
-- 4/224: E1 gibt samuditeṣv eṣu in Klammern
-- 4/225: E2: 5,56; E6: 2,33
+
+[^4/220]: E2: yajatir juhotir
+
+[^4/221]: E2: yathā
+
+[^4/222]: E2: dravyaṃ devatām uddiśya tyajyate, tasya ca kriyā, yathā kriyayā tayoḥ
+
+[^4/223]: E1 gibt yayā tayoḥ saṃbandho bhavati in Klammern
+
+[^4/224]: E1 gibt samuditeṣv eṣu in Klammern
+
+[^4/225]: E2: 5,56; E6: 2,33
 
 ____________________________________________
 

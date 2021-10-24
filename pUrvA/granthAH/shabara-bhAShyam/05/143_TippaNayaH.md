@@ -2,9 +2,12 @@
 title: १४३ टिप्पन्यः
 
 ---
-- 5/433: E2: 5,260; E6: 2,148
-- 5/434: E1 gibt svāmidharmā in Klammern
-- 5/435: E2: sruvadharmaiḥ
+
+[^5/433]: E2: 5,260; E6: 2,148
+
+[^5/434]: E1 gibt svāmidharmā in Klammern
+
+[^5/435]: E2: sruvadharmaiḥ
 
 ____________________________________________
 

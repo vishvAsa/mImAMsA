@@ -2,12 +2,18 @@
 title: ०५ टिप्पन्यः
 
 ---
-- 6/10: E1,6; E2: bhakṣaḥ
-- 6/11: E1,6; E2: prakaraṇagatāḥ puruṣā iti
-- 6/12: E2,6: nirdeśyante
-- 6/13: E1,6; E2: bhakṣayitavyeṣu
-- 6/14: TS 2.6.3.3
-- 6/15: E1,6; E2: sa vidhir na
+
+[^6/10]: E1,6; E2: bhakṣaḥ
+
+[^6/11]: E1,6; E2: prakaraṇagatāḥ puruṣā iti
+
+[^6/12]: E2,6: nirdeśyante
+
+[^6/13]: E1,6; E2: bhakṣayitavyeṣu
+
+[^6/14]: TS 2.6.3.3
+
+[^6/15]: E1,6; E2: sa vidhir na
 
 ____________________________________________
 

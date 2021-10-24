@@ -2,11 +2,16 @@
 title: ८५ टिप्पन्यः
 
 ---
-- 6/238: E2 (v.l.): pūrvavijñānaṃ bādhitvā
-- 6/239: E1,6; E2: tatra
-- 6/240: E1,6; E2: bhaviṣyati
-- 6/241: E2: 5,323; E6: 2,184
-- 6/242: E1,6; E2: 'śakyatvāt pratyakṣaṃ prākṛtaṃ
+
+[^6/238]: E2 (v.l.): pūrvavijñānaṃ bādhitvā
+
+[^6/239]: E1,6; E2: tatra
+
+[^6/240]: E1,6; E2: bhaviṣyati
+
+[^6/241]: E2: 5,323; E6: 2,184
+
+[^6/242]: E1,6; E2: 'śakyatvāt pratyakṣaṃ prākṛtaṃ
 
 ____________________________________________
 

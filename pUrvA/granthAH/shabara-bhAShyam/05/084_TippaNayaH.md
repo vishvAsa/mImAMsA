@@ -2,9 +2,12 @@
 title: ८४ टिप्पन्यः
 
 ---
-- 5/256: E2: nāpi kaṭaṃ kuḍyaṃ
-- 5/257: E2: dṛṣṭārtham eva saiṣā
-- 5/258: E2: kathaṃ punar nayatir
+
+[^5/256]: E2: nāpi kaṭaṃ kuḍyaṃ
+
+[^5/257]: E2: dṛṣṭārtham eva saiṣā
+
+[^5/258]: E2: kathaṃ punar nayatir
 
 ____________________________________________
 

@@ -2,10 +2,14 @@
 title: ५२ टिप्पन्यः
 
 ---
-- 4/172: E2: granthagauravabhayena
-- 4/173: E2: arthāgrahaṇād dhi
-- 4/174: E2: bhavet tat punar
-- 4/175: E2: 5,48; E6: 2,28
+
+[^4/172]: E2: granthagauravabhayena
+
+[^4/173]: E2: arthāgrahaṇād dhi
+
+[^4/174]: E2: bhavet tat punar
+
+[^4/175]: E2: 5,48; E6: 2,28
 
 ____________________________________________
 

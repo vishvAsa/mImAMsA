@@ -2,8 +2,10 @@
 title: १९ टिप्पन्यः
 
 ---
-- 5/63: E2: dārvabhyādadhyād
-- 5/64: E2: yuktaṃ tatra
+
+[^5/63]: E2: dārvabhyādadhyād
+
+[^5/64]: E2: yuktaṃ tatra
 
 ____________________________________________
 

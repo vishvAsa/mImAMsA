@@ -2,8 +2,10 @@
 title: ६३ टिप्पन्यः
 
 ---
-- 5/199: E2: atirathaṃ duhitṛmṛte
-- 5/200: E2: gomithunām
+
+[^5/199]: E2: atirathaṃ duhitṛmṛte
+
+[^5/200]: E2: gomithunām
 
 ____________________________________________
 

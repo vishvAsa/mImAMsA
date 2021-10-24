@@ -2,10 +2,14 @@
 title: ३८ टिप्पन्यः
 
 ---
-- 4/132: E2: trīnitaḥ
-- 4/133: E2: prācīnān
-- 4/134: E2: 5,34; E6: 2,20
-- 4/135: E2 om. caturgṛhītam alpaṃ bhavati, tatra
+
+[^4/132]: E2: trīnitaḥ
+
+[^4/133]: E2: prācīnān
+
+[^4/134]: E2: 5,34; E6: 2,20
+
+[^4/135]: E2 om. caturgṛhītam alpaṃ bhavati, tatra
 
 ____________________________________________
 

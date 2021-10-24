@@ -2,9 +2,12 @@
 title: ०६ टिप्पन्यः
 
 ---
-- 4/32: E2: api veti pakṣavyāvṛttiḥ. naitad
-- 4/33: E2 hat karmaṇo in Klammern
-- 4/34: E2,6: vijñāyate
+
+[^4/32]: E2: api veti pakṣavyāvṛttiḥ. naitad
+
+[^4/33]: E2 hat karmaṇo in Klammern
+
+[^4/34]: E2,6: vijñāyate
 
 ____________________________________________
 

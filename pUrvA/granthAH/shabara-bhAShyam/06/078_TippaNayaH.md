@@ -2,8 +2,10 @@
 title: ७८ टिप्पन्यः
 
 ---
-- 6/226: E1,6; E2: jyotiṣṭome 'tipanneṣu
-- 6/227: E2: agnihotreṇa pratihotavyam uta prātar agnihotreṇeti
+
+[^6/226]: E1,6; E2: jyotiṣṭome 'tipanneṣu
+
+[^6/227]: E2: agnihotreṇa pratihotavyam uta prātar agnihotreṇeti
 
 ____________________________________________
 

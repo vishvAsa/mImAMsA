@@ -2,7 +2,8 @@
 title: १५९ टिप्पन्यः
 
 ---
-- 6/427: E1,6,E2 (v.l.); E2: anāhitāgninānvācayaṃ karoti
+
+[^6/427]: E1,6,E2 (v.l.); E2: anāhitāgninānvācayaṃ karoti
 
 ____________________________________________
 

@@ -2,10 +2,14 @@
 title: १९ टिप्पन्यः
 
 ---
-- 6/48: E2: 5,278; E6: 2,159
-- 6/49: TaitBr. 3.7.1.8
-- 6/50: E1 (v.l.): ubhayasya
-- 6/51: E1 (v.l.): evaṃjātīyake kasyārtyām; E2: evaṃjātīyaka ekasyārtyām
+
+[^6/48]: E2: 5,278; E6: 2,159
+
+[^6/49]: TaitBr. 3.7.1.8
+
+[^6/50]: E1 (v.l.): ubhayasya
+
+[^6/51]: E1 (v.l.): evaṃjātīyake kasyārtyām; E2: evaṃjātīyaka ekasyārtyām
 
 ____________________________________________
 

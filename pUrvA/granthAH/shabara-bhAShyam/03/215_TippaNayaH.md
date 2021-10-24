@@ -2,9 +2,12 @@
 title: २१५ टिप्पन्यः
 
 ---
-- 3/644: Vgl. Tait.S. 6.2.4.5
-- 3/645: E2: 4,553; E4: 4,848; E6: 1,263
-- 3/646: E1 gibt sthitaṃ tāvad aparyavasitam in Klammern
+
+[^3/644]: Vgl. Tait.S. 6.2.4.5
+
+[^3/645]: E2: 4,553; E4: 4,848; E6: 1,263
+
+[^3/646]: E1 gibt sthitaṃ tāvad aparyavasitam in Klammern
 
 ____________________________________________
 

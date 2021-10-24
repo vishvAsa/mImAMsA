@@ -2,12 +2,18 @@
 title: १२१ टिप्पन्यः
 
 ---
-- 3/439: Tait.S. 2.3.2.7
-- 3/440: E2,4: somendraś
-- 3/441: E2: 4,414; E4: 4,639; E6: 1,227
-- 3/442: E2,4: ca dhātusāmyārtham
-- 3/443: E2: soma vamati, iti, E4: somaṃ vamity iti
-- 3/444: E2,4: somendraḥ
+
+[^3/439]: Tait.S. 2.3.2.7
+
+[^3/440]: E2,4: somendraś
+
+[^3/441]: E2: 4,414; E4: 4,639; E6: 1,227
+
+[^3/442]: E2,4: ca dhātusāmyārtham
+
+[^3/443]: E2: soma vamati, iti, E4: somaṃ vamity iti
+
+[^3/444]: E2,4: somendraḥ
 
 ____________________________________________
 

@@ -2,9 +2,12 @@
 title: १५३ टिप्पन्यः
 
 ---
-- 5/447: E2: paśoprāgalbhye
-- 5/448: E2,6: samarthā
-- 5/449: E1 gibt pratinidher utpattir in Klammern
+
+[^5/447]: E2: paśoprāgalbhye
+
+[^5/448]: E2,6: samarthā
+
+[^5/449]: E1 gibt pratinidher utpattir in Klammern
 
 ____________________________________________
 

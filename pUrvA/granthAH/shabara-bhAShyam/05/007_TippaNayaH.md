@@ -2,8 +2,10 @@
 title: ०७ टिप्पन्यः
 
 ---
-- 5/30: E2 om. uṣṇikkakubhoḥ ca ante prayogo dṛśyatem yaj jagatyā paridadhyād antaṃ
-- 5/31: E2 om. ante
+
+[^5/30]: E2 om. uṣṇikkakubhoḥ ca ante prayogo dṛśyatem yaj jagatyā paridadhyād antaṃ
+
+[^5/31]: E2 om. ante
 
 ____________________________________________
 

@@ -2,9 +2,12 @@
 title: ११६ टिप्पन्यः
 
 ---
-- 6/313: E1,6; E2: adhvarakalpā
-- 6/314: E1,6; E2: kutaḥ. yajñasya tadguṇatvāt. yajño
-- 6/315: E1,6; E2: vaiśyasyoktā, saptadaśānubrūyād vaiśyasyeti. tena
+
+[^6/313]: E1,6; E2: adhvarakalpā
+
+[^6/314]: E1,6; E2: kutaḥ. yajñasya tadguṇatvāt. yajño
+
+[^6/315]: E1,6; E2: vaiśyasyoktā, saptadaśānubrūyād vaiśyasyeti. tena
 
 ____________________________________________
 

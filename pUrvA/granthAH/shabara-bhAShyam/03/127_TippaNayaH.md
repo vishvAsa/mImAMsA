@@ -2,10 +2,14 @@
 title: १२७ टिप्पन्यः
 
 ---
-- 3/454: E2: 4,422; E4: 4,669; E6: 1,229
-- 3/455: E2,4: sakṛd dvyavadānena
-- 3/456: E1 gibt yāvac chrutaṃ in Klammern
-- 3/457: E2,4: ca kathaṃ puruṣārthe
+
+[^3/454]: E2: 4,422; E4: 4,669; E6: 1,229
+
+[^3/455]: E2,4: sakṛd dvyavadānena
+
+[^3/456]: E1 gibt yāvac chrutaṃ in Klammern
+
+[^3/457]: E2,4: ca kathaṃ puruṣārthe
 
 ____________________________________________
 

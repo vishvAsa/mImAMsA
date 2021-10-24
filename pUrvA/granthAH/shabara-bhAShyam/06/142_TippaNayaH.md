@@ -2,9 +2,12 @@
 title: १४२ टिप्पन्यः
 
 ---
-- 6/379: E1 (v.l.): tasmin
-- 6/380: E2 (v.l.): nirvartate
-- 6/381: E1,6,E2 (v.l.); E2: veti. arthavādas
+
+[^6/379]: E1 (v.l.): tasmin
+
+[^6/380]: E2 (v.l.): nirvartate
+
+[^6/381]: E1,6,E2 (v.l.); E2: veti. arthavādas
 
 ____________________________________________
 

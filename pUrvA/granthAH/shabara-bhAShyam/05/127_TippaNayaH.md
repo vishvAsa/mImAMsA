@@ -2,10 +2,14 @@
 title: १२७ टिप्पन्यः
 
 ---
-- 5/384: E2: anyakāmaśravaṇaṃ
-- 5/385: Vgl. MS 11.1.11-19
-- 5/386: E2: 5,243; E6: 2,140
-- 5/387: E2 gibt jaiminir manyate sma in Klammern
+
+[^5/384]: E2: anyakāmaśravaṇaṃ
+
+[^5/385]: Vgl. MS 11.1.11-19
+
+[^5/386]: E2: 5,243; E6: 2,140
+
+[^5/387]: E2 gibt jaiminir manyate sma in Klammern
 
 ____________________________________________
 

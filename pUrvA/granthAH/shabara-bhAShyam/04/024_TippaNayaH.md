@@ -2,14 +2,22 @@
 title: २४ टिप्पन्यः
 
 ---
-- 4/90: Tait.S. 6.3.10.4
-- 4/91: E2: barhiraṅktvāpāsyatīti; E6: barhiralaṅktāpāsyatīti
-- 4/92: Tait.S. 6.3.9.2
-- 4/93: MS 4.1.22
-- 4/94: E2 om. paśau
-- 4/95: E2 om. śakṛl lohitayor aprayojakatvam, na hi tadarthaḥ paśor ālambhaḥ
-- 4/96: Tait.S. 6.1.11.6
-- 4/97: E2: 5,24; E6: 2,13
+
+[^4/90]: Tait.S. 6.3.10.4
+
+[^4/91]: E2: barhiraṅktvāpāsyatīti; E6: barhiralaṅktāpāsyatīti
+
+[^4/92]: Tait.S. 6.3.9.2
+
+[^4/93]: MS 4.1.22
+
+[^4/94]: E2 om. paśau
+
+[^4/95]: E2 om. śakṛl lohitayor aprayojakatvam, na hi tadarthaḥ paśor ālambhaḥ
+
+[^4/96]: Tait.S. 6.1.11.6
+
+[^4/97]: E2: 5,24; E6: 2,13
 
 ____________________________________________
 

@@ -2,7 +2,8 @@
 title: ९५ टिप्पन्यः
 
 ---
-- 4/341: E1 gibt śabdārthenety arthaḥ in Klammern
+
+[^4/341]: E1 gibt śabdārthenety arthaḥ in Klammern
 
 ____________________________________________
 

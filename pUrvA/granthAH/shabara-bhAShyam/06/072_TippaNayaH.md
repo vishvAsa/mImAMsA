@@ -2,7 +2,8 @@
 title: ७२ टिप्पन्यः
 
 ---
-- 6/216: E1,6; E2: samāmananti, tiṣṭo dīkṣā ityevamādi. yadi
+
+[^6/216]: E1,6; E2: samāmananti, tiṣṭo dīkṣā ityevamādi. yadi
 
 ____________________________________________
 

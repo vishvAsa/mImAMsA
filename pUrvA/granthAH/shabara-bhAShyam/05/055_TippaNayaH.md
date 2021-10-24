@@ -2,11 +2,16 @@
 title: ५५ टिप्पन्यः
 
 ---
-- 5/159: E2: etat
-- 5/160: E2: 5,180; E6: 2,106
-- 5/161: E2,6: vākyabhedaprasaṅgāt
-- 5/162: E2: athānarthakyaparihārāya kalpitenānyena
-- 5/163: E2: tataḥ saṃbadhyamāno
+
+[^5/159]: E2: etat
+
+[^5/160]: E2: 5,180; E6: 2,106
+
+[^5/161]: E2,6: vākyabhedaprasaṅgāt
+
+[^5/162]: E2: athānarthakyaparihārāya kalpitenānyena
+
+[^5/163]: E2: tataḥ saṃbadhyamāno
 
 ____________________________________________
 

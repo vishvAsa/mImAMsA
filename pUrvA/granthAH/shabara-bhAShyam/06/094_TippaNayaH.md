@@ -2,10 +2,14 @@
 title: ९४ टिप्पन्यः
 
 ---
-- 6/274: E2: parārthatvād; E2 (v.l.), E1,6: pārārthyam
-- 6/275: E1,6; E2: ihaikasya kalpe saṃgṛhīte
-- 6/276: E1,6; E2: saṃgṛhīto bhavati. tasmād
-- 6/277: E1,6; E2: tuṣān upavapatīti
+
+[^6/274]: E2: parārthatvād; E2 (v.l.), E1,6: pārārthyam
+
+[^6/275]: E1,6; E2: ihaikasya kalpe saṃgṛhīte
+
+[^6/276]: E1,6; E2: saṃgṛhīto bhavati. tasmād
+
+[^6/277]: E1,6; E2: tuṣān upavapatīti
 
 ____________________________________________
 

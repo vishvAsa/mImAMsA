@@ -2,10 +2,14 @@
 title: ०४ टिप्पन्यः
 
 ---
-- 4/26: E2,6: cikīrṣyate
-- 4/27: E2 hat prītyutsargo 'pi in Klammern
-- 4/28: E2,6: anugṛhyeta
-- 4/29: E2: 5,7; E6: 2,4
+
+[^4/26]: E2,6: cikīrṣyate
+
+[^4/27]: E2 hat prītyutsargo 'pi in Klammern
+
+[^4/28]: E2,6: anugṛhyeta
+
+[^4/29]: E2: 5,7; E6: 2,4
 
 ____________________________________________
 

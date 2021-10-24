@@ -2,7 +2,8 @@
 title: ९४ टिप्पन्यः
 
 ---
-- 5/286: E2: rathakāraḥ, āpadi jīvanaṃ caitasya. vākyena tasyedam
+
+[^5/286]: E2: rathakāraḥ, āpadi jīvanaṃ caitasya. vākyena tasyedam
 
 ____________________________________________
 

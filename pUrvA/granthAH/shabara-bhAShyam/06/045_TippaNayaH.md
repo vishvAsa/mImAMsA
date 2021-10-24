@@ -2,10 +2,14 @@
 title: ४५ टिप्पन्यः
 
 ---
-- 6/170: E2: 5,303; E6: 2,172
-- 6/171: E1,6; E2: abhyudi. yāt tenātañcya
-- 6/172: E2: yadi na
-- 6/173: E1,6; E2: prātaretena brāhmaṇaṃ
+
+[^6/170]: E2: 5,303; E6: 2,172
+
+[^6/171]: E1,6; E2: abhyudi. yāt tenātañcya
+
+[^6/172]: E2: yadi na
+
+[^6/173]: E1,6; E2: prātaretena brāhmaṇaṃ
 
 ____________________________________________
 

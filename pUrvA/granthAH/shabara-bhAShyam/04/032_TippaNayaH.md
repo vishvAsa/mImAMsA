@@ -2,9 +2,12 @@
 title: ३२ टिप्पन्यः
 
 ---
-- 4/121: E1 gibt idaṃ padottaraṃ sūtram in Klammern
-- 4/122: E2: agnyam athavā
-- 4/123: E2: 5,29; E6: 2,17
+
+[^4/121]: E1 gibt idaṃ padottaraṃ sūtram in Klammern
+
+[^4/122]: E2: agnyam athavā
+
+[^4/123]: E2: 5,29; E6: 2,17
 
 ____________________________________________
 

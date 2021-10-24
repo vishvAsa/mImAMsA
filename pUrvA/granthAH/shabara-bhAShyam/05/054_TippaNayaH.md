@@ -2,19 +2,32 @@
 title: ५४ टिप्पन्यः
 
 ---
-- 5/146: E2: avagamyate
-- 5/147: E2: 5,175; E6: 2,104
-- 5/148: E2: tatraivaṃ tāvad
-- 5/149: E2: kauśeyāni
-- 5/150: E1 (v.l.): nety āha, na hi kasmiṃścid anupamāne
-- 5/151: E2 om. na
-- 5/152: E2: viśeṣaṇatvāt prīteḥ
-- 5/153: E2: 5,177; E6: 2,105
-- 5/154: E2: na gacchanti
-- 5/155: E2: nāpy anumānād gamyate
-- 5/156: E2: nānyena. nanu
-- 5/157: E2 om. iti
-- 5/158: E2: 5,178; E6: 2,106
+
+[^5/146]: E2: avagamyate
+
+[^5/147]: E2: 5,175; E6: 2,104
+
+[^5/148]: E2: tatraivaṃ tāvad
+
+[^5/149]: E2: kauśeyāni
+
+[^5/150]: E1 (v.l.): nety āha, na hi kasmiṃścid anupamāne
+
+[^5/151]: E2 om. na
+
+[^5/152]: E2: viśeṣaṇatvāt prīteḥ
+
+[^5/153]: E2: 5,177; E6: 2,105
+
+[^5/154]: E2: na gacchanti
+
+[^5/155]: E2: nāpy anumānād gamyate
+
+[^5/156]: E2: nānyena. nanu
+
+[^5/157]: E2 om. iti
+
+[^5/158]: E2: 5,178; E6: 2,106
 
 ____________________________________________
 

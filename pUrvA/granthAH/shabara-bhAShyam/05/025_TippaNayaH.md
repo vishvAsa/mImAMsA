@@ -2,9 +2,12 @@
 title: २५ टिप्पन्यः
 
 ---
-- 5/75: E1 gibt dīkṣaṇārthā in Klammern
-- 5/76: E2: daṇḍenainaṃ dīkṣitaṃ saṃpādayatīty
-- 5/77: E2: 5,157; E6: 2,93
+
+[^5/75]: E1 gibt dīkṣaṇārthā in Klammern
+
+[^5/76]: E2: daṇḍenainaṃ dīkṣitaṃ saṃpādayatīty
+
+[^5/77]: E2: 5,157; E6: 2,93
 
 ____________________________________________
 

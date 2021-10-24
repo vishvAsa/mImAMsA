@@ -2,12 +2,18 @@
 title: २८ टिप्पन्यः
 
 ---
-- 6/112: E1,6; E2: svātantryāṃ pāvan na
-- 6/113: E1,6,E2 (v.l.); E2: triṣv api pakṣeṣu vivakṣiteṣu
-- 6/114: E2 om kiṃ
-- 6/115: E1,6; E2: tatrocyate
-- 6/116: E1 (v.l.): tatsaṃnidhi samāmnānāt
-- 6/117: E2: 5,292; E6: 2,693
+
+[^6/112]: E1,6; E2: svātantryāṃ pāvan na
+
+[^6/113]: E1,6,E2 (v.l.); E2: triṣv api pakṣeṣu vivakṣiteṣu
+
+[^6/114]: E2 om kiṃ
+
+[^6/115]: E1,6; E2: tatrocyate
+
+[^6/116]: E1 (v.l.): tatsaṃnidhi samāmnānāt
+
+[^6/117]: E2: 5,292; E6: 2,693
 
 ____________________________________________
 

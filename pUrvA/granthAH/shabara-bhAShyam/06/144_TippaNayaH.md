@@ -2,12 +2,18 @@
 title: १४४ टिप्पन्यः
 
 ---
-- 6/385: E1,6,E2 (v.l.); E2: etāvat
-- 6/386: E2 (v.l.): balīpalitanāśakāni
-- 6/387: E1: jyogjīvanaṃ cirakālaṃ jīvanam (Glosse einer HS)
-- 6/388: E2: 5,351; E6: 2,207
-- 6/389: E2 om. sa
-- 6/390: E1,6; E2: jyogjīvena
+
+[^6/385]: E1,6,E2 (v.l.); E2: etāvat
+
+[^6/386]: E2 (v.l.): balīpalitanāśakāni
+
+[^6/387]: E1: jyogjīvanaṃ cirakālaṃ jīvanam (Glosse einer HS)
+
+[^6/388]: E2: 5,351; E6: 2,207
+
+[^6/389]: E2 om. sa
+
+[^6/390]: E1,6; E2: jyogjīvena
 
 ____________________________________________
 

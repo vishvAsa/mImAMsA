@@ -2,9 +2,12 @@
 title: ४६ टिप्पन्यः
 
 ---
-- 4/152: Tait.Br. 3.2.1.3
-- 4/153: E2: īpsitatamaṃ yuktam; E6, E2 (Fn.): īpsitamayuktam; E2 (Fn.): īpsitatamaṃ saṃyuktam
-- 4/154: E2: 5,43; E6: 2,25
+
+[^4/152]: Tait.Br. 3.2.1.3
+
+[^4/153]: E2: īpsitatamaṃ yuktam; E6, E2 (Fn.): īpsitamayuktam; E2 (Fn.): īpsitatamaṃ saṃyuktam
+
+[^4/154]: E2: 5,43; E6: 2,25
 
 ____________________________________________
 

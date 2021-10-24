@@ -2,15 +2,24 @@
 title: १६४ टिप्पन्यः
 
 ---
-- 4/531: E2: gṛhṇātīti
-- 4/532: Tait.S. 6.6.11.6
-- 4/533: E1 (Fn.): pratibalād
-- 4/534: E2,6: utkraṣṭavyaḥ
-- 4/535: E2: ṣoḍaśinaḥ stotram
-- 4/536: E2: gṛhṇātīti
-- 4/537: E2: ṣoḍaśinaḥ stotrakālenāvarjanaṃ
-- 4/538: E2,6: anugrahītum
-- 4/539: E2: 5,133; E6: 2,78
+
+[^4/531]: E2: gṛhṇātīti
+
+[^4/532]: Tait.S. 6.6.11.6
+
+[^4/533]: E1 (Fn.): pratibalād
+
+[^4/534]: E2,6: utkraṣṭavyaḥ
+
+[^4/535]: E2: ṣoḍaśinaḥ stotram
+
+[^4/536]: E2: gṛhṇātīti
+
+[^4/537]: E2: ṣoḍaśinaḥ stotrakālenāvarjanaṃ
+
+[^4/538]: E2,6: anugrahītum
+
+[^4/539]: E2: 5,133; E6: 2,78
 
 ____________________________________________
 

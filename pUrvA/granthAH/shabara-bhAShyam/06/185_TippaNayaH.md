@@ -2,8 +2,10 @@
 title: १८५ टिप्पन्यः
 
 ---
-- 6/500: E2: 6.8.43
-- 6/501: E1,6,E2 (v.l.); E2: bhaviṣyati. tasmāt tatprāyavacanam
+
+[^6/500]: E2: 6.8.43
+
+[^6/501]: E1,6,E2 (v.l.); E2: bhaviṣyati. tasmāt tatprāyavacanam
 
 ____________________________________________
 

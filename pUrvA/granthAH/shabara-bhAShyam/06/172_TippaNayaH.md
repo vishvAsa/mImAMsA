@@ -2,13 +2,20 @@
 title: १७२ टिप्पन्यः
 
 ---
-- 6/452: E1,6; E2: sruvaṃ ca srūvaś ca saṃmṛḍḍhi
-- 6/453: E1,6; E2: akutoro
-- 6/454: E1,6; E2: vratayet, sa preṣitavyaḥ, uta
-- 6/455: E1,6,E2 (v.l.); E2: vā pādbhir hanyāt
-- 6/456: E2: 5,367; E6: 2,217
-- 6/457: MS 6.8.27
-- 6/458: Vgl. ŚBh ad MS 6.8.8
+
+[^6/452]: E1,6; E2: sruvaṃ ca srūvaś ca saṃmṛḍḍhi
+
+[^6/453]: E1,6; E2: akutoro
+
+[^6/454]: E1,6; E2: vratayet, sa preṣitavyaḥ, uta
+
+[^6/455]: E1,6,E2 (v.l.); E2: vā pādbhir hanyāt
+
+[^6/456]: E2: 5,367; E6: 2,217
+
+[^6/457]: MS 6.8.27
+
+[^6/458]: Vgl. ŚBh ad MS 6.8.8
 
 ____________________________________________
 

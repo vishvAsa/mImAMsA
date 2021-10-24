@@ -2,9 +2,12 @@
 title: १२२ टिप्पन्यः
 
 ---
-- 4/415: Tait.S. 6.1.11.6
-- 4/416: E1 gibt svaruṃ karotīti svarum antaṃ yūpaṃ kuryād ity arthaḥ in Klammern
-- 4/417: E2: 5,99; E6: 2,61
+
+[^4/415]: Tait.S. 6.1.11.6
+
+[^4/416]: E1 gibt svaruṃ karotīti svarum antaṃ yūpaṃ kuryād ity arthaḥ in Klammern
+
+[^4/417]: E2: 5,99; E6: 2,61
 
 ____________________________________________
 

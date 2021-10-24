@@ -2,10 +2,14 @@
 title: २९ टिप्पन्यः
 
 ---
-- 6/118: E2 (v.l.): viśvajidapravṛtte
-- 6/119: E1,6,E2 (v.l.); E2: sarvatrāgūraṇe
-- 6/120: E1,6; E2: prayuñjānasyeti
-- 6/121: E2: 5,294; E6: 2,166
+
+[^6/118]: E2 (v.l.): viśvajidapravṛtte
+
+[^6/119]: E1,6,E2 (v.l.); E2: sarvatrāgūraṇe
+
+[^6/120]: E1,6; E2: prayuñjānasyeti
+
+[^6/121]: E2: 5,294; E6: 2,166
 
 ____________________________________________
 

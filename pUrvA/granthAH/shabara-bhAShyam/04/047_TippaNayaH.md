@@ -2,12 +2,18 @@
 title: ४७ टिप्पन्यः
 
 ---
-- 4/155: E2: śākhāc chedanasyobhayaṃ
-- 4/156: E2 gibt śākhāpradhānatvād in Klammern
-- 4/157: E2: 5,44; E6: 2,26
-- 4/158: E2: karotīti
-- 4/159: E2 om. ataḥ
-- 4/160: E2,6: upaveṣo
+
+[^4/155]: E2: śākhāc chedanasyobhayaṃ
+
+[^4/156]: E2 gibt śākhāpradhānatvād in Klammern
+
+[^4/157]: E2: 5,44; E6: 2,26
+
+[^4/158]: E2: karotīti
+
+[^4/159]: E2 om. ataḥ
+
+[^4/160]: E2,6: upaveṣo
 
 ____________________________________________
 

@@ -2,11 +2,16 @@
 title: १४८ टिप्पन्यः
 
 ---
-- 6/401: E2: 5,354; E2: 2,208
-- 6/402: E1,6; E2: guṇenāvakalpiṣyate
-- 6/403: E1,2 (v.l.): avarudhyeta
-- 6/404: E1,6; E2: evāsyāyuḥ
-- 6/405: E1 (v.l.): na hy atra saṃvatsaraśabdaḥ sākṣāt, pratimāśabdena saṃyogāt; naivam, na hy atra rātriśabdaḥ saṃvatsaraśabdasyāpekṣyaḥ pratimāśabdena saṃyogāt
+
+[^6/401]: E2: 5,354; E2: 2,208
+
+[^6/402]: E1,6; E2: guṇenāvakalpiṣyate
+
+[^6/403]: E1,2 (v.l.): avarudhyeta
+
+[^6/404]: E1,6; E2: evāsyāyuḥ
+
+[^6/405]: E1 (v.l.): na hy atra saṃvatsaraśabdaḥ sākṣāt, pratimāśabdena saṃyogāt; naivam, na hy atra rātriśabdaḥ saṃvatsaraśabdasyāpekṣyaḥ pratimāśabdena saṃyogāt
 
 ____________________________________________
 

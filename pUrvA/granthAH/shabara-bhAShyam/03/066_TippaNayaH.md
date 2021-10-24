@@ -2,7 +2,8 @@
 title: ६६ टिप्पन्यः
 
 ---
-- 3/239: E2 hat ābhāṣāntaṃ sūtram geklammert
+
+[^3/239]: E2 hat ābhāṣāntaṃ sūtram geklammert
 
 ____________________________________________
 

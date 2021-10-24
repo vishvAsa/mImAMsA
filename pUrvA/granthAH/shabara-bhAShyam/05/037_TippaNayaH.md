@@ -2,11 +2,16 @@
 title: ३७ टिप्पन्यः
 
 ---
-- 5/104: E2: pradānaṃ codanāgṛhītatvād
-- 5/105: E2 om. ete
-- 5/106: E1 gibt āsann akaraṇam in Klammern
-- 5/107: E2: 5,164; E6: 2,98
-- 5/108: E2: śrutābhiprāyam
+
+[^5/104]: E2: pradānaṃ codanāgṛhītatvād
+
+[^5/105]: E2 om. ete
+
+[^5/106]: E1 gibt āsann akaraṇam in Klammern
+
+[^5/107]: E2: 5,164; E6: 2,98
+
+[^5/108]: E2: śrutābhiprāyam
 
 ____________________________________________
 

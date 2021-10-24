@@ -2,13 +2,20 @@
 title: २२२ टिप्पन्यः
 
 ---
-- 3/657: E2,4: āsādayantīti
-- 3/658: E2,4 om. 'py
-- 3/659: E2 und 4 geben sāmidhenyo 'gnisamindhanārtham upādeyā in Klammern
-- 3/660: E2: 4,561; E4: 4,863; E6: 1,266
-- 3/661: E2,4: havirdhānīviśeṣasaṃbandho 'tra
-- 3/662: E2,4: na havirdhānasaṃbandho
-- 3/663: E2,4: tat
+
+[^3/657]: E2,4: āsādayantīti
+
+[^3/658]: E2,4 om. 'py
+
+[^3/659]: E2 und 4 geben sāmidhenyo 'gnisamindhanārtham upādeyā in Klammern
+
+[^3/660]: E2: 4,561; E4: 4,863; E6: 1,266
+
+[^3/661]: E2,4: havirdhānīviśeṣasaṃbandho 'tra
+
+[^3/662]: E2,4: na havirdhānasaṃbandho
+
+[^3/663]: E2,4: tat
 
 ____________________________________________
 

@@ -2,11 +2,16 @@
 title: ८० टिप्पन्यः
 
 ---
-- 3/322: E2,4: 'dhiṣavaṇaphalake
-- 3/323: Vgl. Tait.S. 6.2.11.3
-- 3/324: E2: asaṃtṛṇye, E4: asaṃtṛṣṇe; E6: asantṛṇṇe
-- 3/325: Vgl. Tait.S. 6.2.11.3; Mait.S. 1.10.13
-- 3/326: Vgl. Tait.S. 6.1.10.1-2
+
+[^3/322]: E2,4: 'dhiṣavaṇaphalake
+
+[^3/323]: Vgl. Tait.S. 6.2.11.3
+
+[^3/324]: E2: asaṃtṛṇye, E4: asaṃtṛṣṇe; E6: asantṛṇṇe
+
+[^3/325]: Vgl. Tait.S. 6.2.11.3; Mait.S. 1.10.13
+
+[^3/326]: Vgl. Tait.S. 6.1.10.1-2
 
 ____________________________________________
 

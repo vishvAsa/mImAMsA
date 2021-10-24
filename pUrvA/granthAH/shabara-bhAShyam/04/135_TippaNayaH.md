@@ -2,21 +2,36 @@
 title: १३५ टिप्पन्यः
 
 ---
-- 4/446: E2: śravaṇam
-- 4/447: MS 1.1.2
-- 4/448: E2: dīkṣākrame
-- 4/449: E2: ye yajamānās ta ṛtvija ity
-- 4/450: E2: neṣṭhā
-- 4/451: E2,6: pādino
-- 4/452: E2: 5,107; E6: 2,66
-- 4/453: E2: eṣa
-- 4/454: E2: asmaraṇam; E6: apasmaraṇam
-- 4/455: E1,6, E2 (Fn.); E2: vyavahāraḥ kramasya
-- 4/456: E2: śrutikramavicāro
-- 4/457: E1 (Fn.), E2: kramo 'nuvādaḥ
-- 4/458: E2: dīkṣādīnāṃ padārthānāṃ
-- 4/459: E2 om. ya
-- 4/460: E2: 5,108; E6: 2,67
+
+[^4/446]: E2: śravaṇam
+
+[^4/447]: MS 1.1.2
+
+[^4/448]: E2: dīkṣākrame
+
+[^4/449]: E2: ye yajamānās ta ṛtvija ity
+
+[^4/450]: E2: neṣṭhā
+
+[^4/451]: E2,6: pādino
+
+[^4/452]: E2: 5,107; E6: 2,66
+
+[^4/453]: E2: eṣa
+
+[^4/454]: E2: asmaraṇam; E6: apasmaraṇam
+
+[^4/455]: E1,6, E2 (Fn.); E2: vyavahāraḥ kramasya
+
+[^4/456]: E2: śrutikramavicāro
+
+[^4/457]: E1 (Fn.), E2: kramo 'nuvādaḥ
+
+[^4/458]: E2: dīkṣādīnāṃ padārthānāṃ
+
+[^4/459]: E2 om. ya
+
+[^4/460]: E2: 5,108; E6: 2,67
 
 ____________________________________________
 

@@ -2,9 +2,12 @@
 title: १२४ टिप्पन्यः
 
 ---
-- 5/370: E2 om. pūrvatra
-- 5/371: E2: pūrvaḥ pakṣaḥ
-- 5/372: E2: nimittatvād āgata āgate kāla ity
+
+[^5/370]: E2 om. pūrvatra
+
+[^5/371]: E2: pūrvaḥ pakṣaḥ
+
+[^5/372]: E2: nimittatvād āgata āgate kāla ity
 
 ____________________________________________
 

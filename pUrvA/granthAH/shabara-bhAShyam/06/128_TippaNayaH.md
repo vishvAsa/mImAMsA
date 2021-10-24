@@ -2,9 +2,12 @@
 title: १२८ टिप्पन्यः
 
 ---
-- 6/348: E2 (v.l.): idaṃ me kratvartham
-- 6/349: E2 (v.l.): sarvatā
-- 6/350: E1,6; E2: bhakṣārthaṃ; E2 (v.l.): muktyarthaṃ
+
+[^6/348]: E2 (v.l.): idaṃ me kratvartham
+
+[^6/349]: E2 (v.l.): sarvatā
+
+[^6/350]: E1,6; E2: bhakṣārthaṃ; E2 (v.l.): muktyarthaṃ
 
 ____________________________________________
 

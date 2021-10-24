@@ -2,10 +2,14 @@
 title: ११० टिप्पन्यः
 
 ---
-- 5/336: E1 gibt phalaṃ cikīrṣamāṇasya in Klammern
-- 5/337: E2: vedaivāso
-- 5/338: E2: mayaitat kartavyam
-- 5/339: E2: 5,232; E6: 2,133
+
+[^5/336]: E1 gibt phalaṃ cikīrṣamāṇasya in Klammern
+
+[^5/337]: E2: vedaivāso
+
+[^5/338]: E2: mayaitat kartavyam
+
+[^5/339]: E2: 5,232; E6: 2,133
 
 ____________________________________________
 

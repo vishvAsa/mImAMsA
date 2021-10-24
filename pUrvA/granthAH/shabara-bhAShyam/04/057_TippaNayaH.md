@@ -2,10 +2,14 @@
 title: ५७ टिप्पन्यः
 
 ---
-- 4/195: E2: 'pavṛjyeta. tatkarma kartavyaṃ ca kṛtam iti na
-- 4/196: E2: iva yena draṣṭavya iti. tathā
-- 4/197: E2: kathaṃ na khalu
-- 4/198: E2: nāvatareyur
+
+[^4/195]: E2: 'pavṛjyeta. tatkarma kartavyaṃ ca kṛtam iti na
+
+[^4/196]: E2: iva yena draṣṭavya iti. tathā
+
+[^4/197]: E2: kathaṃ na khalu
+
+[^4/198]: E2: nāvatareyur
 
 ____________________________________________
 

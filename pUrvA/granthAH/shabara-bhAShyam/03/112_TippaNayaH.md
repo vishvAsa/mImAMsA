@@ -2,8 +2,10 @@
 title: ११२ टिप्पन्यः
 
 ---
-- 3/414: Tait.Br. 2.2.4.6
-- 3/415: E1 gibt prakaraṇādhītād in Klammern
+
+[^3/414]: Tait.Br. 2.2.4.6
+
+[^3/415]: E1 gibt prakaraṇādhītād in Klammern
 
 ____________________________________________
 

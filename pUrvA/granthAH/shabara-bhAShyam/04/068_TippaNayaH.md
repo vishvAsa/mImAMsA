@@ -2,16 +2,26 @@
 title: ६८ टिप्पन्यः
 
 ---
-- 4/250: E2: na tatra
-- 4/251: E2: parṇamayyā juhvāpāpaślokaśravaṇaṃ
-- 4/252: E2 om. na
-- 4/253: E2: tasyaivaṃlakṣaṇā
-- 4/254: E2: 5,61; E6: 2,36
-- 4/255: E2 om. na
-- 4/256: E2: samāmnāyo 'rthasya tannimitatvād iti
-- 4/257: MS 1.1.25
-- 4/258: E2 om. atha
-- 4/259: E2: 5,61; E6: 2,36
+
+[^4/250]: E2: na tatra
+
+[^4/251]: E2: parṇamayyā juhvāpāpaślokaśravaṇaṃ
+
+[^4/252]: E2 om. na
+
+[^4/253]: E2: tasyaivaṃlakṣaṇā
+
+[^4/254]: E2: 5,61; E6: 2,36
+
+[^4/255]: E2 om. na
+
+[^4/256]: E2: samāmnāyo 'rthasya tannimitatvād iti
+
+[^4/257]: MS 1.1.25
+
+[^4/258]: E2 om. atha
+
+[^4/259]: E2: 5,61; E6: 2,36
 
 ____________________________________________
 

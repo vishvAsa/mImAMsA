@@ -2,8 +2,10 @@
 title: २७५ टिप्पन्यः
 
 ---
-- 3/774: E2,4: dṛtinavanītam
-- 3/775: E1 gibt śyenāṅgānāṃ in Klammern
+
+[^3/774]: E2,4: dṛtinavanītam
+
+[^3/775]: E1 gibt śyenāṅgānāṃ in Klammern
 
 ____________________________________________
 

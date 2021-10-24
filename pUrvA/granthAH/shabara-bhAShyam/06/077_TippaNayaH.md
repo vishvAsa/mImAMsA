@@ -2,9 +2,12 @@
 title: ७७ टिप्पन्यः
 
 ---
-- 6/223: E1 (v.l.) hūyeran
-- 6/224: E2: 5,319; E2: 2,182
-- 6/225: E2 om. sāyam agnihotraprabhṛtīni hūyeran. kutaḥ
+
+[^6/223]: E1 (v.l.) hūyeran
+
+[^6/224]: E2: 5,319; E2: 2,182
+
+[^6/225]: E2 om. sāyam agnihotraprabhṛtīni hūyeran. kutaḥ
 
 ____________________________________________
 

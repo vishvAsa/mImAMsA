@@ -2,13 +2,20 @@
 title: ५८ टिप्पन्यः
 
 ---
-- 5/175: E2: 5,186; E6: 2,109
-- 5/176: E2: 5,187; E6: 2,110
-- 5/177: E2: anuṣaṅgataś
-- 5/178: E2: kalpayitavyam iti. pūrvapakṣe
-- 5/179: E2: saṃbhavād iti
-- 5/180: E2: siddhānte tadasaṃbhavād iti
-- 5/181: Vgl. zu MS 6.7.31-40
+
+[^5/175]: E2: 5,186; E6: 2,109
+
+[^5/176]: E2: 5,187; E6: 2,110
+
+[^5/177]: E2: anuṣaṅgataś
+
+[^5/178]: E2: kalpayitavyam iti. pūrvapakṣe
+
+[^5/179]: E2: saṃbhavād iti
+
+[^5/180]: E2: siddhānte tadasaṃbhavād iti
+
+[^5/181]: Vgl. zu MS 6.7.31-40
 
 ____________________________________________
 

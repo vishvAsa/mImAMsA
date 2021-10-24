@@ -2,11 +2,16 @@
 title: २५ टिप्पन्यः
 
 ---
-- 4/98: E2: ekadeśadravyaṃ
-- 4/99: E2: ekadeśadravyaṃ
-- 4/100: Tait.S. 2.6.6.5
-- 4/101: MS 4.1.22
-- 4/102: E2: ekadeśadravyaṃ
+
+[^4/98]: E2: ekadeśadravyaṃ
+
+[^4/99]: E2: ekadeśadravyaṃ
+
+[^4/100]: Tait.S. 2.6.6.5
+
+[^4/101]: MS 4.1.22
+
+[^4/102]: E2: ekadeśadravyaṃ
 
 ____________________________________________
 

@@ -2,10 +2,14 @@
 title: ३३ टिप्पन्यः
 
 ---
-- 6/132: E2 (v.l.): na ca satyam etat, śakyo
-- 6/133: E1 hat evaṃ vatsena vratam upagataṃ bhavati in Klammern
-- 6/134: E1 hat evaṃ tad upetaṃ bhavati in Klammern
-- 6/135: E1,6; E2: saṃniḥdhāyān yad etam upeyād
+
+[^6/132]: E2 (v.l.): na ca satyam etat, śakyo
+
+[^6/133]: E1 hat evaṃ vatsena vratam upagataṃ bhavati in Klammern
+
+[^6/134]: E1 hat evaṃ tad upetaṃ bhavati in Klammern
+
+[^6/135]: E1,6; E2: saṃniḥdhāyān yad etam upeyād
 
 ____________________________________________
 

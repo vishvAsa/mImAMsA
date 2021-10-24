@@ -2,12 +2,18 @@
 title: १२२ टिप्पन्यः
 
 ---
-- 6/327: E1,6,E2 (v.l.); E2: pṛthivīgolakaṃ nāma, na
-- 6/328: E1,6,E2 (v.l.); E2: svasvataṃ
-- 6/329: E1,6,E2 (v.l.); E2: bhūmibhogena
-- 6/330: E1,6; E2: sārvabhaumam asya
-- 6/331: E2: 5,341; E6: 2,199
-- 6/332: E1,6,E2 (v.l.); E2: dhāraṇaṃ cakramaṇādi
+
+[^6/327]: E1,6,E2 (v.l.); E2: pṛthivīgolakaṃ nāma, na
+
+[^6/328]: E1,6,E2 (v.l.); E2: svasvataṃ
+
+[^6/329]: E1,6,E2 (v.l.); E2: bhūmibhogena
+
+[^6/330]: E1,6; E2: sārvabhaumam asya
+
+[^6/331]: E2: 5,341; E6: 2,199
+
+[^6/332]: E1,6,E2 (v.l.); E2: dhāraṇaṃ cakramaṇādi
 
 ____________________________________________
 

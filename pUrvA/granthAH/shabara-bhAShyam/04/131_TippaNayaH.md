@@ -2,10 +2,14 @@
 title: १३१ टिप्पन्यः
 
 ---
-- 4/434: E2: pradhānām
-- 4/435: E2: utpattyapekṣayā
-- 4/436: E2 om. iti
-- 4/437: E2: yathā jāyamānasya
+
+[^4/434]: E2: pradhānām
+
+[^4/435]: E2: utpattyapekṣayā
+
+[^4/436]: E2 om. iti
+
+[^4/437]: E2: yathā jāyamānasya
 
 ____________________________________________
 

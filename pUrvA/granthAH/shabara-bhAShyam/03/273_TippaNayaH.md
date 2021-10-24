@@ -2,10 +2,14 @@
 title: २७३ टिप्पन्यः
 
 ---
-- 3/769: E2: 4,621; E4: 4,992; E6: 1,289
-- 3/770: E2,4: naindravāyavādīnām
-- 3/771: E2,4: naindravāyavādisaṃbandhena
-- 3/772: E2,4 om. iti
+
+[^3/769]: E2: 4,621; E4: 4,992; E6: 1,289
+
+[^3/770]: E2,4: naindravāyavādīnām
+
+[^3/771]: E2,4: naindravāyavādisaṃbandhena
+
+[^3/772]: E2,4 om. iti
 
 ____________________________________________
 

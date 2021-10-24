@@ -2,11 +2,16 @@
 title: ४० टिप्पन्यः
 
 ---
-- 6/150: E1,6; E2: śākhāpi hi pūrvaṃ
-- 6/151: E2 (v.l.): prayojanavattvāt kālaniyamaḥ
-- 6/152: E1 (v.l.): śrūyate
-- 6/153: E2: 5,298; E6: 2,170
-- 6/154: E1,6,E2 (v.l.); E2: sahayoga eṣaḥ, ekasmin
+
+[^6/150]: E1,6; E2: śākhāpi hi pūrvaṃ
+
+[^6/151]: E2 (v.l.): prayojanavattvāt kālaniyamaḥ
+
+[^6/152]: E1 (v.l.): śrūyate
+
+[^6/153]: E2: 5,298; E6: 2,170
+
+[^6/154]: E1,6,E2 (v.l.); E2: sahayoga eṣaḥ, ekasmin
 
 ____________________________________________
 

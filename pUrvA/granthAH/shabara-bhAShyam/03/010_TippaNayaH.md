@@ -2,40 +2,74 @@
 title: १० टिप्पन्यः
 
 ---
-- 3/31: E1 (v.l.): piṅgākṣyaikahāyinyā
-- 3/32: Vgl. Tait.S. 6.1.6.7
-- 3/33: E2,4: adhyavasyāmaḥ
-- 3/34: E2: 4,43; E4: 3,556; E6: 1,148
-- 3/35: E2,4: aruṇāśabda
-- 3/36: E2,4: aruṇāśabdābhidhānīyatāṃ
-- 3/37: E2,4: nāruṇāśabdaḥ
-- 3/38: E2,4,6: karuṇā
-- 3/39: E2,4: aruṇāśābdo
-- 3/40: E2: 4,49; E4: 3,557; E6: 1,149
-- 3/41: E2,4: aruṇāśabdasya
-- 3/42: E2,4 om. saṃbadhyate
-- 3/43: E2,4: na saṃbadhyate, nāmūrto
-- 3/44: E2,4: vākyād, E6 om. ekavākyatvād
-- 3/45: E2: 4,50; E4: 3,558; E6: 1,149
-- 3/46: E1,6; E1 (v.l.), E2,4: -vibhaktir
-- 3/47: E2,4,6: yathā
-- 3/48: E2,4: upasarjanabhūto
-- 3/49: E2: 4,51; E4: 3,558; E6: 1,150
-- 3/50: E2: puruṣeṇa
-- 3/51: E2: 4,53; E4: 3,559; E6: 1,151
-- 3/52: Vgl. MS 1.1.25
-- 3/53: E1,6, E2 (v.l.); E2,4: pratyakṣataḥ
-- 3/54: E2: 4,54; E4: 3,560; E6: 1,152
-- 3/55: E2,4: prakaraṇagatair
-- 3/56: E2,4 om
-- 3/57: Vgl. MS 3.1.8
-- 3/58: E2,4: (yad abhidhīyate niyamyeyātām iti) naitad
-- 3/59: E2: 4,60; E4: 3,561; E6: 1,152
-- 3/60: E2,4: krayeṇāruṇim asaṃbandha
-- 3/61: E2,4: yathā
-- 3/62: E2: 4,62; E4: 3,561; E6: 1,153
-- 3/63: E2,4,6: sthālīṃ
-- 3/64: E2: 4,63; E4: 3,562; E6: 1,153
+
+[^3/31]: E1 (v.l.): piṅgākṣyaikahāyinyā
+
+[^3/32]: Vgl. Tait.S. 6.1.6.7
+
+[^3/33]: E2,4: adhyavasyāmaḥ
+
+[^3/34]: E2: 4,43; E4: 3,556; E6: 1,148
+
+[^3/35]: E2,4: aruṇāśabda
+
+[^3/36]: E2,4: aruṇāśabdābhidhānīyatāṃ
+
+[^3/37]: E2,4: nāruṇāśabdaḥ
+
+[^3/38]: E2,4,6: karuṇā
+
+[^3/39]: E2,4: aruṇāśābdo
+
+[^3/40]: E2: 4,49; E4: 3,557; E6: 1,149
+
+[^3/41]: E2,4: aruṇāśabdasya
+
+[^3/42]: E2,4 om. saṃbadhyate
+
+[^3/43]: E2,4: na saṃbadhyate, nāmūrto
+
+[^3/44]: E2,4: vākyād, E6 om. ekavākyatvād
+
+[^3/45]: E2: 4,50; E4: 3,558; E6: 1,149
+
+[^3/46]: E1,6; E1 (v.l.), E2,4: -vibhaktir
+
+[^3/47]: E2,4,6: yathā
+
+[^3/48]: E2,4: upasarjanabhūto
+
+[^3/49]: E2: 4,51; E4: 3,558; E6: 1,150
+
+[^3/50]: E2: puruṣeṇa
+
+[^3/51]: E2: 4,53; E4: 3,559; E6: 1,151
+
+[^3/52]: Vgl. MS 1.1.25
+
+[^3/53]: E1,6, E2 (v.l.); E2,4: pratyakṣataḥ
+
+[^3/54]: E2: 4,54; E4: 3,560; E6: 1,152
+
+[^3/55]: E2,4: prakaraṇagatair
+
+[^3/56]: E2,4 om
+
+[^3/57]: Vgl. MS 3.1.8
+
+[^3/58]: E2,4: (yad abhidhīyate niyamyeyātām iti) naitad
+
+[^3/59]: E2: 4,60; E4: 3,561; E6: 1,152
+
+[^3/60]: E2,4: krayeṇāruṇim asaṃbandha
+
+[^3/61]: E2,4: yathā
+
+[^3/62]: E2: 4,62; E4: 3,561; E6: 1,153
+
+[^3/63]: E2,4,6: sthālīṃ
+
+[^3/64]: E2: 4,63; E4: 3,562; E6: 1,153
 
 ____________________________________________
 

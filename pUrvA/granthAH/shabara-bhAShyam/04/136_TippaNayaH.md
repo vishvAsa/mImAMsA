@@ -2,10 +2,14 @@
 title: १३६ टिप्पन्यः
 
 ---
-- 4/461: Vgl. MS 1.1.2
-- 4/462: E1 gibt sāmarthyāc ca in Klammern
-- 4/463: E1 (Fn.): 'numīyate; E2: 'nuṣṭhīyate
-- 4/464: E2: 5,110; E6: 2,68
+
+[^4/461]: Vgl. MS 1.1.2
+
+[^4/462]: E1 gibt sāmarthyāc ca in Klammern
+
+[^4/463]: E1 (Fn.): 'numīyate; E2: 'nuṣṭhīyate
+
+[^4/464]: E2: 5,110; E6: 2,68
 
 ____________________________________________
 

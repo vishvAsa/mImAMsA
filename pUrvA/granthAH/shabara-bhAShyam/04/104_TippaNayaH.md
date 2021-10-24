@@ -2,8 +2,10 @@
 title: १०४ टिप्पन्यः
 
 ---
-- 4/368: E2: kevalasya. kāmād abhiṣecanīyasya kevalasya. kāmād; E6: kevalasya. kāmād
-- 4/369: E2: 5,89; E6: 2,54
+
+[^4/368]: E2: kevalasya. kāmād abhiṣecanīyasya kevalasya. kāmād; E6: kevalasya. kāmād
+
+[^4/369]: E2: 5,89; E6: 2,54
 
 ____________________________________________
 

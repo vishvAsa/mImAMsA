@@ -2,14 +2,22 @@
 title: २५ टिप्पन्यः
 
 ---
-- 6/100: Tait.Br. 3.7.1.8
-- 6/101: E1 setzt kuyād (kuryād?) in Klammern; E2,6: nirvapet kuryād iti
-- 6/102: E2: 5,290; E6: 2,164
-- 6/103: E1,6; E2: pañcaśarāvo tato nirvapatinā
-- 6/104: E1 (v.l.): pañcaśarāvo devatayā saṃbadhyate; pañcaśarāvo na nirvapatinā saṃbadhyate
-- 6/105: E1; E2,6: sāṃnāyyasya
-- 6/106: E1,6; E2: nendrasaṃbandhe
-- 6/107: E1; E2,6: tatra
+
+[^6/100]: Tait.Br. 3.7.1.8
+
+[^6/101]: E1 setzt kuyād (kuryād?) in Klammern; E2,6: nirvapet kuryād iti
+
+[^6/102]: E2: 5,290; E6: 2,164
+
+[^6/103]: E1,6; E2: pañcaśarāvo tato nirvapatinā
+
+[^6/104]: E1 (v.l.): pañcaśarāvo devatayā saṃbadhyate; pañcaśarāvo na nirvapatinā saṃbadhyate
+
+[^6/105]: E1; E2,6: sāṃnāyyasya
+
+[^6/106]: E1,6; E2: nendrasaṃbandhe
+
+[^6/107]: E1; E2,6: tatra
 
 ____________________________________________
 

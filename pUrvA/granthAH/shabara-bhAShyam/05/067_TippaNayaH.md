@@ -2,8 +2,10 @@
 title: ६७ टिप्पन्यः
 
 ---
-- 5/205: E2: uccanīcapuṇyapaṇo
-- 5/206: E2: adhiratham
+
+[^5/205]: E2: uccanīcapuṇyapaṇo
+
+[^5/206]: E2: adhiratham
 
 ____________________________________________
 

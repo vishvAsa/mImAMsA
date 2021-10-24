@@ -2,11 +2,15 @@
 title: १८३ टिप्पन्यः
 
 ---
-- 6/491: E1; E2,6: nautpattikatvāt
+
+[^6/491]: E1; E2,6: nautpattikatvāt
 ## - 6/492: E2: 6.8.41; E1 (v.l.): vikāra iti cet // MS_6,8.40 //, notpattikatvāt // MS_6,8.41//
-- 6/493: E2 om. na
-- 6/494: E1; E2,6: autpattikatvāt
-- 6/495: Vgl. MS 1.1.5 und ŚBh ad 1.1.5
+
+[^6/493]: E2 om. na
+
+[^6/494]: E1; E2,6: autpattikatvāt
+
+[^6/495]: Vgl. MS 1.1.5 und ŚBh ad 1.1.5
 
 ____________________________________________
 

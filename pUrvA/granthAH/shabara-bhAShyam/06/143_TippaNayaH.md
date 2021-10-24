@@ -2,9 +2,12 @@
 title: १४३ टिप्पन्यः
 
 ---
-- 6/382: E1,6; E2: sahasrasaṃvatsaram satraṃ viśvasṛjāmayanam, pañcapañcāśatas
-- 6/383: E2: 5,350; E6: 2,206
-- 6/384: E1 hat yadāpi manuṣyāṇām, tadāpi bahavo vikalpā vakṣyamānāḥ in Klammern
+
+[^6/382]: E1,6; E2: sahasrasaṃvatsaram satraṃ viśvasṛjāmayanam, pañcapañcāśatas
+
+[^6/383]: E2: 5,350; E6: 2,206
+
+[^6/384]: E1 hat yadāpi manuṣyāṇām, tadāpi bahavo vikalpā vakṣyamānāḥ in Klammern
 
 ____________________________________________
 

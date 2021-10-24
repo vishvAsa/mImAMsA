@@ -2,9 +2,12 @@
 title: ५० टिप्पन्यः
 
 ---
-- 5/134: E2: anagnīṣomīyo 'py asau
-- 5/135: E2: miśradevatasyāgrahaṇasāmānyād
-- 5/136: E2: 5,171; E6: 2,102
+
+[^5/134]: E2: anagnīṣomīyo 'py asau
+
+[^5/135]: E2: miśradevatasyāgrahaṇasāmānyād
+
+[^5/136]: E2: 5,171; E6: 2,102
 
 ____________________________________________
 

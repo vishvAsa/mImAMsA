@@ -2,10 +2,14 @@
 title: ११७ टिप्पन्यः
 
 ---
-- 4/394: E2: 5,95; E6: 2,58
-- 4/395: E1 gibt dvayoḥ sūtrayor idam uttaram, tābhiś ca tulyasaṃkhyānāt, arthavādopapatteś ceti in Klammern
-- 4/396: E1 gibt nityābhiḥ in Klammern
-- 4/397: Tait.S. 2.4.1.1
+
+[^4/394]: E2: 5,95; E6: 2,58
+
+[^4/395]: E1 gibt dvayoḥ sūtrayor idam uttaram, tābhiś ca tulyasaṃkhyānāt, arthavādopapatteś ceti in Klammern
+
+[^4/396]: E1 gibt nityābhiḥ in Klammern
+
+[^4/397]: Tait.S. 2.4.1.1
 
 ____________________________________________
 

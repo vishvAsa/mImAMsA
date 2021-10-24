@@ -2,13 +2,20 @@
 title: ०७ टिप्पन्यः
 
 ---
-- 3/15: E2,4,6: grahaṇāsādanādaya
-- 3/16: E2,4: prasnāvanam
-- 3/17: E2: sāṃnāyyasya, E4: sānāyyasya, E6: sānnāyyasya
-- 3/18: E2,4: evaite, E6: evam
-- 3/19: E2: 4,24; E4: 3,545; E6: 1,145
-- 3/20: E2,4: ājyasāṃnāyyayor, E6: ājyasānnāyyayor
-- 3/21: E2,4,6: śrūyeraṃs
+
+[^3/15]: E2,4,6: grahaṇāsādanādaya
+
+[^3/16]: E2,4: prasnāvanam
+
+[^3/17]: E2: sāṃnāyyasya, E4: sānāyyasya, E6: sānnāyyasya
+
+[^3/18]: E2,4: evaite, E6: evam
+
+[^3/19]: E2: 4,24; E4: 3,545; E6: 1,145
+
+[^3/20]: E2,4: ājyasāṃnāyyayor, E6: ājyasānnāyyayor
+
+[^3/21]: E2,4,6: śrūyeraṃs
 
 ____________________________________________
 

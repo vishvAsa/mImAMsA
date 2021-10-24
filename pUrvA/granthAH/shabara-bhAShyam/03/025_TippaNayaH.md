@@ -2,18 +2,30 @@
 title: २५ टिप्पन्यः
 
 ---
-- 3/115: E2,4: devatayārthenaikadaivatyasya
-- 3/116: E2,4: dvidevatyasyāgnīṣomīyasyaindrāgnasya
-- 3/117: E2,4: nirapekṣāgnidevatyena
-- 3/118: E2,4: dvidevatyasyābhidhānam
-- 3/119: E2: yathā yathā
-- 3/120: E2 om. evaṃ
-- 3/121: E2: adāne. na tatraivaṃ, E4: adāne. tatraivaṃ
-- 3/122: E2,4: kevalāgnidevatyo
-- 3/123: E2,4: dvidevatyo
-- 3/124: E2,4: agrahīṣyata
-- 3/125: E2: 4,122; E4: 3,698; E6: 1,166
-- 3/126: E2: 4,123; E4: 4,1; E6: 1,167
+
+[^3/115]: E2,4: devatayārthenaikadaivatyasya
+
+[^3/116]: E2,4: dvidevatyasyāgnīṣomīyasyaindrāgnasya
+
+[^3/117]: E2,4: nirapekṣāgnidevatyena
+
+[^3/118]: E2,4: dvidevatyasyābhidhānam
+
+[^3/119]: E2: yathā yathā
+
+[^3/120]: E2 om. evaṃ
+
+[^3/121]: E2: adāne. na tatraivaṃ, E4: adāne. tatraivaṃ
+
+[^3/122]: E2,4: kevalāgnidevatyo
+
+[^3/123]: E2,4: dvidevatyo
+
+[^3/124]: E2,4: agrahīṣyata
+
+[^3/125]: E2: 4,122; E4: 3,698; E6: 1,166
+
+[^3/126]: E2: 4,123; E4: 4,1; E6: 1,167
 
 ____________________________________________
 

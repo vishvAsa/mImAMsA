@@ -2,11 +2,16 @@
 title: ११६ टिप्पन्यः
 
 ---
-- 5/348: E2: 5,236; E6: 2,136
-- 5/349: E1 gibt etāvatā kṛtenāyukta enasā bhavati in Klammern
-- 5/350: E2: ucyate. āha, pratiṣiddhaṃ
-- 5/351: E2,6: upadeśavaiyarthyaprasaṅgād
-- 5/352: E2: 5,237; E6: 2,137
+
+[^5/348]: E2: 5,236; E6: 2,136
+
+[^5/349]: E1 gibt etāvatā kṛtenāyukta enasā bhavati in Klammern
+
+[^5/350]: E2: ucyate. āha, pratiṣiddhaṃ
+
+[^5/351]: E2,6: upadeśavaiyarthyaprasaṅgād
+
+[^5/352]: E2: 5,237; E6: 2,137
 
 ____________________________________________
 

@@ -2,9 +2,12 @@
 title: ९१ टिप्पन्यः
 
 ---
-- 3/343: E2,4: dhi carāv
-- 3/344: E2,4,6: saumāpauṣṇasya
-- 3/345: E1 gibt saumāpauṣṇamātraṃ prati in Klammern
+
+[^3/343]: E2,4: dhi carāv
+
+[^3/344]: E2,4,6: saumāpauṣṇasya
+
+[^3/345]: E1 gibt saumāpauṣṇamātraṃ prati in Klammern
 
 ____________________________________________
 

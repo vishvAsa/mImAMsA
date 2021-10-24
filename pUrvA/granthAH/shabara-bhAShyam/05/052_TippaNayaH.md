@@ -2,10 +2,14 @@
 title: ५२ टिप्पन्यः
 
 ---
-- 5/139: Vgl. Tait.S. 1.8.2.1
-- 5/140: E2: agnīṣomīyavikārāḥ, agnīṣomīyam
-- 5/141: Tait.S. 2.5.5.1
-- 5/142: E2: someneṣṭvāgnīṣomīyo bhavati
+
+[^5/139]: Vgl. Tait.S. 1.8.2.1
+
+[^5/140]: E2: agnīṣomīyavikārāḥ, agnīṣomīyam
+
+[^5/141]: Tait.S. 2.5.5.1
+
+[^5/142]: E2: someneṣṭvāgnīṣomīyo bhavati
 
 ____________________________________________
 

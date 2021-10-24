@@ -2,8 +2,10 @@
 title: १०१ टिप्पन्यः
 
 ---
-- 6/288: E1,6; E1 (v.l.): añjalau pratyaṅgabhūtau; E2: añjalau pratyaṅgabhūto
-- 6/289: E1,6; E1 (v.l.),E2: tam
+
+[^6/288]: E1,6; E1 (v.l.): añjalau pratyaṅgabhūtau; E2: añjalau pratyaṅgabhūto
+
+[^6/289]: E1,6; E1 (v.l.),E2: tam
 
 ____________________________________________
 

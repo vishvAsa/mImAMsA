@@ -2,17 +2,28 @@
 title: ६७ टिप्पन्यः
 
 ---
-- 4/239: E2: sruco
-- 4/240: Tait. S. 3.5.7.3
-- 4/241: E2: jyotiṣṭome saṃskāre
-- 4/242: Tait.S. 6.1.1.2
-- 4/243: Tait.S. 6.1.1.2
-- 4/244: Tait. S. 2.6.2.1
-- 4/245: Tait. S. 2.6.1.5
-- 4/246: E2: 5,59; E6: 2,35
-- 4/247: Ait.Br. 2.1
-- 4/248: E2: dhruvā
-- 4/249: E2 gibt juhvā homam abhinirvartayati in Klammern
+
+[^4/239]: E2: sruco
+
+[^4/240]: Tait. S. 3.5.7.3
+
+[^4/241]: E2: jyotiṣṭome saṃskāre
+
+[^4/242]: Tait.S. 6.1.1.2
+
+[^4/243]: Tait.S. 6.1.1.2
+
+[^4/244]: Tait. S. 2.6.2.1
+
+[^4/245]: Tait. S. 2.6.1.5
+
+[^4/246]: E2: 5,59; E6: 2,35
+
+[^4/247]: Ait.Br. 2.1
+
+[^4/248]: E2: dhruvā
+
+[^4/249]: E2 gibt juhvā homam abhinirvartayati in Klammern
 
 ____________________________________________
 

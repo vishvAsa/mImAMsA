@@ -2,10 +2,14 @@
 title: ८६ टिप्पन्यः
 
 ---
-- 5/262: E2: avaidhatvād
-- 5/263: E2: adhyayanaphalaṃ
-- 5/264: E2: vaidhatvena
-- 5/265: E2: brāhmaṇo
+
+[^5/262]: E2: avaidhatvād
+
+[^5/263]: E2: adhyayanaphalaṃ
+
+[^5/264]: E2: vaidhatvena
+
+[^5/265]: E2: brāhmaṇo
 
 ____________________________________________
 

@@ -2,9 +2,12 @@
 title: १६ टिप्पन्यः
 
 ---
-- 6/36: E2 (v.l.): hy ubhayaṃ prāptaṃ
-- 6/37: E1,6; E2: saṃtiṣthate
-- 6/38: E1,6; E2: atha tad
+
+[^6/36]: E2 (v.l.): hy ubhayaṃ prāptaṃ
+
+[^6/37]: E1,6; E2: saṃtiṣthate
+
+[^6/38]: E1,6; E2: atha tad
 
 ____________________________________________
 

@@ -2,8 +2,10 @@
 title: १२० टिप्पन्यः
 
 ---
-- 6/322: E1,6,E2 (v.l.); E2: api tat sarvaṃ
-- 6/323: E1,6,E2 (v.l.); E2: dānaṃ dadāter arthaḥ. arthāc
+
+[^6/322]: E1,6,E2 (v.l.); E2: api tat sarvaṃ
+
+[^6/323]: E1,6,E2 (v.l.); E2: dānaṃ dadāter arthaḥ. arthāc
 
 ____________________________________________
 

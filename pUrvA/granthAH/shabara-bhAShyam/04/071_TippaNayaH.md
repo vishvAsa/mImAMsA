@@ -2,8 +2,10 @@
 title: ७१ टिप्पन्यः
 
 ---
-- 4/272: E2: 5,65; E6: 2,39
-- 4/273: E1 gibt nityatve naimittikatve ca in Klammern
+
+[^4/272]: E2: 5,65; E6: 2,39
+
+[^4/273]: E1 gibt nityatve naimittikatve ca in Klammern
 
 ____________________________________________
 

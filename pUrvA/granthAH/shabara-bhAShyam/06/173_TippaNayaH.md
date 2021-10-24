@@ -2,10 +2,14 @@
 title: १७३ टिप्पन्यः
 
 ---
-- 6/459: E1,6; E2: ca
-- 6/460: E1,6; E2: vārthavattvāt
-- 6/461: E1,2,E2 (v.l.); E2: tadā sarvatantralopaḥ syāt. tasmād
-- 6/462: E1,6; E2: na niyataṃ
+
+[^6/459]: E1,6; E2: ca
+
+[^6/460]: E1,6; E2: vārthavattvāt
+
+[^6/461]: E1,2,E2 (v.l.); E2: tadā sarvatantralopaḥ syāt. tasmād
+
+[^6/462]: E1,6; E2: na niyataṃ
 
 ____________________________________________
 

@@ -2,12 +2,18 @@
 title: १३५ टिप्पन्यः
 
 ---
-- 6/362: E1,6; E2: syāt, tulyavat prasaṃkhyānāt. tena
-- 6/363: E2: 5,347; E6: 2,203
-- 6/364: E2 (v.l.): śravaṇena
-- 6/365: E1,6,E2 (v.l.); E2: vākyaṃ
-- 6/366: E2 (v.l.): śruteḥ
-- 6/367: E1,6; E2: kuśalaśabdaprayogād rūḍhiśabda
+
+[^6/362]: E1,6; E2: syāt, tulyavat prasaṃkhyānāt. tena
+
+[^6/363]: E2: 5,347; E6: 2,203
+
+[^6/364]: E2 (v.l.): śravaṇena
+
+[^6/365]: E1,6,E2 (v.l.); E2: vākyaṃ
+
+[^6/366]: E2 (v.l.): śruteḥ
+
+[^6/367]: E1,6; E2: kuśalaśabdaprayogād rūḍhiśabda
 
 ____________________________________________
 

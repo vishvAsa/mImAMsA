@@ -2,12 +2,18 @@
 title: २१ टिप्पन्यः
 
 ---
-- 4/75: E2: prayojakatvaṃ jñānam
-- 4/76: E2: parihṛtatvād
-- 4/77: E2 om. mastv
-- 4/78: E2: paridṛśyate
-- 4/79: E2: 5,21; E6: 2,11
-- 4/80: E2: garbhasaṃstutāmikṣā
+
+[^4/75]: E2: prayojakatvaṃ jñānam
+
+[^4/76]: E2: parihṛtatvād
+
+[^4/77]: E2 om. mastv
+
+[^4/78]: E2: paridṛśyate
+
+[^4/79]: E2: 5,21; E6: 2,11
+
+[^4/80]: E2: garbhasaṃstutāmikṣā
 
 ____________________________________________
 

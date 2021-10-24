@@ -2,11 +2,16 @@
 title: ०९ टिप्पन्यः
 
 ---
-- 4/37: E2: 5,10; E6: 2,5
-- 4/38: Tait.S. 6.6.4.1
-- 4/39: E2: śrapayanti
-- 4/40: Tait.S. 2.3.6.2
-- 4/41: E2: agnihotrahavaṇyā; E6: agnihotrahavaṇyāṃ
+
+[^4/37]: E2: 5,10; E6: 2,5
+
+[^4/38]: Tait.S. 6.6.4.1
+
+[^4/39]: E2: śrapayanti
+
+[^4/40]: Tait.S. 2.3.6.2
+
+[^4/41]: E2: agnihotrahavaṇyā; E6: agnihotrahavaṇyāṃ
 
 ____________________________________________
 

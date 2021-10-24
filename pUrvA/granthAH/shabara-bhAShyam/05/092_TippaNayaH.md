@@ -2,9 +2,12 @@
 title: ९२ टिप्पन्यः
 
 ---
-- 5/281: E2: vacanāt. vacanam idaṃ bhavati, varṣāsu rathakāra ādadhīteti. na
-- 5/282: E2: alabhyaṃ nāma. sarvaśeṣaś
-- 5/283: E2,6: brāhmaṇarājanyaviśām
+
+[^5/281]: E2: vacanāt. vacanam idaṃ bhavati, varṣāsu rathakāra ādadhīteti. na
+
+[^5/282]: E2: alabhyaṃ nāma. sarvaśeṣaś
+
+[^5/283]: E2,6: brāhmaṇarājanyaviśām
 
 ____________________________________________
 

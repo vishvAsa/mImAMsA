@@ -2,7 +2,8 @@
 title: ३१ टिप्पन्यः
 
 ---
-- 4/120: E2: snigdham annaṃ bhuktaṃ
+
+[^4/120]: E2: snigdham annaṃ bhuktaṃ
 
 ____________________________________________
 

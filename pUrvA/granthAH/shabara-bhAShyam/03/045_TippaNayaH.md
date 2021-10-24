@@ -2,8 +2,10 @@
 title: ४५ टिप्पन्यः
 
 ---
-- 3/186: E2: api ca kevalam eta evopadiṣṭāḥ, E4: api ca na kevalam eta evopadiṣṭāḥ
-- 3/187: E2: 4,169; E4: 4,91; E6: 1,180
+
+[^3/186]: E2: api ca kevalam eta evopadiṣṭāḥ, E4: api ca na kevalam eta evopadiṣṭāḥ
+
+[^3/187]: E2: 4,169; E4: 4,91; E6: 1,180
 
 ____________________________________________
 

@@ -2,13 +2,20 @@
 title: ६५ टिप्पन्यः
 
 ---
-- 4/229: E2: niriṣṭakasya
-- 4/230: E2: niriṣṭakasyopadeśaḥ
-- 4/231: E2: niriṣṭakena
-- 4/232: E2: bhavantīti
-- 4/233: E2: apavṛktam āsīt, pūrvaṃ
-- 4/234: E2: ātithyāyām āsīt, upasatkāle
-- 4/235: E2: 5,57; E6: 2,34
+
+[^4/229]: E2: niriṣṭakasya
+
+[^4/230]: E2: niriṣṭakasyopadeśaḥ
+
+[^4/231]: E2: niriṣṭakena
+
+[^4/232]: E2: bhavantīti
+
+[^4/233]: E2: apavṛktam āsīt, pūrvaṃ
+
+[^4/234]: E2: ātithyāyām āsīt, upasatkāle
+
+[^4/235]: E2: 5,57; E6: 2,34
 
 ____________________________________________
 

@@ -2,7 +2,8 @@
 title: ४१ टिप्पन्यः
 
 ---
-- 4/144: E2 gibt vṛkṣāntarāt in Klammern
+
+[^4/144]: E2 gibt vṛkṣāntarāt in Klammern
 
 ____________________________________________
 

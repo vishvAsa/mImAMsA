@@ -2,9 +2,12 @@
 title: ६४ टिप्पन्यः
 
 ---
-- 4/226: E1 gibt yajaty ukte 'rthe in Klammern
-- 4/227: E2,6: dadātir
-- 4/228: E2: 5,56; E6: 2,33
+
+[^4/226]: E1 gibt yajaty ukte 'rthe in Klammern
+
+[^4/227]: E2,6: dadātir
+
+[^4/228]: E2: 5,56; E6: 2,33
 
 ____________________________________________
 

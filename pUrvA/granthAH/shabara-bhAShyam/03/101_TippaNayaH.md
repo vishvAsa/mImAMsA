@@ -2,12 +2,18 @@
 title: १०१ टिप्पन्यः
 
 ---
-- 3/364: E2,4 om. ca, E6 om. vidheś ca
-- 3/365: E2,4: veṣaḥ
-- 3/366: E2,4: devadattaveṣapraśaṃsārtham
-- 3/367: E2,4: itaraveṣasaṃkīrtanam
-- 3/368: E2: 4,314; E4: 4,446; E6: 1,215
-- 3/369: Zu diesen 6 im Bhāṣya nicht kommentierten Sūtrāṇi vgl. G.Jha, Ü., Bd.1, S.494
+
+[^3/364]: E2,4 om. ca, E6 om. vidheś ca
+
+[^3/365]: E2,4: veṣaḥ
+
+[^3/366]: E2,4: devadattaveṣapraśaṃsārtham
+
+[^3/367]: E2,4: itaraveṣasaṃkīrtanam
+
+[^3/368]: E2: 4,314; E4: 4,446; E6: 1,215
+
+[^3/369]: Zu diesen 6 im Bhāṣya nicht kommentierten Sūtrāṇi vgl. G.Jha, Ü., Bd.1, S.494
 
 ____________________________________________
 

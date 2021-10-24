@@ -2,11 +2,16 @@
 title: ३५ टिप्पन्यः
 
 ---
-- 5/98: E2: vicāraṇā
-- 5/99: E2: tathaivānuṣṭhānam
-- 5/100: E1 gibt pradhānārtham in Klammern
-- 5/101: E2: śrutau
-- 5/102: E2: 5,163; E6: 2,97
+
+[^5/98]: E2: vicāraṇā
+
+[^5/99]: E2: tathaivānuṣṭhānam
+
+[^5/100]: E1 gibt pradhānārtham in Klammern
+
+[^5/101]: E2: śrutau
+
+[^5/102]: E2: 5,163; E6: 2,97
 
 ____________________________________________
 

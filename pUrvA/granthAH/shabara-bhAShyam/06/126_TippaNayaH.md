@@ -2,10 +2,14 @@
 title: १२६ टिप्पन्यः
 
 ---
-- 6/343: E1,6; E2: aśeṣatvād antaḥ
-- 6/344: E2 (v.l.): dravyasiddhatvāt
-- 6/345: E1,6; E2: eva sarvasvaṃ dattvā viśvajid
-- 6/346: E1,6,E2 (v.l.); E2: sarvasyaṃ
+
+[^6/343]: E1,6; E2: aśeṣatvād antaḥ
+
+[^6/344]: E2 (v.l.): dravyasiddhatvāt
+
+[^6/345]: E1,6; E2: eva sarvasvaṃ dattvā viśvajid
+
+[^6/346]: E1,6,E2 (v.l.); E2: sarvasyaṃ
 
 ____________________________________________
 

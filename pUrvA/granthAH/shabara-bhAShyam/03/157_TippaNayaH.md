@@ -2,7 +2,8 @@
 title: १५७ टिप्पन्यः
 
 ---
-- 3/517: E1 gibt hāriyojane camasinām adhikāra iti manyamāna evaṃ ha smāha, nāsyāmnāyate bhakṣa in Klammern
+
+[^3/517]: E1 gibt hāriyojane camasinām adhikāra iti manyamāna evaṃ ha smāha, nāsyāmnāyate bhakṣa in Klammern
 
 ____________________________________________
 

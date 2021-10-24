@@ -2,13 +2,20 @@
 title: ३० टिप्पन्यः
 
 ---
-- 6/122: E2 om. yad
-- 6/123: E1,6; E2: vijñāyate
-- 6/124: E1,6; E2: āguraṇavelāyām
-- 6/125: E1,6; E2: āgūraṇaviśeṣaṇaṃ
-- 6/126: E1,6; E2: āgūraṇānantaryaṃ
-- 6/127: E1,6; E2: viśvajito 'bhisaṃbandhaḥ
-- 6/128: E1,6; E2: cet, ya āgūrya
+
+[^6/122]: E2 om. yad
+
+[^6/123]: E1,6; E2: vijñāyate
+
+[^6/124]: E1,6; E2: āguraṇavelāyām
+
+[^6/125]: E1,6; E2: āgūraṇaviśeṣaṇaṃ
+
+[^6/126]: E1,6; E2: āgūraṇānantaryaṃ
+
+[^6/127]: E1,6; E2: viśvajito 'bhisaṃbandhaḥ
+
+[^6/128]: E1,6; E2: cet, ya āgūrya
 
 ____________________________________________
 

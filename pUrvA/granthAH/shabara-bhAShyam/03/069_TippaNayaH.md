@@ -2,14 +2,22 @@
 title: ६९ टिप्पन्यः
 
 ---
-- 3/247: E2,4: yājurvedikam
-- 3/248: E2,4: sāmavedikaṃ
-- 3/249: E2,4: sāmavedikaṃ
-- 3/250: E2,4: yājurvedikaṃ
-- 3/251: E2: 4,211; E4: 4,187; E6: 1,193
-- 3/252: E2: kriyārthaṃ
-- 3/253: E2: kartavyatācodanād
-- 3/254: E2,4: yājurvedikasya
+
+[^3/247]: E2,4: yājurvedikam
+
+[^3/248]: E2,4: sāmavedikaṃ
+
+[^3/249]: E2,4: sāmavedikaṃ
+
+[^3/250]: E2,4: yājurvedikaṃ
+
+[^3/251]: E2: 4,211; E4: 4,187; E6: 1,193
+
+[^3/252]: E2: kriyārthaṃ
+
+[^3/253]: E2: kartavyatācodanād
+
+[^3/254]: E2,4: yājurvedikasya
 
 ____________________________________________
 

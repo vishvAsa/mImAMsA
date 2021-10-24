@@ -2,10 +2,14 @@
 title: ६८ टिप्पन्यः
 
 ---
-- 5/207: E1 (v.l.): patyaivam anumataṃ
-- 5/208: Tait.S. 6.2.1.1
-- 5/209: E2: jāghanyā patnīḥ
-- 5/210: E1 (v.l.): patyaivam anumatam
+
+[^5/207]: E1 (v.l.): patyaivam anumataṃ
+
+[^5/208]: Tait.S. 6.2.1.1
+
+[^5/209]: E2: jāghanyā patnīḥ
+
+[^5/210]: E1 (v.l.): patyaivam anumatam
 
 ____________________________________________
 

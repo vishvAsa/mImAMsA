@@ -2,18 +2,30 @@
 title: ९१ टिप्पन्यः
 
 ---
-- 4/322: Alternativauslegung von MS 4.3.27/28 (E1,2,6)
-- 4/323: Tait.S. 2.3.2.3
-- 4/324: Tait.S. 2.2.1.1
-- 4/325: Tait.S. 2.4.6.1
-- 4/326: E1 (Fn.): sāgrahiṇīm; E2: sāṃgrahaṇīṃ
-- 4/327: Tait.S. 2.3.9.2
-- 4/328: E1 gibt amuṣmil loke in Klammern
-- 4/329: E2: anantaraṃ nirvṛtte
-- 4/330: E2: 5,78; E6: 2,47
-- 4/331: E2: asti pratyakṣam
-- 4/332: E2: svārāṣṭrapratipādanīyayeṣṭyā
-- 4/333: E2: rāṣṭrapratipādanaṃ; E2 (Fn.): rāṣṭrapratipādanīyāṃ
+
+[^4/322]: Alternativauslegung von MS 4.3.27/28 (E1,2,6)
+
+[^4/323]: Tait.S. 2.3.2.3
+
+[^4/324]: Tait.S. 2.2.1.1
+
+[^4/325]: Tait.S. 2.4.6.1
+
+[^4/326]: E1 (Fn.): sāgrahiṇīm; E2: sāṃgrahaṇīṃ
+
+[^4/327]: Tait.S. 2.3.9.2
+
+[^4/328]: E1 gibt amuṣmil loke in Klammern
+
+[^4/329]: E2: anantaraṃ nirvṛtte
+
+[^4/330]: E2: 5,78; E6: 2,47
+
+[^4/331]: E2: asti pratyakṣam
+
+[^4/332]: E2: svārāṣṭrapratipādanīyayeṣṭyā
+
+[^4/333]: E2: rāṣṭrapratipādanaṃ; E2 (Fn.): rāṣṭrapratipādanīyāṃ
 
 ____________________________________________
 

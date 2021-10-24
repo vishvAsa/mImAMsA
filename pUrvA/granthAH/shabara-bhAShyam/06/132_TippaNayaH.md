@@ -2,8 +2,10 @@
 title: १३२ टिप्पन्यः
 
 ---
-- 6/357: E1,6,E2 (v.l.); E2: viśvajity adhikāraḥ
-- 6/358: E1,6,E2 (v.l.); E2: viśvajity adhikāra
+
+[^6/357]: E1,6,E2 (v.l.); E2: viśvajity adhikāraḥ
+
+[^6/358]: E1,6,E2 (v.l.); E2: viśvajity adhikāra
 
 ____________________________________________
 

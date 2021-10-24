@@ -2,10 +2,14 @@
 title: ३३ टिप्पन्यः
 
 ---
-- 5/91: E2: kim ekastomakasya. krator eṣa vāda utaikastomakasyānekastomakasya ceti. kiṃ
-- 5/92: E2: pañcadaśaḥ
-- 5/93: E2: saptadaśaḥ
-- 5/94: E2: ekaviṃśaḥ
+
+[^5/91]: E2: kim ekastomakasya. krator eṣa vāda utaikastomakasyānekastomakasya ceti. kiṃ
+
+[^5/92]: E2: pañcadaśaḥ
+
+[^5/93]: E2: saptadaśaḥ
+
+[^5/94]: E2: ekaviṃśaḥ
 
 ____________________________________________
 

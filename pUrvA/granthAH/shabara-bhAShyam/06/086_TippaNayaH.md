@@ -2,22 +2,38 @@
 title: ८६ टिप्पन्यः
 
 ---
-- 6/243: E1,6; E2: tatrādākṣiṇyeneṣṭvā
-- 6/244: E1,6; E2: dāsyaṃ
-- 6/245: E1,6; E2: syād iti
-- 6/246: E1,6; E2: sarvasvaṃ
-- 6/247: E1 hat pūrvasminn ahani sarvasvam in Klammern
-- 6/248: E1,6; E2: cen na
-- 6/249: E1,6; E2: dāsyaṃ
-- 6/250: E1,6; E2: tūbhayaṃ
-- 6/251: E1,6; E2: aṅgīkṛte
-- 6/252: E1,6; E2: dāsyaṃ
-- 6/253: E2 om. iti
-- 6/254: E2: etāvad dhi dāsyam
-- 6/255: E2: dāsyaṃ; E2 (v.l.), E1,6: dānaṃ
-- 6/256: E1,6; E2: dāsyam
-- 6/257: E2: 5,324; E6: 2,186
-- 6/258: E1,6; E2: dāsyaṃ
+
+[^6/243]: E1,6; E2: tatrādākṣiṇyeneṣṭvā
+
+[^6/244]: E1,6; E2: dāsyaṃ
+
+[^6/245]: E1,6; E2: syād iti
+
+[^6/246]: E1,6; E2: sarvasvaṃ
+
+[^6/247]: E1 hat pūrvasminn ahani sarvasvam in Klammern
+
+[^6/248]: E1,6; E2: cen na
+
+[^6/249]: E1,6; E2: dāsyaṃ
+
+[^6/250]: E1,6; E2: tūbhayaṃ
+
+[^6/251]: E1,6; E2: aṅgīkṛte
+
+[^6/252]: E1,6; E2: dāsyaṃ
+
+[^6/253]: E2 om. iti
+
+[^6/254]: E2: etāvad dhi dāsyam
+
+[^6/255]: E2: dāsyaṃ; E2 (v.l.), E1,6: dānaṃ
+
+[^6/256]: E1,6; E2: dāsyam
+
+[^6/257]: E2: 5,324; E6: 2,186
+
+[^6/258]: E1,6; E2: dāsyaṃ
 
 ____________________________________________
 

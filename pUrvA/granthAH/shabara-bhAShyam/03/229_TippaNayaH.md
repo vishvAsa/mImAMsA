@@ -2,9 +2,12 @@
 title: २२९ टिप्पन्यः
 
 ---
-- 3/673: E2: saṃkīrtanād eṣām evam anyatamā iti, E4: saṃkīrtanādeśām evānyatamā iti
-- 3/674: E2: 4,569; E4: 4,882; E6: 1,269
-- 3/675: E2,4: camasādhvaryutvaṃ
+
+[^3/673]: E2: saṃkīrtanād eṣām evam anyatamā iti, E4: saṃkīrtanādeśām evānyatamā iti
+
+[^3/674]: E2: 4,569; E4: 4,882; E6: 1,269
+
+[^3/675]: E2,4: camasādhvaryutvaṃ
 
 ____________________________________________
 

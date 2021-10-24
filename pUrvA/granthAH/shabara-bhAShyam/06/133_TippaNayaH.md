@@ -2,8 +2,10 @@
 title: १३३ टिप्पन्यः
 
 ---
-- 6/359: E1,6,E2 (v.l.); E2: viśvajity adhikāra
-- 6/360: E2 om. necchanti
+
+[^6/359]: E1,6,E2 (v.l.); E2: viśvajity adhikāra
+
+[^6/360]: E2 om. necchanti
 
 ____________________________________________
 

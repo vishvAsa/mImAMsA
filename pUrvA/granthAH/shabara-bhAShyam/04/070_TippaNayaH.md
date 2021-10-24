@@ -2,16 +2,26 @@
 title: ७० टिप्पन्यः
 
 ---
-- 4/262: E2: aśmaṃ; E1 (Fn.): asyam
-- 4/263: Tait.S. 5.6.8.2
-- 4/264: E2 om. tatra
-- 4/265: E2: 5,64; E6: 2,38
-- 4/266: E1 (Fn.): dvividhāni
-- 4/267: E1 gibt viśeṣe śrutatvād ity arthaḥ in Klammern
-- 4/268: E2: sāmānyapadārthaṃ
-- 4/269: E1 gibt avivakṣitaṃ kalpayitum in Klammern
-- 4/270: E2: 5,64; E6: 2,38
-- 4/271: E2: tan na
+
+[^4/262]: E2: aśmaṃ; E1 (Fn.): asyam
+
+[^4/263]: Tait.S. 5.6.8.2
+
+[^4/264]: E2 om. tatra
+
+[^4/265]: E2: 5,64; E6: 2,38
+
+[^4/266]: E1 (Fn.): dvividhāni
+
+[^4/267]: E1 gibt viśeṣe śrutatvād ity arthaḥ in Klammern
+
+[^4/268]: E2: sāmānyapadārthaṃ
+
+[^4/269]: E1 gibt avivakṣitaṃ kalpayitum in Klammern
+
+[^4/270]: E2: 5,64; E6: 2,38
+
+[^4/271]: E2: tan na
 
 ____________________________________________
 

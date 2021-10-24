@@ -2,9 +2,12 @@
 title: ४४ टिप्पन्यः
 
 ---
-- 5/121: E2: 5,186; E6: 2,100
-- 5/122: E2: phalaṃ vacanam
-- 5/123: E2: adhikaraṇam. antarā cintāntaraṃ vakṣyate
+
+[^5/121]: E2: 5,186; E6: 2,100
+
+[^5/122]: E2: phalaṃ vacanam
+
+[^5/123]: E2: adhikaraṇam. antarā cintāntaraṃ vakṣyate
 
 ____________________________________________
 
