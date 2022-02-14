@@ -40,6 +40,6 @@ unicode_script: devanagari
 
 यथा ऽयम् उपनीयमानेनोच्यमाने पक्षे- 
 
-<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_03/01_AgantrA_samaganmahi.md"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_03/01_AgantrA_samaganmahi.md"  newLevelForH1="2" includeTitle="true"> </div>  
 
 
