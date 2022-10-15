@@ -2,6 +2,9 @@
 title = "ManjushrI sophist summary"
 +++
 
+Source: [TW](https://www.youtube.com/watch?v=gAuRJyJN2OI)
+
+
 ## Old sources
 - Earliest usage of "mīmāṁsā": "investigating a doubtful point (of a ritual) and arriving at a
   conclusion thereon.
@@ -212,11 +215,26 @@ Mīmāṁsā rules of interpretation maybe classified into three types:
 5. Each prescriptive text, which may entail several sentences, is assembled around a principal action to be done (conveyed by the principal vidhi); all the rest is subsidiary to that action.
 
 ## DEVATĀ
+### Concept
+
+In Indian philosophy, god can mean at least four different things:
+
+1. The devatās of Veda-s: a higher being, who is better than a human one, but only insofar as s/he has the same qualities of a human being in higher degree; eg. like Indra.
+2. The Īśvara of rational theology: He is usually omniscient and omnipotent and mostly also benevolent.
+3. The Brahman of Advaita Vedānta
+4. The Bhāgavata deity: linked to through a personal relationship.
+
+Mīmāṁsā repudiates option (2) & (3)
+
+Most (especially later) mīmāṁsakā-s open and often close their works by dedicating the work to some deity.
+
+### Subordination in yajña
 Most theories about yajna are centred on the theme of the propitiation of a deity.
 
 > “Tylor: “[yajna] evolved from the idea of giving a gift to a deity as if he were a man”  
 Smith and Doniger: “[yajna] is the act of giving up something in order to receive something of greater worth.”  
 
+#### mīmāṁsakā view
 For the mīmāṁsakā, the performance of a yajña is not centred on the notion of a gift-giving devatā. Jaimini’s discussion about the nature of the gods can be classified thus:
 
 > MS 2.2.9-12: Can devatā be defined as 'the recipient of the sacrifice’?  
@@ -224,3 +242,163 @@ MS 6.3.17-18: Can one devatā be substituted for another?
 MS 9.1.6-10: Are devatā real, embodied beings who really participate in rituals?  
 MS 10.4.23: Is a devatā more than the word which names it? And does it matter?
 
+Furthermore, the subordination of the devata-s is another aspect of Jaimini’s concern for the yajña as an unquestionable practice, intrinsically worthwhile on its own terms.
+
+> Pūrvapakṣin:  
+devatā vā prayojayed atithivad bhojanasya tad-arthatvāt  
+> [The deity should be taken as primary because he is like a guest for whom a meal is prepared, and is the “lord (owner) of wealth” [who is the one to] grant the wealth and fulfil the purpose desired.]
+
+> Jaimini:  
+> api vā śabda-pūrvatvād yajña-karma pradhānaṁ syād - guṇatve devatāśrutiḥ  
+> [It is the yajñakarma that should be regarded as the principal factor, because the act is brought about only by the Vedic word; and the Deity is [spoken of only as] a subordinate factor.]  
+> 
+> atithau tat-pradhānatva-abhāvaḥ karmaṇi syāt - tasya prīti-pradhānatvāt  
+> [In the case of the guest, he is primary, as his pleasure (happiness) is primary; [but] it is not so in [the case of] the sacrificial act.]  
+Śabarasvāmin: “It ultimately does not matter if the deities exist apart from their “linguistic reality”...they are “part of the mantra,” not part of the kriya.”
+
+
+
+### Objections to corporeal devata-s
+> Śaṅkarācārya:  
+> vigrahavatī devatā \`bhyupagamyamānā  vigraha-yogād asmad-ādi-vaj-janana-maraṇavatī seti  
+> nityasya śabdasya nityenārthena nitye saṃbandhe pratīyamāne yad vaidike śabde prāmāṇyaṃ sthitaṃ  
+> tasya virodhaḥ syād
+
+According to the mīmāṁsakā-s, it is only after the creation of a thing that it is given a nomenclature. If the corporeality of the gods is accepted, their birth & death must also be accepted.  
+
+If devata-s get their names upon their origination, it follows that Veda is not anādi (it could not have existed before the origination of the devatā-s).
+
+### Creator
+
+> Ślokavārttikā (1.1.5), sambandhākṣepaparihāra 41ff:  
+“We do not admit of any beginning of creation. The idea that God created the world, as also dharma and adharma, along with their means of accomplishment, also, words, their meanings and the relations between them, and also the Veda, cannot be proved... This is the reason why this view has not been accepted.  
+> 
+> If there was any point of time when all this world did not exist, prior to its creation by God, then what would have been the condition of things at the time? Where, and in what form, would the creator himself exist at the time? Who, too, was the person who would know the creator at the time and describe him to the people later on?  
+> 
+> How, too, could there come about the initial impulse to the activity of the creator? As God could have no body, etc, at the time, how could He have a desire to create things? If He had a body, then that body could not have been created by Himself. Earth, water, etc, being non-existent at the time, what would God’s body consist of?  
+> 
+> As the world is found to be full of pain and suffering, it cannot be right to attribute its creation to God; especially because at the beginning of Creation, the merit or demerit of men could not exist to which their sufferings could be due.  No agent can create anything without some material to work upon and implements to work with.
+>
+> Nor can creation be attributed to God’s compassion towards beings; for at the outset, there would be no beings towards whom the compassion would be directed;  
+> secondly, if creation were due to compassion, the world would be made entirely happy, especially as the Creator being all-powerful, nothing could hamper His compassionate activity. If any such extraneous agency did hamper God’s activity, then He could not be Omnipotent.  
+>
+> What, too, could have been his purpose in creating the world? Not even a fool undertakes any activity without some purpose. If his activity is purposeless, then how can He be an intelligent person?
+> 
+> If the activity of God is attributed to His desire for sport, līlā, then He cannot be regarded as one who has all his desires fulfilled. If He had to carry out all the operations necessary to create and carry on the world, then he would be too busy to be happy over it, and regard it as a sport. If the desire to create was prompted by compassion or sport, then why should there be a consequent desire to dissolve the world?  
+
+## APŪRVA
+Apūrva can be defined as the “potency” which gathers and stores the efficacy of the vedic rituals and makes it possible for transitory sacrificial performances to have lasting effects in the distant future. Apūrva is the connecting link b/w the action and the result of the sacrifice; it is a potency that is produced by the yajña which makes it possible that its fruits be reaped at a later time.
+
+
+For Kumārila, the pramāṇṇa of apūrva is arthāpatti (“circumstantial inference”/ “negative implication”).
+
+Actions can gain (a) totality, (b) coherence, and (c) future efficacy only if, in spite of their temporal disparity and instant disintegration, their causal power is accumulated and integrated and remains present up to the completion of the appropriate yajña.  
+
+Apūrva comes in "units" of higher and lower order.
+
+Kumārila ultimately locates apūrva in the soul of the yajamāna. It is rooted in specific acts enjoined or prohibited by the Veda, not in the karma of yajamāna (there may well be other Rtviks involved) - it is merely located in him.
+
+For Kumārilā, apūrva does not have an ontological status; it is only a “potency” generated by, and in a sense belonging to the pradhānakarma.  
+
+#### VERIFICATION
+- If Vedic rites are performed in strict accordance with the Vedic rules, they will not fail to produce their proper results.
+- Sacrificial causality operates within a finite and well-defined set of conditions which is secure from outside interference.
+- Yajña-phala-s like svarga are not verifiable; kāmya-karma-phala are verifiable.
+  - Example: citra sacrifice is undertaken to attain cattle (paśu); to account for the irregularities in the appearance of the result, Kumārila argues that it is simply the nature of the citra sacrifice that there is no specified and exactly predictable temporal sequence between its performance and the occurrence of the result.
+  - Example:  kārīri  (the "rain-producing" sacrifice); in this case, Kumārila accounts for irregularities through adverse apūrva influences.
+
+### Prabhākara
+Prabhākara, avoids any comparable theoretical commitment.
+
+For Prabhākara, the fulfilment of the Vedic injunctions (vidhi) is a purpose in itself.
+
+### Parallels
+Concept of apūrva shares certain similarities with other forms of “stored effects” of actions: karma, adr̥ṣṭa. There are parallels between the Vaiśeṣika concept of adr̥ṣṭa & Kumārila’s explication of apūrva.   
+
+Differences:
+
+- In Vaiśeṣika, adr̥ṣṭa plays a role in the creation & destruction of the cosmic world-cycles; this is absent in apūrva.
+- Apūrva belongs to the sacrifice itself, and not just to the sacrificer. What produces apūrva is the impersonal power of the sacrifice itself (not the yajamāna’s actions).
+
+## ĀTMAN
+For the mīmāṁsakā, ātman is the entity which,
+
+- ensouls the body,
+- is the cognizer,
+- the agent, and
+- the experiencer;
+
+It is,
+
+- eternal,
+- omnipresent, and
+- many (one in each body)
+- directly perceptible
+
+### Direct perception
+Question: How is ātman known to direct perception? Four answers:
+
+- the vr̥ttikāra (c. 480–540), as cited in the Śābarabhāṣya and elaborated in the ātmavāda section of Kumārila’s Ślokavārttika,
+- Kumārila (śūnyavāda section of the Ślokavārttika),  
+- Umbeka (Tātparyaṭīkā)
+- Prabhākara  (Br̥hatī)
+
+#### vr̥ttikāra
+According to the vr̥ttikāra, ātman is perceived through the direct cognition of “I”. ‘I-cognition’ is that experience that gives rise to our use of the word, ‘I’. In the verbalization, ‘I see a pot,’ what is presented to us is not only a pot, corresponding to the word ‘pot’, but also something corresponding to the word ‘I’. Here, it is understood that the structure of language corresponds to the structure of our experience.
+
+> Śabarasvāmin:  
+na vayam “aham” itīmam śabdam prayujyamānam anyasminn arthe hetutvena vyapadiśāmaḥ. kim tarhi? śabdād vyatiriktam pratyabhijñā-pratyayam.  
+‘We are not pointing to the usage of the word “I” as a reason for [the existence] of something (i.e. the self) other than [cognition]; rather [we are pointing to] something different from the word—a certain kind of cognition, namely recognition [of the self].’
+
+Objection: how is it possible for one thing to be both perceiver and perceived?  
+
+#### KUMĀRILA
+Kumārila distinguishes between two different aspects or states (avasthā) of the self:
+
+- (a) the part that does the perceiving [its nature as substance (dravya)], and
+- (b) the part that is perceived [its nature as cognition (pratyaya)].  
+
+> nanv ātmā grāhako grāhyo  
+> bhavatā \`bhyupagamyate |  
+[Pūrvapakṣin]: Surely you hold that the self is both perceiver and perceived [which contradicts your argument that cognition cannot be both].  
+
+> kathancid dharma-rūpeṇa  
+> bhinnatvāt pratyayasya tat |  
+> grāhakatvam bhavet tatra,  
+> grāhyam dravyādi cātmanaḥ |  
+[Sidhhāntin]: “The fact of being a perceiver with regard to the [self] can belong to cognition, because cognition, as a property, is to some extent different [from its locus]; what is perceived is the self’s [nature as] substance etc.”  
+>
+> Sucaritamiśra: The two are different ‘natures’ of the self;  
+Jayanta Bhaṭṭa: the two are different states (avasthā)/parts (amśa).  
+
+Objection: the thing that is perceived is not the perceiving part of the self. 
+
+#### UMBEKA
+For Umbeka, it is the self’s jñātr̥tā that is both perceiver and perceived; Umbeka draws a distinction between (a) the pure jñātr̥tā, and (b) the jñātr̥tā focused on an object.   
+
+Further, Umbeka asserts the difference between the two expressions, ‘This is a pot’, and ‘I perceive a pot’; the inclusion of ‘I’ in the second case implies to Umbeka that this cognition is not a pure experiencing of an object (as ‘this is a pot’ is), but includes an apprehension of the self.
+
+“This is a pot” = I experience a pot;  
+“I perceive a pot” = I experience myself perceiving a pot.
+
+In play here is the presupposition that every word in the verbalization of a perceptual cognition denotes something that is experienced in the cognition. 
+
+#### Summary
+Summarily,
+
+- View 1 (Vrttikāra): The self is the perceiver and perceived.  
+  - Objection 1: The perceiver-perceived relation requires 2 things.  
+- View 2 (Kumārila): The 2 things are: (a) self as pratyaya, and (b) self as draya.
+  - Objection 2: In that case, the thing that is doing the perceiving is not being perceived.  
+- View 3 (Umbeka): It is the self’s power to cognize (jñātrtā) that is both perceiving and being perceived.
+
+The Prābhākaras do not talk of I-cognition; they use the theory of svayamprakāśatā (self-luminosity) as an argument. I is self-luminous - but not as any object.
+
+## MOKṢA
+- Early texts do not discuss mokṣa.
+- For Prabhākara and Kumārila, mokṣa = liberation from merit and de-merit that accrues from actions;
+  - (Prabhākara) mokṣa is the prāgabhāva — absence before appearance — of pain; 
+  - (Kumārila) mokṣa is a state of everlasting happiness.
+- How to exhaust merit and de-merit?
+  - By ceasing to perform such acts that are prohibited, and performing those that are prescribed.
+  - By suffering the pain/pleasure resulting from merit/de-merit with equanimity, aided by the śama-damādi-ṣaṭka,  & ātma-jñāna. ātma-jñāna here is not the cause of mokṣa - just an aid in bearing pain/ pleasure.  
