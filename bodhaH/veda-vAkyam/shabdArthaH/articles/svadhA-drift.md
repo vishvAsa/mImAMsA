@@ -47,23 +47,6 @@ In all other of the 70 occurrences of the word, the later assumed meanings give 
 
 Translators like Griffith and Jamison sometimes use the correct meaning or give it as an alternative. But sadly it seems the Brāhmaṇa-s (in absence of the luxury of looking up all occurrences of a word in context, that we have been having since the first modern concordances were compiled) had built so much of sacrificial detail and practices based on the misunderstood meanings of a word so simple and useful and common, which is meant to simply express "naturally" or "as you please" etc.
 
-
-<details><summary>विश्वास-टिप्पनी</summary>
-
-> "It appears as if all over the Rigveda someone or the other is either moving with the svadhā drink in their hands or for obtaining it or doing any of their chores/manly deeds while holding the drink or while someone is shouting svadhā at them which doesn't make sense at all"
-
-"It appears as if all over the Rigveda someone or the other is doing any of their chores/manly deeds while someone is shouting svadhā at them." makes sense to me. Like the Mongol Hurray.
-
-> "But sadly it seems the Brāhmaṇa-s had built so much of sacrificial detail and practices based on the misunderstood meanings of a word so simple and useful and common, which is meant to simply express "naturally" or "as you please" etc."
-
-इति +अनुपपन्नम्। यतः, ब्राह्मणसप्रदाय ऋग्रचनावेलायाम् अपि, ततः प्राग् अपि च वर्तमानो हि कर्मसङ्गतोद्गारान् अरक्षद् इति तत्-स्वभावावेक्षणेन सिध्यति।
-
-स्वधाशब्दस्य यौगिको ऽर्थः स्पष्ट एव यस्मै कस्मैचित् - "पुरोहित"वत्। तथा सत्य् अत्र रूढार्था ब्राह्मणोक्ता यौगिकार्थान् आच्छादयन्तीति कथम्?
-
-अपि च "स्व-धा" इत्य् अस्मिन् "धा" इति नानार्थच्छाया बोधयितुं समर्थ इति 
-न कवीनां तिरोहितो विषय आसीत्, येन क्वचित् करणं सूचयेत्, क्वचित् क्रियाम् …
-</details>
-
 Consider all 12 occurrences of svadhā with mad
 
 mádhye diváḥ svadháyā mādáyethe 01.108.12 (indrāgnī́)
@@ -85,3 +68,20 @@ Then comes the Brā́hmaṇa literature. Now in the verses above, neither the me
 
 Also, if the original Ṛgvedic poets intended some other meaning of their verses, and the later Brāhmaṇa literature interprets some of them in a totally different way (through newly invented meaning or whatever), what is real Vedism?
 
+<details><summary>विश्वास-टिप्पनी</summary>
+
+> "It appears as if all over the Rigveda someone or the other is either moving with the svadhā drink in their hands or for obtaining it or doing any of their chores/manly deeds while holding the drink or while someone is shouting svadhā at them which doesn't make sense at all"
+
+"It appears as if all over the Rigveda someone or the other is doing any of their chores/manly deeds while someone is shouting svadhā at them." makes sense to me. Like the Mongol Hurray.
+
+> "But sadly it seems the Brāhmaṇa-s had built so much of sacrificial detail and practices based on the misunderstood meanings of a word so simple and useful and common, which is meant to simply express "naturally" or "as you please" etc."
+
+इति +अनुपपन्नम्। यतः, ब्राह्मणसप्रदाय ऋग्रचनावेलायाम् अपि, ततः प्राग् अपि च वर्तमानो हि कर्मसङ्गतोद्गारान् अरक्षद् इति तत्-स्वभावावेक्षणेन सिध्यति।
+
+स्वधाशब्दस्य यौगिको ऽर्थः स्पष्ट एव यस्मै कस्मैचित् - "पुरोहित"वत्। तथा सत्य् अत्र रूढार्था ब्राह्मणोक्ता यौगिकार्थान् आच्छादयन्तीति कथम्?
+
+अपि च "स्व-धा" इत्य् अस्मिन् "धा" इति नानार्थच्छाया बोधयितुं समर्थ इति
+न कवीनां तिरोहितो विषय आसीत्, येन क्वचित् करणं सूचयेत्, क्वचित् क्रियाम् …
+
+यावान् एव धा = धा + भावे क्विप् (?) इति स्वाभाविकः, तावान् एव धा = धा + करणे क्विप् (?) अपीति मे प्रतिभाति।
+</details>
