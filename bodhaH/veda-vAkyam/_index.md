@@ -6,6 +6,8 @@ unicode_script: devanagari
 ## परिचयः
 धर्मब्रह्मप्रतिपादकम् अपौरुषेयं प्रमाणवाक्यम्।
 
+> A Mīmāṃsā metarule (nyāya) prescribes that all Vedic passages must be purposeful (arthavat). Thus, Vedic commands must be actionable (commands imply possibility) and non-deontic passages must be understood as subsidiaries to the deontic portion of the Veda. - Elisa
+
 ## विभागाः
 - मन्त्रः
 - ब्राह्मणम्
