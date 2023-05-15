@@ -86,7 +86,7 @@ That Veda-s are eternal is widely endorsed in the tradition; a beginningless Ved
 This is not the Mīmāṁsā understanding of apauruṣeyatā. For a technical understanding of apauruṣeyatā, the mīmāṁsakā-s turn to the doctrine of “svataḥ-prāmāṇyatā” (theory of intrinsic validity). The theory states that all cognitions must be accepted as true unless and until they are falsified by other cognitions.
 
 For the mīmāṁsakā-s, śabda (words/language) share this "truth-giving" property with a condition: that they must be uttered by a reliable, trustworthy person.  
-Implication:  Veda is valid in and of itself unless or until it is proven to be false. dharma is unknowable otherwise - so veda can never be falsified. 
+Implication:  Veda is valid in and of itself unless or until it is proven to be false. dharma is unknowable otherwise - so veda can never be falsified.+++(5)+++ 
 
 
 To summarize,
