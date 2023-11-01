@@ -33,3 +33,4 @@ disablePathToLower = true
   noClasses = true
   style = 'friendly'
   tabWidth = 2
+
