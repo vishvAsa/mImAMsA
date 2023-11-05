@@ -1,5 +1,5 @@
 ---
-title: +पूर्वा
+title: +कर्म-काण्डम्
 unicode_script: devanagari
 ---
 
