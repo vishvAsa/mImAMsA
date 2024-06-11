@@ -75,8 +75,11 @@ unicode_script: devanagari
 The teacher writes down an enigmatic sentence "atra tunoktaM tatrāpinoktaM iti dviruktaM" with surface meaning "it is not said here, it is not said there too. Hence it is said twice". The teacher retires to rest. Prabhākara makes marking on the sentences so that the sentence cam be parsed properly. "Atra tunā uktam. Tatra apinā uktaM. Iti dviruktaM". Meaning: "Here it is said with particle 'tu' (indeed). There with 'api' (also). Therefore it is said twice". The teacher upon returning sees this, gets to know what happened and gives the title "guru" to prabhākara. Till date prabhākara's school of mīmāmsā is called "guru mataM". An aside- rāmānuja mata sees entire mīmāmsā as one and generally follows prbhākara for pūrva.
 
 ### व्याख्याः
-- शालिकण्ठमिश्र-कृता **प्रकरणपञ्चिका**
+- शालिकण्ठमिश्र-कृता 
+  - **प्रकरणपञ्चिका**
     - [अत्र](https://archive.org/stream/PrakaranaPanchikaOfShalinathMishraWithNyayaSiddhiBHUNo.4Pt.A.SubrahmanyaSastri/Prakarana%20Panchika%20of%20Shalinath%20Mishra%20with%20Nyaya%20Siddhi%20BHU%20No.4%20-%20Pt.%20A.%20Subrahmanya%20Sastri#page/n49/mode/2up)।
+  - ऋजुविमला - नोपलभ्यते
+  - भाष्य-परिशिष्टम्
 - **प्रभाकरविजयः**  
             
 ## मुरारि-टीका
