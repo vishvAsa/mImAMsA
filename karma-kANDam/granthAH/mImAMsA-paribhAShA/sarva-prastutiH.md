@@ -101,7 +101,7 @@ Here, in the Pūrva-Mīmāṁsā consisting of twelve chapters,1 the great seer,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वेदबोधितानिष्ट साधनताकोेऽधर्मः; यथा कलञ्जभक्षणादिः । 
+वेदबोधितानिष्टसाधनताकोेऽधर्मः; यथा कलञ्जभक्षणादिः । 
 </details>
 
 <details><summary>मूलम्</summary>
