@@ -1,0 +1,36 @@
++++
+title = "+N Ar Aya Na bha T Ta H m Ana meyodaya H"
+
++++
+
+MĀNAMEYODAYA 
+
+AN ELEMENTARY TREATISE ON THE MIMĀṀSĀ 
+
+BY 
+
+NARAYANA 
+
+EDITED WITH AN ENGLISH TRANSLATION 
+
+BY 
+
+C. KUNHAN RAJA 
+
+Reader in Sanskrit 
+
+AND 
+
+S. S. SURYANARAYANA SASTRI 
+
+Reader in Philosophy, University of Madra 
+
+WITH A FOREWORD BY 
+
+PROF. S. KUPPUSWAMI SASTRI, M.A., 
+
+THEOSOPHICAL PUBLISHING HOUSE 
+
+ADYAR, MADRAS, INDIA 
+
+1933* 
