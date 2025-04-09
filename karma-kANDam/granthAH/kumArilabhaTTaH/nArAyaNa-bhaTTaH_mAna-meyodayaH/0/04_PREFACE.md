@@ -25,7 +25,7 @@ The existence of things is two-fold, divided into means of knowledge and objects
 
 This is also evident from the many references to the second part that are met with in the first part. There is no way of ascertaining why he did not complete the work.xxix 
 
-Nārāyaṇa who wrote the first part is a famous poet and scholar of Malabar, who lived about four centuries ago. He is the author of Narayaniya (Trivandrum Sanskrit Series No. XVIII), Prakriya- sarvasva, a work on grammar (Trivandrum Sanskrit Series No. CVI) and many short poems, some of which have already been published in the Kāvyamala Series. Little is known of the Nārāyaṇa who complet- ed the work, except what can be gathered from the information which the author himself gives in the work. 
+Nārāyaṇa who wrote the first part is a famous poet and scholar of Malabar, who lived about four centuries ago. He is the author of Narayaniya (Trivandrum Sanskrit Series No. XVIII), Prakriyasarvasva, a work on grammar (Trivandrum Sanskrit Series No. CVI) and many short poems, some of which have already been published in the Kāvyamala Series. Little is known of the Nārāyaṇa who completed the work, except what can be gathered from the information which the author himself gives in the work. 
 
 The work is more or less an abridgement of a book called the Nititaṭṭvāvirbhāva by Cidananda Muni (Adyar Library XXXIX, A 6), which has not yet been printed. Although the material is taken from Cidānanda's work, it has been entirely rearranged to suit the needs of a beginner. On a comparison of both the works, we found that the MANAMEYODAYA suits the requirements of a student much better than the Nititattvavirbhāva, and therefore we chose the former in preference to the latter for translation and publication. 
 

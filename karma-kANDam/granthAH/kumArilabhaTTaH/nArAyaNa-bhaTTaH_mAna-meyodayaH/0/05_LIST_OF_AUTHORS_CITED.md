@@ -57,7 +57,7 @@ Salikanatha, II. ii. 7, 9, 90, iv. 62, 68. Subrahmanya, II. vii (2).
 
 LIST OF WORKS CITED 
 
-1 
+[[1]]
 
 Kasika, II. iv. 69, vii. 
 
@@ -189,7 +189,7 @@ Perception
 
 Perception 
 
-1 
+[[1]]
 
 Inference 
 
@@ -229,7 +229,7 @@ Negation
 
 Inclusion 
 
-7 
+[[7]]
 
 Names of the Pramāņas 
 
@@ -343,7 +343,7 @@ non-establishment
 
 to the whole; 
 
-to a part (sometimes called non-estab- lished pervasion); 
+to a part (sometimes called non-established pervasion); 
 
 of the attribute; 
 
@@ -375,7 +375,7 @@ form of it.
 
 Non-conclusive or common; 
 
-1 
+[[1]]
 
 Suspected non-conclusive. 
 
@@ -445,7 +445,7 @@ Non-determined (according to Bhāsarvajña)
 
 4. OBJECTS OF KNOWLEDGE 
 
-1 
+[[1]]
 
 Siddhanta 
 
@@ -501,7 +501,7 @@ Fire
 
 Air 
 
-2 
+[[2]]
 
 Darkness 
 
@@ -511,7 +511,7 @@ Time
 
 Space 
 
-Soul 
+Sou। 
 
 Mind 
 
@@ -545,7 +545,7 @@ Time
 
 Space 
 
-Soul 
+Sou। 
 
 Mind 
 
@@ -565,9 +565,9 @@ Taste
 
 3. 
 
-Smell 
+Sme॥ 
 
-Smell 
+Sme॥ 
 
 4. Touch 
 
@@ -649,7 +649,7 @@ Manifestedness "
 
 Potency 
 
-1 
+[[1]]
 
 1 A distinct category according to Prabhākara. 
 
@@ -683,7 +683,7 @@ Aversion
 
 Volition 
 
-2 
+[[2]]
 
 Virtue 
 
@@ -755,7 +755,7 @@ Buddhists-Non-determinate
 
 alone is per- 
 
-ceptual and determinate is neither perceptual 
+ceptual and determinate is neither perceptua। 
 
 nor valid. 
 
@@ -771,7 +771,7 @@ Prabhakara-By etymology.
 
 Siddhanta-There 
 
--There are five kinds, as deter- mined by substance, genus, quality, action 
+-There are five kinds, as determined by substance, genus, quality, action 
 
 or name. 
 
@@ -815,7 +815,7 @@ xliii
 
 10. Inference: 
 
-Siddhanta-Knowledge of what is non-proxi- mate resulting from the perception of what is pervaded. Prabhakara-Only the existence of the probans in the subject is to be apprehended as something new. 
+Siddhanta-Knowledge of what is non-proximate resulting from the perception of what is pervaded. Prabhakara-Only the existence of the probans in the subject is to be apprehended as something new. 
 
 Materialists-Either there is no pervasion or 
 
@@ -829,9 +829,9 @@ there is proving what is already known.
 
 seen and “generically seen 
 
-66 
+[[66]]
 
-Siddhanta--That whose content is only the particular seen object is the seen one"; when there is the inference on seeing the pervasion in general, that is the generi- cally seen ". Logicians" The seen is the inference of that whose content is a perceptible object; and the "generically seen" is where the content is a supersensuous object. 
+Siddhanta--That whose content is only the particular seen object is the seen one"; when there is the inference on seeing the pervasion in general, that is the generically seen ". Logicians" The seen is the inference of that whose content is a perceptible object; and the "generically seen" is where the content is a supersensuous object. 
 
 Conveying of the sense by the word: 
 
@@ -891,7 +891,7 @@ Kaṇāda--It is only a form of inference.
 
 Siddhanta-The knowledge of the similarity of what is not in contact, having as its sphere an object that is remembered, and arising from the similarity to an object that 
 
-is seen. Logicians--The understanding of the relation of the name and the named from a statement of analogy. (Analogy as explained accord- ing to Siddhanta is inference according to the Logicians.) 
+is seen. Logicians--The understanding of the relation of the name and the named from a statement of analogy. (Analogy as explained according to Siddhanta is inference according to the Logicians.) 
 
 xlv 
 
@@ -1077,7 +1077,7 @@ Logicians-They are to be inferred.
 
 35. Manifestation of the soul: 
 
-Siddhanta-To be understood through mental 
+Siddhanta-To be understood through menta। 
 
 perception. 
 
@@ -1117,7 +1117,7 @@ Sankara-The impartite.
 
 39. Release: 
 
-Siddhanta -When there is the absolute root- ing out of misery, the experience mentally of the happiness that existed in the soul. Materialists-The dissolution of the body. Buddhists-The series of cognitions, free from extraneous adjuncts, remaining in its own 
+Siddhanta -When there is the absolute rooting out of misery, the experience mentally of the happiness that existed in the soul. Materialists-The dissolution of the body. Buddhists-The series of cognitions, free from extraneous adjuncts, remaining in its own 
 
 form. 
 
@@ -1213,7 +1213,7 @@ Siddhanta-Exists between any two substances,
 
 and is either eternal or produced. 
 
-Logicians-Does not exist between two all- pervasive substances and is always produced. 
+Logicians-Does not exist between two allpervasive substances and is always produced. 
 
 48. Cognition: 
 

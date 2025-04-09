@@ -7,15 +7,15 @@ title = "७ उपसंहारः"
 
 विरुद्धार्थ वा तत् सकलमपि शोध्यं सुमतिभिः । हरेश्व श्रुत्यन्तप्रथितपरमानन्दवपुषः 
 
-समस्तोत्र स्तोत्रीभवतु मम सञ्जल्पनविधिः || भो भो दुष्कर्म वर्गाः परिहरत मदीयामिमामङ्गवल्लीं 
+समस्तोत्र स्तोत्रीभवतु मम सञ्जल्पनविधिः ॥ भो भो दुष्कर्म वर्गाः परिहरत मदीयामिमामङ्गवल्लीं 
 
 ब्रूमः सौहार्दयोगात् परिचयजनितान्नान्यथा यात शङ्काम् । हन्ता युष्मत्कुलानां दलितकुवलयश्यामलैः कोमलैस्तै- 
 
-त्रैित्रोत्सवं नो वितरति भगवान् भार्गवीभाग्यभूमा || 
+त्रैित्रोत्सवं नो वितरति भगवान् भार्गवीभाग्यभूमा ॥ 
 
 7. CONCLUSION 
 
-If here there is anything of the doctrine of Kumă- rila whose meaning is difficult or whose meaning is conflicting, all such things have to be examined by men of cultured mind. And may all my performances in the form of prattling turn out to be an adoration of Hari whose form of absolute bliss is extolled in the 
+If here there is anything of the doctrine of Kumărila whose meaning is difficult or whose meaning is conflicting, all such things have to be examined by men of cultured mind. And may all my performances in the form of prattling turn out to be an adoration of Hari whose form of absolute bliss is extolled in the 
 
 Vedanta. 
 
@@ -25,25 +25,25 @@ Oh, the hosts of evil karmas, keep away from this creeper-like body of mine. I s
 
 पुत्र्यास्तस्य सुतस्तदीयतनयात् कौमारतन्त्राम्बुधेः । सुब्रह्मण्य इति त्रिलोकविदितादापीतशास्त्रामृतः 
 
-सोऽहं पूरितवानिदं प्रकरणं नाम्ना च नारायणः || कृष्णो विबुधाधिपतिर्निष्णातो वितरणेषु विद्यायाः । मुष्णातु हृदयतिमिरं पुष्णातु च मङ्गलानि सकलानि ॥ सुब्रह्मण्यादधीताः क्षितिविबुधपतेः काशिकातर्कमार्गा 
+सोऽहं पूरितवानिदं प्रकरणं नाम्ना च नारायणः ॥ कृष्णो विबुधाधिपतिर्निष्णातो वितरणेषु विद्यायाः । मुष्णातु हृदयतिमिरं पुष्णातु च मङ्गलानि सकलानि ॥ सुब्रह्मण्यादधीताः क्षितिविबुधपतेः काशिकातर्कमार्गा 
 
 रामाचार्याच्च पश्चात् सकलमधिगतं येन कौमारतन्त्रम् । कृष्णात् काव्यार्थमीमांसकपरिवृढतः काव्यमार्गावगन्ता 
 
-307 
+[[307]]
 
 सोऽहं नारायणाख्यो व्यलिखमखिललोकापहासार्थमेतत् ॥ 
 
-There is Purusottama famed in the three worlds for his intelligence and learning. There is a son to his daughter. From his son who is an ocean of the doctrine of Kumarila, who is known in the three worlds as Subrahmanya, having drunk the nectar of sacred teach- ing, I Narayana by name, have completed this treatise. 
+There is Purusottama famed in the three worlds for his intelligence and learning. There is a son to his daughter. From his son who is an ocean of the doctrine of Kumarila, who is known in the three worlds as Subrahmanya, having drunk the nectar of sacred teaching, I Narayana by name, have completed this treatise. 
 
-May Krishna, the Lord of the gods, skilled in con- ferring learning, take away the darkness from my heart, and develop in me all auspiciousness. 
+May Krishna, the Lord of the gods, skilled in conferring learning, take away the darkness from my heart, and develop in me all auspiciousness. 
 
 I, Nārāyaṇa by name, write this for the ridicule of the entire world, I who learned the logical methods of the kasika from Subrahmanya, a prominent Brahmin, and later the entire doctrine of Kumarila from the Teacher, Rama, who learned the path of Poetry from Krishna who became eminent among the inquirers into the meanings of Poetry. 
 
-308 
+[[308]]
 
 मानमेयोदयः 
 
-कुमारिलमताम्भोधौ गभीरेऽतिगरीयसि । युक्तिरत्नं दिदृक्षूणामिदं सिद्धाञ्जनं परम् || वेलालडिपयः पयोधिविसरत्कल्लोलतुल्योदयै- 
+कुमारिलमताम्भोधौ गभीरेऽतिगरीयसि । युक्तिरत्नं दिदृक्षूणामिदं सिद्धाञ्जनं परम् ॥ वेलालडिपयः पयोधिविसरत्कल्लोलतुल्योदयै- 
 
 रालापाविषयैर्यशोभिरखिलं लोकं परिष्कुर्वते । लीलानिर्जितशात्रवाय च वयं तुभ्यं किमशास्महे 
 
@@ -55,19 +55,19 @@ I, Nārāyaṇa by name, write this for the ridicule of the entire world, I who 
 
 This is the supreme magic pigment for those who desire to find out the gem of reasoning in the ocean of Kumarila's doctrines, majestic and very vast 
 
-For you who adorn the entire world with your fame which rises like the waves beating in the milk- ocean overflowing the shores and which is beyond the scope of speech, and who as if in sport have conquered your foes, what is it that we can wish for you? Oh Lord of the hills and the ocean, King Manaveda, may you reign supreme for a thousand years. 
+For you who adorn the entire world with your fame which rises like the waves beating in the milkocean overflowing the shores and which is beyond the scope of speech, and who as if in sport have conquered your foes, what is it that we can wish for you? Oh Lord of the hills and the ocean, King Manaveda, may you reign supreme for a thousand years. 
 
-The milk of your fame, though constantly foaming forth in profusion from the big vessel of the universe heated by the fire of your prowess of extreme magni- tude, never suffers diminution, Oh Lord of the people, nor ever gets heated; but, oh best of men, it acquires supreme sweetness, 
+The milk of your fame, though constantly foaming forth in profusion from the big vessel of the universe heated by the fire of your prowess of extreme magnitude, never suffers diminution, Oh Lord of the people, nor ever gets heated; but, oh best of men, it acquires supreme sweetness, 
 
 प्रमेयानि 
 
-त्रिभुवनकमल त्वदीयकीर्तिः प्रचुरमरन्दविलासमादधाति । बुधसमितिरसौ तु चञ्चरीकप्रकरदशामपि तत्र मानवेद || 
+त्रिभुवनकमल त्वदीयकीर्तिः प्रचुरमरन्दविलासमादधाति । बुधसमितिरसौ तु चञ्चरीकप्रकरदशामपि तत्र मानवेद ॥ 
 
 इति प्रमेयखण्डः समाप्तः 
 
-809 
+[[809]]
 
-Oh lotus of the three worlds, your fame is resplen- dent as a stream of honey; this assembly of the wise, however, is there in the position of a swarm of bees, Oh Manaveda. 
+Oh lotus of the three worlds, your fame is resplendent as a stream of honey; this assembly of the wise, however, is there in the position of a swarm of bees, Oh Manaveda. 
 
 NOTES 
 
@@ -89,17 +89,17 @@ Manifestedness is established in II. iv. 35-41 and time is established as percep
 
 12. The translation of the last three lines in this paragraph was omitted in printing, through an oversight. It is given here: "Experience is valid knowledge. And cognition other than recollection is experience. So say the followers of Prabhakara., That also is too wide, since delusion etc. have been established and since they too are other than recollection.” 
 
-312 
+[[312]]
 
 MANAMEYODAYA 
 
-15. For a tabular representation of the various pra- māņas accepted by the different systems, see the compara- tive tables. 
+15. For a tabular representation of the various pramāņas accepted by the different systems, see the comparative tables. 
 
 (ii) PERCEPTION 
 
 1. Sense-contact": according to the difference in the intention of the speaker, either the sense or the contact may be regarded as the instrument (see para 23 below). 
 
-4. Sound, according to the Mimamsakas, is a sub- stance, not a quality; see II. ii. 131. 
+4. Sound, according to the Mimamsakas, is a substance, not a quality; see II. ii. 131. 
 
 ** 
 
@@ -113,13 +113,13 @@ function only by reaching to the object.
 
 (b) "An extended field, which is made out as the nature of light": in seeing an object, rays of light are said to go forth from the eyes and reach the object. The sense of sight being a modification of fire, the rays of light are of its very nature. 
 
-(c) "Unseen potentiality": every act, though perishing momentarily, is assumed to leave behind an un- seen potentiality (apurva or adrsta), the sum of which determines the experiences of another life. Such a potentia- lity is assumed to account for the diversity of experiences, pleasant or otherwise, which cannot be explained by the 
+(c) "Unseen potentiality": every act, though perishing momentarily, is assumed to leave behind an unseen potentiality (apurva or adrsta), the sum of which determines the experiences of another life. Such a potentiality is assumed to account for the diversity of experiences, pleasant or otherwise, which cannot be explained by the 
 
 NOTES 
 
-313 
+[[313]]
 
-visible conditions of the experience. The unseen potentia- lity is a co-operating factor in every experience. 
+visible conditions of the experience. The unseen potentiality is a co-operating factor in every experience. 
 
 9. Conjunction between two all-pervasive substances: established in II. ii. 128. Concepts like simultaneity have time as object: established in II. ii. 85. 
 
@@ -135,7 +135,7 @@ vi. 15.
 
 II. iii. 2 ff. 
 
-66 
+[[66]]
 
 : 
 
@@ -149,9 +149,9 @@ II. iii. 2 ff.
 
 27. Kesonduka is the phenomenon of a woolly mass which one perceives in empty space when one closes one's eyes and rubs them hard. 
 
-40 
+[[40]]
 
-314 
+[[314]]
 
 1. 
 
@@ -167,19 +167,19 @@ MÄNAMEYODAYA
 
 8. Maitri's seven children are dark, and she is expecting an eighth child. One may infer thus: The eighth child will be dark because it is Maitri's child." Now, if the dark complexion be due to the fact that Maitri had been eating greens," not because they are her children, then eating greens is an extraneous adjunct. Suppose that during the expectancy of the eighth child she had not been eating greens and the child is not dark, then it is decided that eating greens is the extraneous adjunct for the dark complexion. But until the child is born, one can only suspect such an extraneous adjunct. 
 
-14 
+[[14]]
 
 10. 'Doubting kitchenness etc. to be... because no inconstancy is seen": as between fire and smoke. If really kitchenness were an extraneous adjunct, where there is no kitchenness the pervasion of smoke by fire should be inconstant, i.e., absent. As a matter of fact, however, there is no such inconstancy; therefore kitchenness is not an extraneous adjunct. Similarly for houseness etc. 
 
-64 
+[[64]]
 
 " 
 
-13. In the case of Maitri's son : see para 8 above. 15. Counter-argument (tarka)": tarka is more fami- liar to students of Western Logic as reductio ad absurdum. It consists in establishing the untenability of the opposite of what is desired to be established. 
+13. In the case of Maitri's son : see para 8 above. 15. Counter-argument (tarka)": tarka is more familiar to students of Western Logic as reductio ad absurdum. It consists in establishing the untenability of the opposite of what is desired to be established. 
 
 NOTES 
 
-315 
+[[315]]
 
 17. (a) Self-dependence, reciprocal dependence etc. are not enumerated separately, though they are among the possible defects that may be urged against an argument; for, they are not in essence different from tarka, in that they involve the contingency of what is not desired. 
 
@@ -189,9 +189,9 @@ in
 
 23. "Doubts about invisible extraneous adjuncts": the Materialists do not accept inference at all. They contend that there can be no validity in an inference in that there may be extraneous adjuncts that we cannot see, and as such cannot remove; hence they vitiate inference. 
 
-25. (a) "Prescription of study": there is the state- ment in the Veda, One shall study one's own Veda ". There the question arises, Does this prescribe the study of the mere recitation of the Veda for the sake of svarga or does this prescribe the study of the meaning of the Veda too?" Learning the meaning is a visible result of the prescription and svarga is an invisible result. When a visible result is possible, an invisible result is not to be assumed. Therefore the prescription is taken to be for the study of the meaning of the Veda. 
+25. (a) "Prescription of study": there is the statement in the Veda, One shall study one's own Veda ". There the question arises, Does this prescribe the study of the mere recitation of the Veda for the sake of svarga or does this prescribe the study of the meaning of the Veda too?" Learning the meaning is a visible result of the prescription and svarga is an invisible result. When a visible result is possible, an invisible result is not to be assumed. Therefore the prescription is taken to be for the study of the meaning of the Veda. 
 
-44 
+[[44]]
 
 (b) But the twice-born 
 
@@ -201,9 +201,9 @@ in
 
 called the pre- 
 
-ceptor" here there are two parts, namely, (1) the twice- born shall teach the Vedas' to his disciple, and (2) the twice-born is called the preceptor. Now which is important 
+ceptor" here there are two parts, namely, (1) the twiceborn shall teach the Vedas' to his disciple, and (2) the twice-born is called the preceptor. Now which is important 
 
-316 
+[[316]]
 
 MÄNAMEYODAYA 
 
@@ -225,7 +225,7 @@ Here,
 
 the approach of Rohini is neither identical with nor produced from the rise of Kṛttika. Yet there is vyāpti.NOTES 
 
-317 
+[[317]]
 
 (b) 
 
@@ -263,11 +263,11 @@ one
 
 in one mass ": does not know at this stage which part of the statement means which part of what is signified; one simply understands that the whole of that statement means the whole of what is signified. 
 
-318 
+[[318]]
 
 MÄNAMEYODAYA 
 
-4. This is the view of the Logicians. Each word has a definite meaning. But the purpose of a word is to serve as part of a sentence and it has no independent value apart from a sentence. A sentence conveys a unitary sense, in which one element is the important one and all other parts are qualifications of this important part. Now, a word means merely the thing, and in a sentence there are signified not merely the things, but also the rela- tions between the things. What is it that conveys this relation? Is it the words themselves or is it the things that are remembered by the words? The words have finished their function by conveying the sense of the isolated things; and between the words and the conveying of the relation, there intervenes the conveying of the isolated meanings. Therefore the order is like this; the words convey the isolated meanings and the isolated meanings (whose final purport is to convey a unitary qualified sense) convey the relation. 
+4. This is the view of the Logicians. Each word has a definite meaning. But the purpose of a word is to serve as part of a sentence and it has no independent value apart from a sentence. A sentence conveys a unitary sense, in which one element is the important one and all other parts are qualifications of this important part. Now, a word means merely the thing, and in a sentence there are signified not merely the things, but also the relations between the things. What is it that conveys this relation? Is it the words themselves or is it the things that are remembered by the words? The words have finished their function by conveying the sense of the isolated things; and between the words and the conveying of the relation, there intervenes the conveying of the isolated meanings. Therefore the order is like this; the words convey the isolated meanings and the isolated meanings (whose final purport is to convey a unitary qualified sense) convey the relation. 
 
 5. (a) "Secondary implication (lakṣaṇā)": this is the sense of a word other than the expressed sense. The latter may or may not form part of the former. Thus, in The white runs," the meaning of "the white" is, by secondary implication, "the white horse"; and in the village on the Ganges," the word Ganges secondarily implies the bank and not the river (which is the expressed sense). 
 
@@ -275,11 +275,11 @@ MÄNAMEYODAYA
 
 NOTES 
 
-319 
+[[319]]
 
-17 
+[[17]]
 
-7. This is the view of Prabhākara. Both the isolat- ed sense of the word and the relation are expressed by 
+7. This is the view of Prabhākara. Both the isolated sense of the word and the relation are expressed by 
 
 the word. If the sense of the word is taken to convey the relation among the word-senses, there is this difficulty. One hears the sentence, "Tie up the cow and also sees a horse that has to be tied up too. If it is the object cow that conveys the relation with the act of tying up, the object horse too is known at that time, and why cannot the relation be conveyed by the horse too? To avoid this difficulty, Prabhakara holds that the relation is conveyed by the word itself and not by the word-sense. 
 
@@ -299,13 +299,13 @@ the word. If the sense of the word is taken to convey the relation among the wor
 
 3. "Presumption will swallow the net of inference": the Logicians have cast the net of inference to catch 
 
-320 
+[[320]]
 
 MÄNAMEYODAYA 
 
-presumption; i.e., according to them, all cases of presump- tion should be brought under inference. If all cases where there is a conflict between two valid cognitions be considered as cases of presumption, then, the Logicians say, all cases of inference would have to be brought under presumption. 5. "There does not result its non-validity, there being scope": if a man is alive, then it is expected that he will be at home. Therefore his not being at home conflicts with his being alive. Yet the man can be alive and at the same time be out of his house; hence there is scope for his not being at home, though he is alive. Thus, it is not necessary that the man's not being at home should be invalid because of being in conflict with his being alive. 
+presumption; i.e., according to them, all cases of presumption should be brought under inference. If all cases where there is a conflict between two valid cognitions be considered as cases of presumption, then, the Logicians say, all cases of inference would have to be brought under presumption. 5. "There does not result its non-validity, there being scope": if a man is alive, then it is expected that he will be at home. Therefore his not being at home conflicts with his being alive. Yet the man can be alive and at the same time be out of his house; hence there is scope for his not being at home, though he is alive. Thus, it is not necessary that the man's not being at home should be invalid because of being in conflict with his being alive. 
 
-6. (a) "If he is related merely to space this person too would become space": what is related to space in general is but a particular space or locality. Individual existents are related to those particular locali- ties, not to space in general. If they were related to space in general, then they would be identical with space itself; because it is only individuals coming under a generality that are directly related to that generality, and individuals other than such individuals are related to that generality only indirectly, i.e., through those individuals. Thus Devadatta is related only to a particular space, either in his house or outside. If when he is known to be alive, he is known to be related directly to space in general, he would be known but as a specification thereof, i.e., as a parti- cular space: See iii. 33 above: "On account of the relation 
+6. (a) "If he is related merely to space this person too would become space": what is related to space in general is but a particular space or locality. Individual existents are related to those particular localities, not to space in general. If they were related to space in general, then they would be identical with space itself; because it is only individuals coming under a generality that are directly related to that generality, and individuals other than such individuals are related to that generality only indirectly, i.e., through those individuals. Thus Devadatta is related only to a particular space, either in his house or outside. If when he is known to be alive, he is known to be related directly to space in general, he would be known but as a specification thereof, i.e., as a particular space: See iii. 33 above: "On account of the relation 
 
 itself would be fire." 
 
@@ -315,11 +315,11 @@ itself would be fire."
 
 NOTES 
 
-321 
+[[321]]
 
 it is known that a man is alive it is expected that he will be at home; and the man is not seen at home. This is a stage of conflict between two valid cognitions. On account of this conflict, one begins to think further and assumes that he must be outside. 
 
-64 
+[[64]]
 
 7. Well, alas, who are they babble thus ?": see iii. 34 above. 
 
@@ -339,7 +339,7 @@ Prabhakara,
 
 see iv. 11 and 12 
 
-15. There is the sentence, agnaye justam nirvapā- mi," in the description of the model sacrifice. In the sacrifice modelled on it, the word agnaye" has to be changed into suryāya". Now the question arises why the word in the dative, suryaya" should be supplied in the modelled sacrifice, why not merely the object 
+15. There is the sentence, agnaye justam nirvapāmi," in the description of the model sacrifice. In the sacrifice modelled on it, the word agnaye" has to be changed into suryāya". Now the question arises why the word in the dative, suryaya" should be supplied in the modelled sacrifice, why not merely the object 
 
 sun". 
 
@@ -353,9 +353,9 @@ the sentence, and that this relation can be effected only if there is a finished
 
 replies that the relation can be obtained otherwise too; if we have the statement juṣṭam nirvapāmi” and if we have along with this the knowledge of the Deity, "sun," we know that the nirvapaņa is to the sun. The 
 
-41 
+[[41]]
 
-322 
+[[322]]
 
 MÄNAMEYODAYA 
 
@@ -369,13 +369,13 @@ pounding produces a particular kind of purification; but no such purification is
 
 (b) “And this, when known 
 
-31 
+[[31]]
 
 • 
 
-merely by its existence : the capacity for perception must be ascer- tained and fully known, if it is to help the knowledge of non-existence. It is the non-cognition of the thing that leads to the knowledge of the non-existence of the thing; this non-cognition need not itself be known; ie., one must know definitely that a thing is capable of being seen, but one need not know that he does not see the thing; it is enough if the thing is not seen. 
+merely by its existence : the capacity for perception must be ascertained and fully known, if it is to help the knowledge of non-existence. It is the non-cognition of the thing that leads to the knowledge of the non-existence of the thing; this non-cognition need not itself be known; ie., one must know definitely that a thing is capable of being seen, but one need not know that he does not see the thing; it is enough if the thing is not seen. 
 
-8. "We reject the view that cognitions are per- ceptible to the mind": see II. iv. 24. 
+8. "We reject the view that cognitions are perceptible to the mind": see II. iv. 24. 
 
 เ 
 
@@ -387,17 +387,17 @@ ception, the karaņa is the sense-organ; in perceiving an object one does not ha
 
 NOTES 
 
-323 
+[[323]]
 
-one infers fire. Similarly it is from words that are known that one gets verbal knowledge. Similarly in the case of all pramāņas except perception. In understanding the non-existence of a thing, its karana, non-perception of the thing, is not known (see para 2 above). So it is con- cluded that the understanding of non-existence is a case of perception. 
+one infers fire. Similarly it is from words that are known that one gets verbal knowledge. Similarly in the case of all pramāņas except perception. In understanding the non-existence of a thing, its karana, non-perception of the thing, is not known (see para 2 above). So it is concluded that the understanding of non-existence is a case of perception. 
 
 12. The purvapakṣa is in perception, inference etc., the mind comes in contact with a positive thing as karaņa; for example, the sense-organ in perception, the hetu in inference and so on. Why should we go out of the way and say that in the understanding of non-existence, the karana is a negative thing? The Siddhanta is: if you 
 
-are going to extend to the understanding of non-existence a feature that is observed in perception etc., then we propose to extend to all cases of the understanding of non-existence a feature that is seen in some cases of the understanding of non-existence; i,e., the understanding by inference of the non-existence of a thing; and the feature is that its karaņa is not a sense-organ. For example, when we infer the non-existence of smoke from the non- existence of fire, the karana is the knowledge of the non-existence of fire, and this is not a sense-organ. From this why should we not generalise that in the understanding of non-existence, the karana is not a sense-organ? Then, non-existence would cease to be perceptible. 
+are going to extend to the understanding of non-existence a feature that is observed in perception etc., then we propose to extend to all cases of the understanding of non-existence a feature that is seen in some cases of the understanding of non-existence; i,e., the understanding by inference of the non-existence of a thing; and the feature is that its karaņa is not a sense-organ. For example, when we infer the non-existence of smoke from the nonexistence of fire, the karana is the knowledge of the non-existence of fire, and this is not a sense-organ. From this why should we not generalise that in the understanding of non-existence, the karana is not a sense-organ? Then, non-existence would cease to be perceptible. 
 
 20. We shall refute him too": see II. vi. 19 ff. 
 
-324 
+[[324]]
 
 MÄNAMEYODAYA 
 
@@ -435,7 +435,7 @@ to be the creator of earth etc., the jati, atmatva, must be shown to inhere in t
 
 NOTES 
 
-325 
+[[325]]
 
 one who is the creator of earth etc. Take any known jäti, say gotva; it does not inhere in one who is the creator of earth etc. So in the case of the other jātis too. Thus atmatva cannot, by inference too, be shown to inhere in one who is the creator of earth etc. Then how can we say that God is an atman and is the creator of earth etc. ? 43. God's desire and volition are, according to the Logicians, common causes of all events. How can they be the causes of events that are of a temporary nature ? God's desire is eternal; so is his volition. The causes for the production and destruction of things in this world approach one another occasionally, and things are produced or destroyed. If the desire and volition of God (both eternal) be causes for such approach, how can such approach be only occasional, and not constant? God's desire and volition cannot be other than eternal. The usual causes for desire and volition are aversion etc. In the case of God there can be no aversion. So either He has no desire and volition, or, if He has, they must be eternal, not produced like our desire and volition, there being no cause like aversion in His case. 
 
@@ -443,7 +443,7 @@ one who is the creator of earth etc. Take any known jäti, say gotva; it does no
 
 see note on para 40 above. 
 
-46 
+[[46]]
 
 • 
 
@@ -465,7 +465,7 @@ is unintelligible": see para 131 below.
 
 90. (a) “Of these, the self-luminosity of cognition we shall refute later": see iv. 20–23 below. 
 
-326 
+[[326]]
 
 MÄNAMEYODAYA 
 
@@ -475,19 +475,19 @@ of the cogniser that appears in every cognition, is the entity called the soul. 
 
 included in a statement of that cognition, just as in a sense-perception, the fact that it is a cognition generated through a particular sense-organ is there, but the knowledge of that is not stated; when the cognition is expressed in language. We simply say that we have heard or that we have seen; but we never say that we know that the cognition is produced through the sense of hearing or that it is produced through the sense of sight. Similarly, we simply say that we know; but we do not say that we know that this knowledge is generated in us.”NOTES 
 
-827 
+[[827]]
 
 91. The Siddhantin continues his attack on the view 
 
-of Prabhakara. According to Prabhakara, as explained in para 89 above, soul and cognition are perceptible (Cf. Prabhakara's definition of perception, I. i. 24); soul is neither inferred from the concept, "I," just as space is inferred from the concept of space; nor is it self-manifest, as in the case of cognition. Still the soul, though percepti- ble, is not in contact with any sense-organ. Soul is mani- fested in the cognition itself and does not depend on any other cause. 
+of Prabhakara. According to Prabhakara, as explained in para 89 above, soul and cognition are perceptible (Cf. Prabhakara's definition of perception, I. i. 24); soul is neither inferred from the concept, "I," just as space is inferred from the concept of space; nor is it self-manifest, as in the case of cognition. Still the soul, though perceptible, is not in contact with any sense-organ. Soul is manifested in the cognition itself and does not depend on any other cause. 
 
-The Siddhantin objects to something being called perceptible when it is not in contact with a sense- organ; etymologically, it is impossible. Thus it is reason- able to hold that in so far as the soul, when it is being manifested, is not in contact with a sense-organ, the soul is inferred, just as space is inferred. Further, if it is not accepted that the soul, though depending on the self-mani- fest cognition, is not itself self-manifest, it is impossible to avoid the contingency that the manifestation of the soul which is generated by the cognition, depends on some other cause, just as the manifestation of a jar which is generated by the cognition thereof, depends on some other cause like the sense of sight. And the other alternative, namely, the self-manifestation of the soul, is against the doctrine of 
+The Siddhantin objects to something being called perceptible when it is not in contact with a senseorgan; etymologically, it is impossible. Thus it is reasonable to hold that in so far as the soul, when it is being manifested, is not in contact with a sense-organ, the soul is inferred, just as space is inferred. Further, if it is not accepted that the soul, though depending on the self-manifest cognition, is not itself self-manifest, it is impossible to avoid the contingency that the manifestation of the soul which is generated by the cognition, depends on some other cause, just as the manifestation of a jar which is generated by the cognition thereof, depends on some other cause like the sense of sight. And the other alternative, namely, the self-manifestation of the soul, is against the doctrine of 
 
 Prabhakara. 
 
 92. Here too, the Siddhantin replies to a possible defence of the position of Prabhakara. Prabhakara may say that the soul is not self-manifest, nor does it depend on anything other than a cognition for its manifestation. It is manifest as the abode of the self-manifest cognition, like the fire-wood which shines as the abode of the burning fire, though it is not self-manifest. The reply of the Siddhantin is this. Even in the case of the fire-wood, the part that 
 
-328 
+[[328]]
 
 MÄNAMEYODAYA 
 
@@ -515,7 +515,7 @@ slept
 
 The six objects": corresponding to the six 
 
-Otherwise, in the case of one who having happiness as the enjoyment of a damsel": a person falls into deep sleep. During deep sleep there is no misery at all. When he wakes up, he knows that he had been sleeping without any disturbance, i.e., that he had no misery at all. When he was asleep, he had forgotten every- thing, even his appointment with a damsel; but when he wakes up, he remembers the appointment and feels sorry for the loss of the bits of happiness that he would have had. Now, if absence of misery as such is the object of one's ultimate desire, then, how is it that in this case, there is dissatisfaction along with the complete absence of misery? 119. "That the universe is constituted of Maya will 
+Otherwise, in the case of one who having happiness as the enjoyment of a damsel": a person falls into deep sleep. During deep sleep there is no misery at all. When he wakes up, he knows that he had been sleeping without any disturbance, i.e., that he had no misery at all. When he was asleep, he had forgotten everything, even his appointment with a damsel; but when he wakes up, he remembers the appointment and feels sorry for the loss of the bits of happiness that he would have had. Now, if absence of misery as such is the object of one's ultimate desire, then, how is it that in this case, there is dissatisfaction along with the complete absence of misery? 119. "That the universe is constituted of Maya wi॥ 
 
 be refuted 
 
@@ -543,7 +543,7 @@ establish-
 
 NOTES 
 
-329 
+[[329]]
 
 139. 
 
@@ -555,7 +555,7 @@ one would mistake the second flame to be the same as the first (as explained bel
 
 145. By the refutation of the God of the Logicians ": see paras 36–47 above. 
 
-46 
+[[46]]
 
 146. The eternality of the genus 
 
@@ -563,7 +563,7 @@ genus
 
 see iii. 2 below. 
 
-44 
+[[44]]
 
 8. 
 
@@ -579,7 +579,7 @@ nature of
 
 Later in refuting inherence": see vi. 10 ff. below. As in the case of a cook etc."; we apply the term cook to different persons, not because there is a genus called 
 
-cook" existing in all of them, but because all such persons are conditioned by an extraneous adjunct, namely the act of cooking. Similarly, Prabhakara con- tends, we apply the term "existent" to different things not because there is a genus called existence," but because all such things are conditioned by an extraneous adjunct, say, fitness for relation with a means of valid knowledge. 
+cook" existing in all of them, but because all such persons are conditioned by an extraneous adjunct, namely the act of cooking. Similarly, Prabhakara contends, we apply the term "existent" to different things not because there is a genus called existence," but because all such things are conditioned by an extraneous adjunct, say, fitness for relation with a means of valid knowledge. 
 
 6. 
 
@@ -599,9 +599,9 @@ This is the general rule. This is the general rule.
 
 says that such a rule holds good, only if we introduce into this rule or vyāpti the element determinate knowledge". 
 
-42 
+[[42]]
 
-330 
+[[330]]
 
 看点 
 
@@ -651,7 +651,7 @@ they," sacrifice mentioned in the previous part of the Vedic passage is meant. B
 
 NOTES 
 
-331 
+[[331]]
 
 the sacrifice became dharma, there is shown the identity of 
 
@@ -663,15 +663,15 @@ sacrifice and dharma.
 
 * 
 
-66 
+[[66]]
 
 (b) The variation of gender and number is due to Vedic usage" in the second part of the Vedic passage, there is the pronoun tāni" (they); this stands for the noun "yajña that occurs in the first part. The noun yajña" is masculine singular, and the pronoun tani" is neuter plural. It is this variation that is spoken of here. 71. Therefore it is the mere potency ... that is the unseen result": yāga is the cause and cattle etc. are the fruit. There is apūrva that comes between. This apūrva may be regarded as the potency of the cause to produce, or of the fruit that is produced. In the latter case, potency" means subtle condition ". 
 
-66 
+[[66]]
 
 (v) ACTION 
 
-44 
+[[44]]
 
 • • 
 
@@ -685,7 +685,7 @@ infer action in the hawk ?
 
 6. The purvapakṣa is this. We do not infer action merely because there is conjunction in an object. If an object is separated from something and immediately comes into conjunction with something else, then in such an object we infer action. In the case of the hawk coming and sitting on a post, there is its separation from the space where it was before and then immediately after, it has conjunction with the post; similarly when the hawk 
 
-332 
+[[332]]
 
 MANAMEYODAYA 
 
@@ -695,15 +695,15 @@ a.
 
 The 
 
-Siddhantin further refutes the infera- bility of action. On a dark night, we see fire-flies falling. How do we know this action in the fire-flies except through perception? The only possible object in which we may be said to see conjunction and dis- junction, from which 
+Siddhantin further refutes the inferability of action. On a dark night, we see fire-flies falling. How do we know this action in the fire-flies except through perception? The only possible object in which we may be said to see conjunction and disjunction, from which 
 
-which the action in the fire-fly is to be inferred, is darkness, and Prabhakara does not ac- cept an entity called darkness. If it be said that there is another object and that is the fire-fly itself, then the reply is that though there is. conjunction of light with the fire-fly, there is no disjunction of the light from the fire-fly. And it has been said in para 6 that it is from conjunction following on disjunction that action is to be inerred. 
+which the action in the fire-fly is to be inferred, is darkness, and Prabhakara does not accept an entity called darkness. If it be said that there is another object and that is the fire-fly itself, then the reply is that though there is. conjunction of light with the fire-fly, there is no disjunction of the light from the fire-fly. And it has been said in para 6 that it is from conjunction following on disjunction that action is to be inerred. 
 
 11. Here, the Siddhantin defends his position against a possible objection. If action is perceptible, then a person sitting in a boat and looking only at the boat (without any 
 
 NOTES 
 
-333 
+[[333]]
 
 possibility of seeing the surrounding objects) does not see the action of the boat, though the boat is moving. This is due to the defect of extreme proximity; and extreme proximity is a defect that vitiates perception. He further defends his position by saying that the size of the boat, which, according to both parties, is perceptible, is not perceived by that person, on account of the same defect. 
 
@@ -719,7 +719,7 @@ possibility of seeing the surrounding objects) does not see the action of the bo
 
 " 
 
-12. (a) There is inconstancy with the cognition There is no jar on the floor'": because the relation here, even according to the purvapakṣa, is only that of viseṣaṇa- viseṣyabhava. 
+12. (a) There is inconstancy with the cognition There is no jar on the floor'": because the relation here, even according to the purvapakṣa, is only that of viseṣaṇaviseṣyabhava. 
 
 (b) "On account of inconstancy with the cognition The jar is destroyed'": because, there is no relation at all in this case; one of the possible relata does not exist, being destroyed. 
 
@@ -735,7 +735,7 @@ negation.
 
 means of valid knowledge ": i.e., 
 
-334 
+[[334]]
 
 MANAMEYODAYA 
 
@@ -795,7 +795,7 @@ Anyonyäbhäva, reciprocal non-existence
 
 Anyonyasraya, mutual dependence; reciprocal dependence 
 
-336 
+[[336]]
 
 MÄNAMEYODAYA 
 
@@ -875,7 +875,7 @@ Akankṣā, expectancy Akuñcana, contraction
 
 Agama, revelation 
 
-Atman, self; soul 
+Atman, self; sou। 
 
 Atmasraya, self-dependence 
 
@@ -921,11 +921,11 @@ Ubhayasiddha, non-established for both Uşna, hot
 
 Üha, modification 
 
-43 
+[[43]]
 
-337 
+[[337]]
 
-338 
+[[338]]
 
 MÄNAMEYODAYA 
 
@@ -961,9 +961,9 @@ Kṣanika, momentary
 
 Kşiti, earth 
 
-Gandha, smell 
+Gandha, sme॥ 
 
-Gamana, motion in general 
+Gamana, motion in genera। 
 
 Guņa, quality 
 
@@ -973,7 +973,7 @@ Gocara, sphere
 
 Gaurava, prolixity 
 
-Ghrana, sense of smell 
+Ghrana, sense of sme॥ 
 
 Cakraka, arguing in a circle 
 
@@ -1013,7 +1013,7 @@ Tvak, sense of touch
 
 Dik, space 
 
-Durgandha, noxious smell 
+Durgandha, noxious sme॥ 
 
 Duṣṭapaksa, defective subject; fallacious subject 
 
@@ -1053,9 +1053,9 @@ Nirpaya, demonstration
 
 Nirvikalpaka, non-determinate 
 
-339 
+[[339]]
 
-340 
+[[340]]
 
 MÄNAMEYODAYA 
 
@@ -1183,9 +1183,9 @@ Yogya, capable
 
 Yogyatva, capacity; capability 
 
-341 
+[[341]]
 
-342 
+[[342]]
 
 MÄNAMEYODAYA 
 
@@ -1255,7 +1255,7 @@ Visaya, object; content
 
 GLOSSARY 
 
-343 
+[[343]]
 
 Visesyasiddhi, non-establishment of the substrate Vişama vyapti, non-reciprocal pervasion 
 
@@ -1263,9 +1263,9 @@ Ve
 
 Tega, velocity 
 
-Vaidika, scriptural 
+Vaidika, scriptura। 
 
-Vyakti, individual 
+Vyakti, individua। 
 
 Vyatireka, oo-absence 
 
@@ -1321,7 +1321,7 @@ Srutārthāpatti, presumption from what is heard
 
 Srotra, sense of hearing 
 
-344 
+[[344]]
 
 MANAMEYODAYA 
 
@@ -1391,7 +1391,7 @@ Samānyaguṇa, common quality
 
 Siddhaviseṣaṇa, having an established attribute 
 
-345 
+[[345]]
 
 Siddhasadhana, establishment of what was 
 
@@ -1405,7 +1405,7 @@ Siddhanta, final doctrine; theory
 
 Sukha, pleasure; happiness 
 
-Sugandha, sweet smell 
+Sugandha, sweet sme॥ 
 
 Sthitasthapaka, elasticity 
 
@@ -1441,39 +1441,39 @@ FOR
 
 READ 
 
-5 
+[[5]]
 
-८२ 
+[[८२]]
 
-2 
+[[2]]
 
 इदं विषय 
 
 इदविषय 
 
-10 
+[[10]]
 
-8 
+[[8]]
 
 साधनेनेन्द्रिय 
 
 साधनेन्द्रिय 
 
-46 
+[[46]]
 
-1 
+[[1]]
 
 तनचारोप 
 
-60 
+[[60]]
 
-7 
+[[7]]
 
 पुनरषि 
 
-65 
+[[65]]
 
-3 
+[[3]]
 
 द्वावेवायवौ 
 
@@ -1481,55 +1481,55 @@ READ
 
 पुनरपि द्वावेवाarat 
 
-103 
+[[103]]
 
-7 
+[[7]]
 
 बाक्य 
 
 वाक्य 
 
-106 
+[[106]]
 
-3 
+[[3]]
 
 वाक्यार्थ 
 
 वाक्यार्थे 
 
-107 
+[[107]]
 
-6 
+[[6]]
 
 वक्तृ प्रणीत 
 
 वक्तृप्रणीत 
 
-114 
+[[114]]
 
-5 
+[[5]]
 
-कमेलक: 
+कमेलकः 
 
-क्रमेलक: 
+क्रमेलकः 
 
-130 
+[[130]]
 
-8 
+[[8]]
 
 जुंष्टं 
 
 जुष्टं 
 
-131 
+[[131]]
 
-4 
+[[4]]
 
 पंद 
 
 पद 
 
-7 
+[[7]]
 
 आस्तामेत् 
 
@@ -1537,45 +1537,45 @@ READ
 
 " 
 
-142 
+[[142]]
 
 स्मृतिर्नस्था 
 
 स्मृतिनं स्या 
 
-149 
+[[149]]
 
-7 
+[[7]]
 
 व्याप्तेश्व 
 
 व्याप्तिश्व 
 
-153 
+[[153]]
 
-8 
+[[8]]
 
 दुद्भिद्यज 
 
 दुद्भिदूज 
 
-156 
+[[156]]
 
-4 
+[[4]]
 
 तेजोन्तर 
 
 तेजोऽन्तर 
 
-162 
+[[162]]
 
-9 
-
-कृष्णं 
+[[9]]
 
 कृष्णं 
 
-348 
+कृष्णं 
+
+[[348]]
 
 MÄNAMEYODAYA 
 
@@ -1587,79 +1587,79 @@ FOR
 
 READ 
 
-165 
+[[165]]
 
-7 
-
-योर्दर्शनेन 
+[[7]]
 
 योर्दर्शनेन 
 
-198 
+योर्दर्शनेन 
 
-4 
+[[198]]
+
+[[4]]
 
 क्ष्य साधने 
 
 क्ष्यसाधने 
 
-216 
+[[216]]
 
-1 
-
-कार्य 
+[[1]]
 
 कार्य 
 
-219 
+कार्य 
 
-1 
+[[219]]
 
-तत्र | 
+[[1]]
+
+तत्र । 
 
 तत्र 
 
-223 
+[[223]]
 
-6 
+[[6]]
 
 मन्दमन्दमन्दतर 
 
 मन्दमन्दतर 
 
-238 
+[[238]]
 
-5 
+[[5]]
 
 एवंमेव 
 
 एवमेव 
 
-248 
+[[248]]
 
-6 
-
-पुनरर्थ 
+[[6]]
 
 पुनरर्थ 
 
-267 
+पुनरर्थ 
 
-5 
+[[267]]
+
+[[5]]
 
 कार्यन्तु 
 
 कार्य तु 
 
-269 
+[[269]]
 
-4 
+[[4]]
 
 यता धिया 
 
-273 
+[[273]]
 
-5 
+[[5]]
 
 सर्वाख्यांते 
 
@@ -1671,9 +1671,9 @@ PAGE LINE
 
 FOR 
 
-८२ 
+[[८२]]
 
-2 
+[[2]]
 
 Kumarila 
 
@@ -1683,43 +1683,43 @@ Logicians
 
 ด 
 
-8 
+[[8]]
 
 difference 
 
-9 
+[[9]]
 
 unknown 
 
-11 
+[[11]]
 
-real 
+rea। 
 
-5 
+[[5]]
 
-12 
+[[12]]
 
-real 
+rea। 
 
-18 
+[[18]]
 
 itself 
 
-20 
+[[20]]
 
-7 
+[[7]]
 
 fives 
 
-31 
+[[31]]
 
-13 
+[[13]]
 
-33 
+[[33]]
 
-6 
+[[6]]
 
-reciprocal 
+reciproca। 
 
 kitchen etc. 
 
@@ -1735,13 +1735,13 @@ difference
 
 unknown 
 
-66 
+[[66]]
 
-real 
+rea। 
 
-19 
+[[19]]
 
-real 
+rea। 
 
 " 
 
@@ -1763,11 +1763,11 @@ LINE
 
 FOR 
 
-35 
+[[35]]
 
-3 
+[[3]]
 
-8 
+[[8]]
 
 valid means of 
 
@@ -1777,45 +1777,45 @@ READ
 
 means of valid (of the opposite) 
 
-349 
+[[349]]
 
 ** 
 
-38 
+[[38]]
 
 and from 
 
-9 
+[[9]]
 
 that yet 
 
-16 
+[[16]]
 
 This is 
 
 " 
 
-44 
+[[44]]
 
-11 
+[[11]]
 
-49 
+[[49]]
 
-3 
+[[3]]
 
 Among these 
 
-4 
+[[4]]
 
-2285 
+[[2285]]
 
-62 
+[[62]]
 
-11 
+[[11]]
 
-73 
+[[73]]
 
-13 
+[[13]]
 
 are not 
 
@@ -1847,21 +1847,21 @@ sublater
 
 are non- 
 
-74 
+[[74]]
 
-2 
+[[2]]
 
-11 
+[[11]]
 
-92 
+[[92]]
 
 sublator 
 
 sentence 
 
-94 
+[[94]]
 
-8 
+[[8]]
 
 and others 
 
@@ -1873,7 +1873,7 @@ and some others.
 
 $4 
 
-125 
+[[125]]
 
 14, 15 
 
@@ -1881,29 +1881,29 @@ non-established
 
 non-established 
 
-134 
+[[134]]
 
-5 
+[[5]]
 
 a ring 
 
-135 
+[[135]]
 
-17 
+[[17]]
 
 qulified 
 
-165 
+[[165]]
 
-8 
+[[8]]
 
-199 
+[[199]]
 
-11 
+[[11]]
 
-210 
+[[210]]
 
-9 
+[[9]]
 
 existence 
 
@@ -1923,9 +1923,9 @@ qualities
 
 existence 
 
-219 
+[[219]]
 
-5 
+[[5]]
 
 like a jar 
 
@@ -1933,15 +1933,15 @@ like a jar
 
 like a jar 
 
-245 
+[[245]]
 
-1 
+[[1]]
 
 they are 
 
-251 
+[[251]]
 
-3 
+[[3]]
 
 volition 
 
@@ -1959,7 +1959,7 @@ Lal Bahadur Shastri National Acadmey of Administration Library
 
 MUSSOORIE 
 
-100706 
+[[100706]]
 
 यह पुस्तक निम्नांकित तारीख तक वापिस करनी है । 
 
@@ -1991,7 +1991,7 @@ Class No.
 
 लेखक 
 
-100706 
+[[100706]]
 
 warfta gear 
 
@@ -2023,9 +2023,9 @@ MUSSOORIE
 
 Accession Na. 
 
-100706 
+[[100706]]
 
-1. Books are Issued for 15 days only but may have to be recalled earlier if urgen- tly required. 
+1. Books are Issued for 15 days only but may have to be recalled earlier if urgently required. 
 
 2. An over-due charge of 25 Paise per day 
 
@@ -2035,6 +2035,6 @@ per volume will be charged.
 
 the discretion of the Librarian. 
 
-4. Periodicals, Rare and Refrence books may not be issued and may be con- sulted only in the, Library. 
+4. Periodicals, Rare and Refrence books may not be issued and may be consulted only in the, Library. 
 
 5. Books lost, defaced or injured in any way shall have to be replaced or its double price shall be paid by the borrower.
