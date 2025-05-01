@@ -14,10 +14,10 @@ INTRODUCTORY
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सूर्यनारायणं वन्दे  
+सूर्य-नारायणं वन्दे  
 देवीं त्रिपुरसुन्दरीम् ।  
-गुरूनधिगतार्थांश्च  
-निरन्तरमहं भजे ॥ १ ॥
+गुरून् अधिगतार्थांश्च  
+निरन्तरम् अहं भजे ॥ १ ॥
 </details>
 
 <details><summary>English</summary>
@@ -40,9 +40,9 @@ INTRODUCTORY
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बालानां शास्त्र सिद्धार्थ-    
-लेशबोधाय धीमता।  
-मीमांसापरिभाषेयं  
-क्रियते कृष्णयज्वना ॥२॥
+लेश-बोधाय धीमता।  
+मीमांसा-परिभाषेयं  
+क्रियते कृष्ण-यज्वना ॥२॥
 </details>
 
 <details><summary>English</summary>
@@ -70,7 +70,7 @@ INTRODUCTORY
 
 इह खलु महर्षिणा जैमिनिना  
 द्वादश-लक्षण्यां पूर्व-मीमांसायां  
-धर्माधर्माव् एवानुष्ठानोपयोगितया विचारितौ ।  
+धर्माधर्माव् **एवानुष्ठानोपयोगितया विचारितौ** ।  
 </details>
 
 <details><summary>English</summary>
@@ -88,10 +88,21 @@ Here, in the Pūrva-Mīmāṁsā consisting of twelve chapters,1 the great seer,
 इह खलु महर्षिणा जैमिनिना द्वादशलक्षणयांं पूर्वमीमांसायां धर्माधर्मावेवानुष्ठानोपयोगितया विचारितौ । 
 </details>
 
+### धर्माधर्मौ
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तत्र वेदबोधितेष्टसाधनताको धर्मः; यथा यागादिः । 
+तत्र वेद-बोधितेष्ट-साधनताको **धर्मः**;  
+यथा यागादिः । 
 </details>
+
+<details><summary>English</summary>
+
+Of these, righteous action is that which is described by the Vedas as bringing on what is desirable3; as, for instance, sacrifices etc. 
+
+3 That is, beneficial.
+
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -101,43 +112,193 @@ Here, in the Pūrva-Mīmāṁsā consisting of twelve chapters,1 the great seer,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वेदबोधितानिष्टसाधनताकोेऽधर्मः; यथा कलञ्जभक्षणादिः । 
+वेद-बोधितानिष्ट-साधनताकोेऽधर्मः; यथा कलञ्जभक्षणादिः । 
 </details>
+
+<details><summary>English</summary>
+
+Unrighteous action is that which is described by the Vedas as bringing on what is undesirable4; as, for instance, eating *kalañja*5 and so on. 
+
+4 That is, harmful.
+
+5 Meat of an animal killed with a poisoned arrow. It is the spiritual evil resulting from the eating of such meat that is meant, and not any possible physical evil. The word also means a red onion.
+</details>
+
 
 <details><summary>मूलम्</summary>
 
 वेदबोधितानिष्ट साधनताकोेऽधर्मः; यथा कलञ्जभक्षणादिः । 
 </details>
 
+## प्रमाणम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तयोश्च वेदः स्मृतिराचारश्च प्रमाणम् । तत्र वेदः स्वतन्त्रंं प्रमाणम्, इतरौ तु वेदमूलकतया ।
+तयोश्च वेदः स्मृतिराचारश्च प्रमाणम् । 
+</details>
 
-तत्र वेदो द्विविधः—मन्त्ररूपो ब्राह्मणरूपश्चेति । तत्र प्रयोग-कालीनार्थस्मरणहेतुतया मन्त्राणामुपयोग इति वक्ष्यते । प्रयोगोऽनुष्ठानम्, तत्कालीनेत्यर्थः । विधायकं वाक्यं ब्राह्मणम् । तच्छेषश्चार्थवादः । तस्य विधेय प्राशस्त्य प्रतीति जननद्वारा विधि वाक्यैकवाक्यतया प्रामाण्यमिति वक्ष्यते ।
+<details><summary>English</summary>
 
-Of these, righteous action is that which is described by the Vedas as bringing on what is desirable3; as, for instance, sacrifices etc. Unrighteous action is that which is described by the Vedas as bringing on what is undesirable4; as, for instance, eating *kalañja*5 and so on. Regarding both, the Vedas, the Smṛtis,6 and \(approved\) usage are the authority. Of these, the Vedas are independently authoritative, while the other two are so as being based on the Vedas.
-
-Now the Vedas have two forms, as consisting of sacred texts \(*mantras*\) and sacred commentaries \(*brāhmaṇas*\). Regarding these, it will be stated later on \(p. 74\) that sacred texts have utility as helping7 to recall the things8 concerned at the time of performance. *Prayoga* in the text means performance; relating to that—this is the meaning \(of ‘*prayoga-kālīna*’\). A sacred commentary \(*brāhmaṇa*\) is a sentence enjoining something. And a corroborative statement \(*arthavāda*\) is an auxiliary to that. It will be stated later on \(p. 69\) that a corroborative statement is authoritative as forming a unitary passage with a sentence inculcating an injunction, by leading to the impression that the thing enjoined is praiseworthy.
-
-\[
-3 That is, beneficial.
-
-4 That is, harmful.
-
-5 Meat of an animal killed with a poisoned arrow. It is the spiritual evil resulting from the eating of such meat that is meant, and not any possible physical evil. The word also means a red onion.
+Regarding both, the Vedas, the Smṛtis,6 and \(approved\) usage are the authority. 
 
 6 Books composed by sages to regulate human conduct on the basis of the Vedas, which are believed to be the eternal wisdom of God, revealed only to certain gifted persons called *ṛṣis* or seers.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तयोश्च वेदः स्मृतिराचारश्च प्रमाणम् । 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तत्र वेदः स्वतन्त्रंं प्रमाणम्, इतरौ तु वेदमूलकतया ।
+</details>
+
+<details><summary>English</summary>
+
+Of these, the Vedas are independently authoritative, while the other two are so as being based on the Vedas.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तत्र वेदः स्वतन्त्रंं प्रमाणम्, इतरौ तु वेदमूलकतया ।
+</details>
+
+### मन्त्र-ब्राह्मणे
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तत्र वेदो द्विविधः—मन्त्ररूपो ब्राह्मणरूपश्चेति । 
+</details>
+
+<details><summary>English</summary>
+
+Now the Vedas have two forms, as consisting of sacred texts \(*mantras*\) and sacred commentaries \(*brāhmaṇas*\). 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तत्र वेदो द्विविधः—मन्त्ररूपो ब्राह्मणरूपश्चेति । 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तत्र प्रयोग-कालीनार्थस्मरणहेतुतया मन्त्राणामुपयोग इति वक्ष्यते । 
+</details>
+
+<details><summary>English</summary>
+
+Regarding these, it will be stated later on \(p. 74\) that sacred texts have utility as helping7 to recall the things8 concerned at the time of performance. 
 
 7 Otherwise they would be regarded as superfluous.
 
-8 Viz., the sacrificial offerings, the deities to whom the sacrifice is made, and whatever else is connected with a sacrifice.\]
+8 Viz., the sacrificial offerings, the deities to whom the sacrifice is made, and whatever else is connected with a sacrifice.
+</details>
 
 
+<details><summary>मूलम्</summary>
+
+तत्र प्रयोग-कालीनार्थस्मरणहेतुतया मन्त्राणामुपयोग इति वक्ष्यते । 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+**प्रयोगो** ऽनुष्ठानम्, तत्कालीनेत्यर्थः +++(पूर्व-वाक्ये)+++ । 
+</details>
+
+<details><summary>English</summary>
+
+*Prayoga* in the text means performance; relating to that—this is the meaning \(of ‘*prayoga-kālīna*’\). 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+प्रयोगोऽनुष्ठानम्, तत्कालीनेत्यर्थः । 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+विधायकं वाक्यं **ब्राह्मणम्** । 
+</details>
+
+<details><summary>English</summary>
+
+A sacred commentary \(*brāhmaṇa*\) is a sentence enjoining something. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+विधायकं वाक्यं ब्राह्मणम् । 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तच्-छेषश् **चार्थवादः** । 
+</details>
+
+<details><summary>English</summary>
+
+And a corroborative statement \(*arthavāda*\) is an auxiliary to that. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+तच्छेषश्चार्थवादः । 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तस्य +++(अर्थवादस्य)+++ विधेय-प्राशस्त्य-प्रतीति-जननद्वारा  
+विधि-वाक्यैक-वाक्यतया प्रामाण्यम् इति वक्ष्यते ।
+</details>
+
+<details><summary>English</summary>
+
+It will be stated later on \(p. 69\) that a corroborative statement is authoritative as forming a unitary passage with a sentence inculcating an injunction, by leading to the impression that the thing enjoined is praiseworthy.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तस्य विधेय प्राशस्त्य प्रतीति जननद्वारा विधि वाक्यैकवाक्यतया प्रामाण्यमिति वक्ष्यते ।
+</details>
+
+
+
+### ब्राह्मण-भेदाः
+
+<details><summary>English</summary>
 
 **VARIETIES OF BRĀHMAṆA SENTENCES**
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ब्राह्मणवाक्यं चानेक-विधम्—  
+कर्मोत्पत्ति-वाक्यम्, गुण-वाक्यम्, फल-वाक्यम्, फलाय गुणवाक्यम्, स-गुण-कर्मोत्पत्ति-वाक्यम्  
+इत्य्-आदि भेदात् ।
+</details>
+
+<details><summary>मूलम्</summary>
 
 ब्राह्मणवाक्यं चानेकविधम्—कर्मोत्पत्तिवाक्यम्, गुणवाक्यम्, फलवाक्यम्, फलाय गुणवाक्यम्, सगुणकर्मोत्पत्तिवाक्यमित्यादि भेदात् ।
+</details>
 
-तत्र येन वाक्येन ‘इदं कर्म कर्तव्यम्’ इति बोध्यते तत् कर्मोत्पत्तिवाक्यम् ; य़था ‘‘अग्निहोत्रं जुहोेति’’ इति । अत्राग्निहोत्रहोमः कर्तर्व्यतया विधीयत इति कर्मोत्पत्तिवाक्यमिदम् ।
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तत्र येन वाक्येन ‘इदं कर्म कर्तव्यम्’ इति बोध्यते तत् कर्मोत्पत्तिवाक्यम् ; यथा ‘‘अग्निहोत्रं जुहोेति’’ इति । 
+</details>
+
+<details><summary>मूलम्</summary>
+
+तत्र येन वाक्येन ‘इदं कर्म कर्तव्यम्’ इति बोध्यते तत् कर्मोत्पत्तिवाक्यम् ; यथा ‘‘अग्निहोत्रं जुहोेति’’ इति । 
+</details>
+
+अत्राग्निहोत्रहोमः कर्तर्व्यतया विधीयत इति कर्मोत्पत्तिवाक्यमिदम् ।
 
 विहिते कर्मणि तदङ्गतया द्रव्यदेवतादिविधायकं वाक्यं गुणवाक्यम् ; यथा ‘‘दध्ना जुहुयात्’’ इति । अत्र होममुद्दिश्याङ्गतया दधि विधीयत इति गुणवाक्यमिदम् । कर्माङ्गतया विहितत्वमेव दध्यादेर्गुणत्वम् ।
 
@@ -287,7 +448,7 @@ And sacrifices such as the Prayāja, Ājyabhāga and Anūyāja, which are mentio
 
 Such being the case, the sentence, “One who desires heaven should perform the new- and full-moon sacrifices,” means: “One should bring about the unique result leading to heaven by means of the two groups \(of sacrifices\) called the new- and full-moon sacrifices, in combination with each other.” Now, if it be asked how two groups \(of sacrifices\) belonging to different times can ever combine with each other, the answer is that although by themselves they cannot combine, yet each triad \(of sacrifices\) produces a unique result, and through these the two groups can combine. If it be asked how each triad also can produce its own unique result, the answer is that each triad, including all its prior and posterior subsidiary rites such as the Prayāja and Anūyāja, produces a unique result for the group. Since each triad cannot by itself combine with all its subsidiary rites, we must suppose that the three sacrifices produce three initial unique results, and through these they combine with all their subsidiaries.
 
-अङ्गानामपि प्रयाजादीनां स़्वरूपेण प्रधानसाहित्याभावात् तत्तदुत्पस्यपूर्वद्वरा साहित्यं वाच्यम् । तथा च प्रघानजन्यो- त्पत्त्यपूर्वाणां प्रयाजादिजन्योत्पत्त्यपूर्वैः साहित्यं यदस्ति तदेव प्रधानानामङ्गविशिष्टत्वरूपं साङ्गत्वम् । एवञ्च पौर्णमास्यामाम्नेयादि- जन्यैस्त्रिभिरपूर्वैः प्रयाजादिजन्योत्पत्त्यपूर्वसचिवैः समुदायापूर्वमेकं जन्यते, तथा दर्शेऽपि आगे्नयैन्द्रद्वयजन्यै-स्त्रिभिरपूर्वैरङ्गोत्पत्त्यपूर्वसचि- वैरेकं त्रिकापूर्वं जन्यते, ताभ्यां त्रिकापूर्वाभ्याम् आग्नेयाद्युत्पत्यपू- र्वत्रितयजन्याभ्यां फलजनकीभूतं महापूर्वं फलापूर्वनामकं जन्यते, ततश्च फलमिति ।
+अङ्गानामपि प्रयाजादीनां स्वरूपेण प्रधानसाहित्याभावात् तत्तदुत्पस्यपूर्वद्वरा साहित्यं वाच्यम् । तथा च प्रघानजन्यो- त्पत्त्यपूर्वाणां प्रयाजादिजन्योत्पत्त्यपूर्वैः साहित्यं यदस्ति तदेव प्रधानानामङ्गविशिष्टत्वरूपं साङ्गत्वम् । एवञ्च पौर्णमास्यामाम्नेयादि- जन्यैस्त्रिभिरपूर्वैः प्रयाजादिजन्योत्पत्त्यपूर्वसचिवैः समुदायापूर्वमेकं जन्यते, तथा दर्शेऽपि आगे्नयैन्द्रद्वयजन्यै-स्त्रिभिरपूर्वैरङ्गोत्पत्त्यपूर्वसचि- वैरेकं त्रिकापूर्वं जन्यते, ताभ्यां त्रिकापूर्वाभ्याम् आग्नेयाद्युत्पत्यपू- र्वत्रितयजन्याभ्यां फलजनकीभूतं महापूर्वं फलापूर्वनामकं जन्यते, ततश्च फलमिति ।
 
 तथा च सर्वाङ्गोपकृताभ्यां दर्शपूर्णमासाभ्यामपूर्वद्वारा स्वग कुर्यादिति फलापूर्वनिष्पत्तये साङ्गप्रधानकर्तव्यताबोधको विधिः प्रयो- गविधिरिति स्द्धिम् ।
 
