@@ -333,6 +333,8 @@ for example, “One should1 offer the Agnihotra” \(*Tai*. *S*. I. v. ix. 1\).
 Here the *homa*2 called Agnihotra3 is enjoined as a thing to be done; hence it is a sentence originating a rite.
 
 2 Offering oblations in the sacred fire.
+
+3 The lifelong offering of milk in the sacred fire, every morning and evening, by married men of the upper three castes among the Hindus.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -380,27 +382,41 @@ hence it is a sentence dealing with accessories.
 </details>
 
 
-कर्माङ्गतया विहितत्वमेव दध्यादेर्गुणत्वम् ।
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+कर्माङ्गतया विहितत्वम् एव दध्यादेर् गुणत्वम् ।
+</details>
 
-
-
-
-
-
+<details><summary>English</summary>
 
 Curd etc. are accessories, just because they are enjoined as subsidiaries to a rite.
-
-\[
-
-
-3 The lifelong offering of milk in the sacred fire, every morning and evening, by married men of the upper three castes among the Hindus.\]  
+</details>
 
 
+<details><summary>मूलम्</summary>
 
-ञ्प्रत्र होमस्योद्देश्यत्वं नाम मानान्तरप्राप्तत्वे सति विधेयान्वयितया निर्देश्यत्वम् । तस्यैव मानान्तरप्राप्तस्य पुनः कथ्यमानरूपत्वमनुवा-द्यत्वम्, दध्यादिगुणान्वयितया प्राधान्यञ्च । दध्यादेर्मानान्तराप्राप्त-त्वादत्रैव विधेयत्वम्, होमसाधनत्वाच्च होमापेक्षया गुणत्वम्, पुरुषेणा-नुष्ठीयमानत्वादुपादेयत्वञ्च । अत्र मानान्तरप्राप्तत्वंं मानान्तरज्ञातत्वम्, अप्राप्तत्वञ्चाज्ञातत्वमिति बोध्यम् ।
+कर्माङ्गतया विहितत्वमेव दध्यादेर्गुणत्वम् ।
+</details>
 
-उत्पन्नस्य कर्मणः फलाकांक्षायां फलसम्बन्धबोधको विधिः फलव्धििः ; यथा ‘‘अग्निहोत्रं जुहुयात् स्वर्गकामः’’ इति । ञ्प्रत्र ‘यः स्वर्गं कामयते स तत्साधनत्वेनाग्निहोत्रनामकं होमं भावयेत्—कुयति्’ इति अग्निहोत्रवाक्योत्पन्नस्य कर्मणः फलसम्बन्धो बोध्यत इति फलवाक्यमिदम् । 
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अत्र **होमस्योद्देश्यत्वं** नाम  
+मानान्तर-प्राप्तत्वे सति  
+विधेयान्वयितया निर्देश्यत्वम् । 
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
+अत्र होमस्योद्देश्यत्वं नाम मानान्तरप्राप्तत्वे सति विधेयान्वयितया निर्देश्यत्वम् । 
+</details>
+
+
+तस्यैव मानान्तरप्राप्तस्य पुनः कथ्यमानरूपत्वमनुवा-द्यत्वम्, दध्यादिगुणान्वयितया प्राधान्यञ्च । दध्यादेर्मानान्तराप्राप्त-त्वादत्रैव विधेयत्वम्, होमसाधनत्वाच्च होमापेक्षया गुणत्वम्, पुरुषेणा-नुष्ठीयमानत्वादुपादेयत्वञ्च । अत्र मानान्तरप्राप्तत्वंं मानान्तरज्ञातत्वम्, अप्राप्तत्वञ्चाज्ञातत्वमिति बोध्यम् ।
+
+उत्पन्नस्य कर्मणः फलाकांक्षायां फलसम्बन्धबोधको विधिः फलव्धििः ; यथा ‘‘अग्निहोत्रं जुहुयात् स्वर्गकामः’’ इति । अत्र ‘यः स्वर्गं कामयते स तत्साधनत्वेनाग्निहोत्रनामकं होमं भावयेत्—कुयति्’ इति अग्निहोत्रवाक्योत्पन्नस्य कर्मणः फलसम्बन्धो बोध्यत इति फलवाक्यमिदम् । 
 
 Here the homa is called a matter under reference \(*uddeśya*\), because it is already known from another authoritative source,1 and is at the same time capable of being described as that with which an enjoined rite comes into relation. That, again, is called the thing restated, when, as already known from another authoritative source, it is mentioned once more. And, as having curd etc. related to it as its accessories, it is designated as the principal matter. The curd etc., not being known from any other authoritative source, are the things enjoined here itself; being means to the *homa*, they are accessories in respect of it; and being used by a person, they are things to be utilised. Here we must understand that \`being obtained from another authoritative source’ in the text means \`being known from another authoritative source,’ and \`not being obtained’ means \`not being known.’
 
@@ -412,7 +428,7 @@ An injunction about results is that which, when a rite has been originated,2 and
 
 
 
-प्राप्तं कर्माश्रित्य फलाय गुणविधौ फलाय गुणवाक्यम्; यथा ‘‘दध्ने-न्द्रियकामस्य जुहुयात्’’ इति । ञ्प्रत्राग्निहोत्रवाक्योत्पन्नं होममाश्रित्येन्द्रिय-फलाय दधिरूपो गुणो विधीयते—‘होमाश्रितेन दध्ना इन्द्रियरूपं फलं भावयेत्’ इति । होमाश्रितेन होमकारकीभूूतेनेत्यर्थः । अयमेव गुणफलविधिः, गुणकामविधिरिति चोच्यते ।
+प्राप्तं कर्माश्रित्य फलाय गुणविधौ फलाय गुणवाक्यम्; यथा ‘‘दध्ने-न्द्रियकामस्य जुहुयात्’’ इति । अत्राग्निहोत्रवाक्योत्पन्नं होममाश्रित्येन्द्रिय-फलाय दधिरूपो गुणो विधीयते—‘होमाश्रितेन दध्ना इन्द्रियरूपं फलं भावयेत्’ इति । होमाश्रितेन होमकारकीभूूतेनेत्यर्थः । अयमेव गुणफलविधिः, गुणकामविधिरिति चोच्यते ।
 
 Where, with regard to a rite already known, an accessory is enjoined for obtaining a certain result, it is a sentence inculcating the accessories for results; for instance, “For a person desiring \(vigorous\) organs \(the priest\) should perform *homa* with curd” \(*Tai. Br*. II. I. v. 5, adapted\). Here, with regard to the *homa* originated by the sentence inculcating the Agnihotra, an accessory, viz., curd, is enjoined for obtaining \(vigorous\) organs as a result; the sentence meaning, ‘One should bring about \(vigorous\) organs as a result by means of curd used in the *homa*. \`Used in the *homa*’ means, \`forming a constituent of the *homa*.’ This is also called \`an injunction inculcating results due to \(particular\) accessories,’ and \`an injunction inculcating desired objects due to accessories.’
 
@@ -436,7 +452,7 @@ Sometimes a sentence originating a rite is also indicative of its connection wit
 
 **THE INJUNCTION REGARDING PERFORMANCE**
 
-प्रधानविधिरेवाङ्ग-विधिभिरेक वाक्यतया महावाक्यतामापन्नः सन् सर्वाङ्गविशिठ-प्रधान प्रयोगविधायकत्वात् प्रयोगविधिरित्युच्यते; यथा ‘‘ञ्प्रग्निहोत्रं जुहुयात् स्वर्गकामः’’ इति । ञ्प्रत्र ‘ञ्प्रग्निहोत्रहोमेन स्वर्गं भावयेत्’ इत्यर्थः प्रतीयते । भावयेत्—उत्पादयेत्, कुर्यात् इति यावत् । ञ्प्रत्र ‘कथमनेन होमेन स्वर्गं कुर्यात्’ इति कथम्भावाकांक्षा जायते । यथा ‘कुठारेण द्वैधीभावं कुर्यात्’ इत्युक्ते भवत्याकांक्षा ‘कथमनेन द्वैधीभावं कुर्यात्’ इति । तत्र ‘उद्यमननिपातनादिसहायेन’ इति गम्यते । तद्वदत्रापि ‘‘अग्निं प्रणयति,’’ ‘‘अग्निषु समिध ञ्प्रादधाति’’ इत्याद्यङ्ग-विधिविहित-प्रणयनसमिदाधानायतन-शोधनादिकाङ्गकलपजनितो- पकारसहितेन ञ्प्रग्निहोत्रहोमेन स्वर्गं कुर्यात् इति प्रकरणकल्पितेन महावाक्येन स्वर्गाय साङ्गाग्निहोत्रप्रयोगो विधीयत इत्येतादृशः प्रयोगविधिः । ञ्प्रङ्गजातमेवेत्थम्भाव इति, इतिकर्तव्यता इति चोच्यते । ञ्प्रत्राग्निहोत्रहोमः प्रधानम्, प्रणयनादिकं सर्वमङ्गम् ।
+प्रधानविधिरेवाङ्ग-विधिभिरेक वाक्यतया महावाक्यतामापन्नः सन् सर्वाङ्गविशिठ-प्रधान प्रयोगविधायकत्वात् प्रयोगविधिरित्युच्यते; यथा ‘‘ञ्प्रग्निहोत्रं जुहुयात् स्वर्गकामः’’ इति । अत्र ‘ञ्प्रग्निहोत्रहोमेन स्वर्गं भावयेत्’ इत्यर्थः प्रतीयते । भावयेत्—उत्पादयेत्, कुर्यात् इति यावत् । अत्र ‘कथमनेन होमेन स्वर्गं कुर्यात्’ इति कथम्भावाकांक्षा जायते । यथा ‘कुठारेण द्वैधीभावं कुर्यात्’ इत्युक्ते भवत्याकांक्षा ‘कथमनेन द्वैधीभावं कुर्यात्’ इति । तत्र ‘उद्यमननिपातनादिसहायेन’ इति गम्यते । तद्वदत्रापि ‘‘अग्निं प्रणयति,’’ ‘‘अग्निषु समिध ञ्प्रादधाति’’ इत्याद्यङ्ग-विधिविहित-प्रणयनसमिदाधानायतन-शोधनादिकाङ्गकलपजनितो- पकारसहितेन ञ्प्रग्निहोत्रहोमेन स्वर्गं कुर्यात् इति प्रकरणकल्पितेन महावाक्येन स्वर्गाय साङ्गाग्निहोत्रप्रयोगो विधीयत इत्येतादृशः प्रयोगविधिः । ञ्प्रङ्गजातमेवेत्थम्भाव इति, इतिकर्तव्यता इति चोच्यते । अत्राग्निहोत्रहोमः प्रधानम्, प्रणयनादिकं सर्वमङ्गम् ।
 
 The injunction regarding a principal rite, forming a unitary passage with injunctions regarding subsidiary rites, becomes a comprehensive passage, and since it enjoins the performance of the principal rite comprising all its subsidiary rites, it is designated as an injunction regarding performancel; for instance, the sentence, “One who desires heaven should offer the Agnihotra.” Here the meaning is understood to be: “One should bring about heaven through the *homa* called Agnihotra.” ‘Should bring about’—that is to say, \`should produce,’ or \`should perform.’ Here there is an expectancy as to the process: “How should one bring about heaven through this *homa?*”—just as when it is stated, “One should cut in two with an axe,” there is the expectancy: “How should the cutting in two be done with this?” Then one understands that it should be done through such means as raising the axe and letting it come down. Similarly, here also the performance of the Agnihotra together with its subsidiary rites is enjoined with a view to heaven by the following comprehensive sentence, assumed from the context: One should bring about heaven through the *homa* called Agnihotra, with the aid given by the totality of subsidiary rites such as leading the fire,2 laying the fuel and purifying the altar, prescribed by injunctions regarding subsidiary rites such as, “One should lead the fire,” and “One should add fuel to the fire.” Such is the injunction regarding performance. The subsidiary rites taken together are also designated as the manner or *modus operandi*. Here the *homa* called Agnihotra is the principal rite, and leading \(the fire\) and the rest are all subsidiaries.
 
@@ -767,7 +783,7 @@ The sacrifice with cakes in an animal sacrifice, however, is for the purificatio
 
 केचित्तु — उपयोक्ष्यमाणसंस्कारभिन्नसंस्कारकर्मत्वं प्रतिर्पात्त- कर्मत्वम्; चतुरवत्तद्रव्यस्य होमेन भस्मीभूतस्य होमे उपयोक्ष्यमाण- त्वाभावात् तद्भिन्नत्वं होमेऽस्तीति लत्त्दणसङ्गतिरित्याहुः ।
 
-ञ्प्रत्रायं विशेषः — ञ्प्रर्थकर्मणि द्रव्यापेत्दया कर्मणः प्राधान्यम्, कर्मणि द्रव्यस्य गुणत्वम् । यथा अग्निहोत्रादौ दध्यादेर्गुणत्वम् । गुणकर्मणि द्रव्यस्य प्राधान्यम्, द्रव्ये च कर्मणो गुणत्वम् । यथा ‘‘व्रीहीन् प्रोत्दति’’ अवहन्ति’’ इत्यादौ द्वितीयया व्रीहीणां क्रियासाध्यत्वप्रतीतेः व्रिâयापेत्दया द्रव्यस्य प्राधान्यम्, प्रोत्दणादिव्रिâयायास्तदपेत्दया गुणत्वमिति ।
+अत्रायं विशेषः — ञ्प्रर्थकर्मणि द्रव्यापेत्दया कर्मणः प्राधान्यम्, कर्मणि द्रव्यस्य गुणत्वम् । यथा अग्निहोत्रादौ दध्यादेर्गुणत्वम् । गुणकर्मणि द्रव्यस्य प्राधान्यम्, द्रव्ये च कर्मणो गुणत्वम् । यथा ‘‘व्रीहीन् प्रोत्दति’’ अवहन्ति’’ इत्यादौ द्वितीयया व्रीहीणां क्रियासाध्यत्वप्रतीतेः व्रिâयापेत्दया द्रव्यस्य प्राधान्यम्, प्रोत्दणादिव्रिâयायास्तदपेत्दया गुणत्वमिति ।
 
 Some, however, say: The rite of disposal is any rite of purification other than the purification of what is to be used. Since the material of the quadruple oblation, which is burnt to ashes by *homa*, can no longer be used in the latter, this *homa* is other than what is to be used. Hence the definition can apply there.
 
@@ -778,7 +794,7 @@ Here there is this difference: In a principal rite \(*artha-karman*\) the rite i
 **A FOURFOLD DIVISION OF   
 SUBSIDIARY RITES**
 
-पुनरपि गुणकर्म चतुर्विधम्—उत्पत्त्याप्तिविकृतिसंस्कृतिभेदात् । तत्रोत्पत्तिसंस्कारो यथा ‘‘ञ्प्रग्नीनादधीत’’ इति । मन्त्रविशेबैः सम्भारेषु निधापिता आहवनीयादय उत्पद्यन्त इत्याहवनीयाद्युत्पत्तिहेतुभूत- संस्कारजनकत्वात् आधानस्य उत्पत्तिसंस्कारत्वम् ञ्प्राप्तिसंस्कारो यथा ‘‘स्वाघ्यायोऽध्येतव्यः’’ इति । अध्ययनेन स्वाध्याय आप्यत इत्याप्ति- संस्कारोऽयम् । विकृतिर्यथा ‘‘व्रीहीनवहन्ति’’ इति । व्रीहिगतवैतुष्य-रूपविकृतिजनकत्वादवहननं विकृतिसंस्कारः । संस्कृतिर्यथा ‘‘व्रीहीन् प्रोत्दति’’ इति । ञ्प्रत्र प्रोक्षणस्य व्रीहिगतातिशयरूपसंस्कृतिजनकत्वात् संस्कृतिरूपगुणकर्मत्वम् । ञ्प्रत्राधानमघ्यनञ्च स्वतनत्रं गुणकर्म, न तु व्रâत्वङ्गम् । प्रोत्दणदिकं सर्वं व्रâत्वङ्गं गुणकर्मेति ध्येयम् ।
+पुनरपि गुणकर्म चतुर्विधम्—उत्पत्त्याप्तिविकृतिसंस्कृतिभेदात् । तत्रोत्पत्तिसंस्कारो यथा ‘‘ञ्प्रग्नीनादधीत’’ इति । मन्त्रविशेबैः सम्भारेषु निधापिता आहवनीयादय उत्पद्यन्त इत्याहवनीयाद्युत्पत्तिहेतुभूत- संस्कारजनकत्वात् आधानस्य उत्पत्तिसंस्कारत्वम् ञ्प्राप्तिसंस्कारो यथा ‘‘स्वाघ्यायोऽध्येतव्यः’’ इति । अध्ययनेन स्वाध्याय आप्यत इत्याप्ति- संस्कारोऽयम् । विकृतिर्यथा ‘‘व्रीहीनवहन्ति’’ इति । व्रीहिगतवैतुष्य-रूपविकृतिजनकत्वादवहननं विकृतिसंस्कारः । संस्कृतिर्यथा ‘‘व्रीहीन् प्रोत्दति’’ इति । अत्र प्रोक्षणस्य व्रीहिगतातिशयरूपसंस्कृतिजनकत्वात् संस्कृतिरूपगुणकर्मत्वम् । अत्राधानमघ्यनञ्च स्वतनत्रं गुणकर्म, न तु व्रâत्वङ्गम् । प्रोत्दणदिकं सर्वं व्रâत्वङ्गं गुणकर्मेति ध्येयम् ।
 
 Subsidiary rites are again fourfold, being divided into origination, attainment, modification and consecration. Of these, an example of the purification called origination is found in the passage, “One should place the fire.” Since fires such as the Āhavanīya originate by being placed on a stack \(of fuel\) to the utterance of sacred texts, the placing, being the cause of purification that leads to the origination of fires such as the Āhavanīya, is a purification called origination. The purification called attainment is exemplified by the sentence, “One’s own Vedas1 should be studied” \(*Tai*. Ā. II. XV. 7\). The Vedas of one’s own school are attained through study; hence this is a purification called attainment. An example of modification is the sentence, “One should thresh the rice grains.” Since threshing causes a change, viz., husking, in the paddy, it is a purification called modification. An instance of consecration is the sentence, “One should sprinkle the rice grains.” Here, since the sprinkling causes consecration in the form of an added virtue2 in the rice grains, it is a subsidiary rite of the nature of consecration. Of these, the placing \(of the fire\) and study, we must understand, are independent subsidiary rites, not accessories to the sacrifice; but. sprinkling and the rest are all subsidiary rites that are accessories to the sacrifice.
 
