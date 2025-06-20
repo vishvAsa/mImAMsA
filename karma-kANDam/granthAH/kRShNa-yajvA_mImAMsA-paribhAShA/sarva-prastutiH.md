@@ -962,21 +962,124 @@ and leading \(the fire\) and the rest are all subsidiaries.
 ## फलापूर्वकल्पना
 
 
-नन्विदमनुपपन्नम् ,आशुतरविनाशिनां कर्मणां कालान्तरभावि-स्वर्गादिफलसाधनत्वानुपपत्तेरिति चेत्, मैवम् । विहितनिषिद्धकर्मणां तत्तद्वाक्यैस्तत्तत्फलसाधनत्वेऽवगते आशुतरविनाशिनां कर्मणां कालान्तर- भाविफलसाधनत्वोपपत्त्यर्थमन्तरा पुण्यपापरूपमपूर्वं कल्प्यते । ततश्च यागादेरपूर्वद्वारा स्वर्गसाधनत्वम्, न साक्षात् । तदेव फलापूर्वम् । तत्करण- त्वञ्च प्राच्योदीच्याङ्गविशिष्टस्य प्रधानस्य भवति, न प्रधानमात्रस्य । प्रधानमात्रादेव फलापूर्वजनने फलस्यापि तत एव सिद्धेरङ्गानामानर्थ-क्यापत्तेः ।
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> नन्व् इदम् अनुपपन्नम् ,  
+आशुतर-विनाशिनां कर्मणां  
+कालान्तर-भावि-स्वर्गादि-फल-साधनत्वानुपपत्तेर् 
+
+इति चेत्, मैवम् । 
+</details>
+
+<details><summary>English</summary>
 
 *Objection*: But this does not stand to reason, since rites, which perish very quickly, cannot serve as the means to heaven etc. that are to be realised at some future time.1
 
-*Reply*: Not so; for when acts enjoined or forbidden have been known from particular texts to be the means to particular results, in order that acts which perish very quickly may be the means to results taking place at some future time, a principle called the unique result \(*apūrva*\), consisting of merit and demerit, is assumed in the interim. Therefore sacrifices etc. are means to heaven through the medium of the unique result, and not directly. This is what is also called the final unique result. Its instrument is the principal rite together with its prior and posterior subsidiaries, not the principal rite alone. If the latter alone produced the final unique result, the result of the rite also would accrue from that,2 and hence the subsidiary rites would be redundant.
+(1 Because a cause is immediately antecedent to its effect.)
 
-\[1 Because a cause is immediately antecedent to its effect.
 
+*Reply*: Not so; 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+नन्विदमनुपपन्नम् ,आशुतरविनाशिनां कर्मणां कालान्तरभावि-स्वर्गादिफलसाधनत्वानुपपत्तेरिति चेत्, मैवम् । 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+विहित-निषिद्ध-कर्मणां  
+तत्-तद्-वाक्यैस् तत्-तत्-फल-साधनत्वे ऽवगते  
+आशुतर-विनाशिनां कर्मणां कालान्तर-भावि-फल-साधनत्वोपपत्त्य्-अर्थम् अन्तरा  
+पुण्य-पाप-रूपम् **अपूर्वं** कल्प्यते । 
+</details>
+
+<details><summary>English</summary>
+
+for when acts enjoined or forbidden have been known from particular texts to be the means to particular results,  
+in order that acts which perish very quickly may be the means to results taking place at some future time,  
+a principle called the unique result \(*apūrva*\), consisting of merit and demerit, is assumed in the interim. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+विहितनिषिद्धकर्मणां तत्तद्वाक्यैस्तत्तत्फलसाधनत्वेऽवगते आशुतरविनाशिनां कर्मणां कालान्तर-भाविफलसाधनत्वोपपत्त्यर्थमन्तरा पुण्यपापरूपमपूर्वं कल्प्यते । 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ततश् च यागादेर् अपूर्व-द्वारा स्वर्ग-साधनत्वम्, न साक्षात् । 
+</details>
+
+<details><summary>English</summary>
+
+Therefore sacrifices etc. are means to heaven through the medium of the unique result, and not directly. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ततश्च यागादेरपूर्वद्वारा स्वर्गसाधनत्वम्, न साक्षात् । 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तद् एव **फलापूर्वम्** । 
+</details>
+
+<details><summary>English</summary>
+
+This is what is also called the final unique result. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तदेव फलापूर्वम् । 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तत्-करणत्वञ् च प्राच्योदीच्याङ्ग-विशिष्टस्य प्रधानस्य भवति, न प्रधान-मात्रस्य -  
+प्रधानमात्राद् एव फलापूर्व-जनने  
+फलस्यापि तत एव सिद्धेर्  
+अङ्गानाम् आनर्थक्यापत्तेः ।
+</details>
+
+<details><summary>English</summary>
+
+Its instrument is the principal rite together with its prior and posterior subsidiaries,  
+not the principal rite alone. 
+
+If the latter alone produced the final unique result, the result of the rite also would accrue from that,2 and hence the subsidiary rites would be redundant.
+
+\[
 2 From the final unique result produced by the principal rite alone.\]  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तत्करणत्वञ्च प्राच्योदीच्याङ्गविशिष्टस्य प्रधानस्य भवति, न प्रधानमात्रस्य -  
+प्रधानमात्रादेव फलापूर्वजनने फलस्यापि तत एव सिद्धेरङ्गानामानर्थक्यापत्तेः ।
+</details>
+
+
+
+
+## उत्पत्त्यपूर्वकल्पना
+
 
 
 
 ननु सर्वाङ्गविशिष्टस्य प्रधानस्यापूर्वजनकत्वमयुक्तम्, आशुतर-विनाशिनः प्रधानस्याङ्गसाहित्याभावादिति चेत्, न; प्रधानकर्मणः स्वरूपेणाङ्गसाहित्याभावेऽपि उत्पत्यपूर्वद्वारा साहित्यसम्भवात् । प्रधानस्य सर्वाङ्गसाहित्यसिद्धयर्थ प्रधानकर्मपरमापूर्वयोर्मध्ये प्रधान- मात्रजन्यमुत्पत्तिनामकं किञ्चदपूर्वमस्तीत्यङ्गीकारात् । एवमङ्गानामपि परस्परसहितानामेव प्रधानोप कारकत्वात्तेषां स्वरूपेण साहित्याभावात् तत्तदुत्पत्यपूर्वद्वारा साहित्यं बोध्यम् । अङ्गानां प्रधानोपकारकत्वं नाम प्रधानस्य फलापूर्वजनन-सामर्थ्योन्मुखीकरणमेव ।
 
-*Objection*: But it is unreasonable to hold that the principal rite together with all its subsidiaries produces the unique result; for the principal rite, which perishes very quickly, can nev r combine with its subsidiaries.
+*Objection*: But it is unreasonable to hold that the principal rite together with all its subsidiaries produces the unique result; for the principal rite, which perishes very quickly, can never combine with its subsidiaries.
 
 *Reply*: No; because although the principal rite does not directly combine with its subsidiaries, the combination is possible through the initial unique result \(*utpattyapūrva*\). For, in order that the principal rite may combine with all its subsidiaries, it is admitted that between it and the final unique result there exists another unique result called the initial one, which is produced by the principal rite alone. Similarly, since the subsidiary rites, too, help the principal rite only in combination with one another, and since they cannot mutually combine by themselves, the combination is understood to take place through their respective initial unique results. The helping of the principal rite by the subsidiary rites consists merely in their stimulating the former’s capacity to produce the final unique result.
 
