@@ -133,7 +133,8 @@ Unrighteous action is that which is described by the Vedas as bringing on what i
 ## प्रमाणम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तयोश्च वेदः स्मृतिराचारश्च प्रमाणम् । 
+तयोश् च  
+वेदः, स्मृतिर्, आचारश् च प्रमाणम् । 
 </details>
 
 <details><summary>English</summary>
@@ -169,7 +170,7 @@ Of these, the Vedas are independently authoritative, while the other two are so 
 ### मन्त्र-ब्राह्मणे
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तत्र वेदो द्विविधः—मन्त्ररूपो ब्राह्मणरूपश्चेति । 
+तत्र वेदो द्विविधः— मन्त्र-रूपो ब्राह्मण-रूपश् चेति । 
 </details>
 
 <details><summary>English</summary>
@@ -185,7 +186,8 @@ Now the Vedas have two forms, as consisting of sacred texts \(*mantras*\) and sa
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तत्र प्रयोग-कालीनार्थस्मरणहेतुतया मन्त्राणामुपयोग इति वक्ष्यते । 
+तत्र प्रयोग-कालीनार्थ-स्मरण-हेतुतया  
+मन्त्राणाम् उपयोग इति वक्ष्यते । 
 </details>
 
 <details><summary>English</summary>
@@ -278,10 +280,22 @@ It will be stated later on \(p. 69\) that a corroborative statement is authorita
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ब्राह्मणवाक्यं चानेक-विधम्—  
+ब्राह्मण-वाक्यं चानेक-विधम्—  
 कर्मोत्पत्ति-वाक्यम्, गुण-वाक्यम्, फल-वाक्यम्, फलाय गुणवाक्यम्, स-गुण-कर्मोत्पत्ति-वाक्यम्  
 इत्य्-आदि भेदात् ।
 </details>
+
+<details><summary>English</summary>
+
+Sentences constituting sacred commentary are manifold, being divided into 
+
+- sentences originating a rite,  
+- those dealing with accessories, 
+- those setting forth results, 
+- those inculcating the accessories for results, 
+- those originating a rite together with its accessories, and so on.
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -293,24 +307,92 @@ It will be stated later on \(p. 69\) that a corroborative statement is authorita
 तत्र येन वाक्येन ‘इदं कर्म कर्तव्यम्’ इति बोध्यते तत् कर्मोत्पत्तिवाक्यम् ; यथा ‘‘अग्निहोत्रं जुहोेति’’ इति । 
 </details>
 
+<details><summary>English</summary>
+
+Of these, a sentence originating a rite is that by which one understands  
+that such and such a rite is to be performed;  
+for example, “One should1 offer the Agnihotra” \(*Tai*. *S*. I. v. ix. 1\).  
+
+1 Though the verb in such cases may be in the present tense, it is to be interpreted as being optative.
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 तत्र येन वाक्येन ‘इदं कर्म कर्तव्यम्’ इति बोध्यते तत् कर्मोत्पत्तिवाक्यम् ; यथा ‘‘अग्निहोत्रं जुहोेति’’ इति । 
 </details>
 
-अत्राग्निहोत्रहोमः कर्तर्व्यतया विधीयत इति कर्मोत्पत्तिवाक्यमिदम् ।
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विहिते कर्मणि तदङ्गतया द्रव्यदेवतादिविधायकं वाक्यं गुणवाक्यम् ; यथा ‘‘दध्ना जुहुयात्’’ इति । अत्र होममुद्दिश्याङ्गतया दधि विधीयत इति गुणवाक्यमिदम् । कर्माङ्गतया विहितत्वमेव दध्यादेर्गुणत्वम् ।
+अत्राग्नि-होत्र-होमः कर्तर्व्यतया विधीयत  
+इति कर्मोत्पत्ति-वाक्यमिदम् ।
+</details>
 
-Sentences constituting sacred commentary are manifold, being divided into sentences originating a rite, those dealing with accessories, those setting forth results, those inculcating the accessories for results, those originating a rite together with its accessories, and so on.
+<details><summary>English</summary>
 
-Of these, a sentence originating a rite is that by which one understands that such and such a rite is to be performed; for example, “One should1 offer the Agnihotra” \(*Tai*. *S*. I. v. ix. 1\). Here the *homa*2 called Agnihotra3 is enjoined as a thing to be done; hence it is a sentence originating a rite.
-
-A sentence that enjoins, with regard to a rite that has already been enjoined, materials, deities, etc. as its subsidiaries, is called a sentence dealing with accessories; for instance, “One should perform *homa* with curd” \(*Tai*. *Br*. II. I. v. 6 ?\). Here, with reference to *homa*, curd is enjoined as its subsidiary; hence it is a sentence dealing with accessories. Curd etc. are accessories, just because they are enjoined as subsidiaries to a rite.
-
-\[1 Though the verb in such cases may be in the present tense, it is to be interpreted as being optative.
+Here the *homa*2 called Agnihotra3 is enjoined as a thing to be done; hence it is a sentence originating a rite.
 
 2 Offering oblations in the sacred fire.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अत्राग्निहोत्रहोमः कर्तर्व्यतया विधीयत इति कर्मोत्पत्तिवाक्यमिदम् ।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+विहिते कर्मणि तद्-अङ्गतया द्रव्य-देवतादि-विधायकं वाक्यं गुणवाक्यम् ;  
+यथा ‘‘दध्ना जुहुयात्’’ इति । 
+</details>
+
+<details><summary>English</summary>
+
+A sentence that enjoins, with regard to a rite that has already been enjoined, materials, deities, etc. as its subsidiaries,  
+is called a sentence dealing with accessories;  
+for instance, “One should perform *homa* with curd” \(*Tai*. *Br*. II. I. v. 6 ?\). 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+विहिते कर्मणि तदङ्गतया द्रव्यदेवतादिविधायकं वाक्यं गुणवाक्यम् ; यथा ‘‘दध्ना जुहुयात्’’ इति । 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अत्र होमम् उद्दिश्याङ्गतया दधि विधीयत  
+इति गुणवाक्यम् इदम् । 
+</details>
+
+<details><summary>English</summary>
+
+Here, with reference to *homa*, curd is enjoined as its subsidiary;  
+hence it is a sentence dealing with accessories. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अत्र होममुद्दिश्याङ्गतया दधि विधीयत इति गुणवाक्यमिदम् । 
+</details>
+
+
+कर्माङ्गतया विहितत्वमेव दध्यादेर्गुणत्वम् ।
+
+
+
+
+
+
+
+
+Curd etc. are accessories, just because they are enjoined as subsidiaries to a rite.
+
+\[
+
 
 3 The lifelong offering of milk in the sacred fire, every morning and evening, by married men of the upper three castes among the Hindus.\]  
 
