@@ -1,5 +1,6 @@
 +++
 title = "सर्व-प्रस्तुतिः"
+
 +++
 
 श्रीमत्कृष्णयज्वप्रणीता मीमांसा-परिभाषा॥
@@ -85,7 +86,7 @@ Here, in the Pūrva-Mīmāṁsā consisting of twelve chapters,1 the great seer,
 
 <details><summary>मूलम्</summary>
 
-इह खलु महर्षिणा जैमिनिना द्वादशलक्षणयांं पूर्वमीमांसायां धर्माधर्मावेवानुष्ठानोपयोगितया विचारितौ । 
+इह खलु महर्षिणा जैमिनिना द्वादशलक्षणयां पूर्वमीमांसायां धर्माधर्मावेवानुष्ठानोपयोगितया विचारितौ । 
 </details>
 
 ### धर्माधर्मौ
@@ -153,7 +154,7 @@ Regarding both, the Vedas, the Smṛtis,6 and \(approved\) usage are the authori
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तत्र वेदः स्वतन्त्रंं प्रमाणम्, इतरौ तु वेदमूलकतया ।
+तत्र वेदः स्वतन्त्रं प्रमाणम्, इतरौ तु वेदमूलकतया ।
 </details>
 
 <details><summary>English</summary>
@@ -164,7 +165,7 @@ Of these, the Vedas are independently authoritative, while the other two are so 
 
 <details><summary>मूलम्</summary>
 
-तत्र वेदः स्वतन्त्रंं प्रमाणम्, इतरौ तु वेदमूलकतया ।
+तत्र वेदः स्वतन्त्रं प्रमाणम्, इतरौ तु वेदमूलकतया ।
 </details>
 
 ### मन्त्र-ब्राह्मणे
@@ -302,6 +303,7 @@ Sentences constituting sacred commentary are manifold, being divided into
 ब्राह्मणवाक्यं चानेकविधम्—कर्मोत्पत्तिवाक्यम्, गुणवाक्यम्, फलवाक्यम्, फलाय गुणवाक्यम्, सगुणकर्मोत्पत्तिवाक्यमित्यादि भेदात् ।
 </details>
 
+### कर्मोत्पत्तिवाक्यम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्र येन वाक्येन ‘इदं कर्म कर्तव्यम्’ इति बोध्यते तत् कर्मोत्पत्तिवाक्यम् ; यथा ‘‘अग्निहोत्रं जुहोेति’’ इति । 
@@ -342,7 +344,7 @@ Here the *homa*2 called Agnihotra3 is enjoined as a thing to be done; hence it i
 अत्राग्निहोत्रहोमः कर्तर्व्यतया विधीयत इति कर्मोत्पत्तिवाक्यमिदम् ।
 </details>
 
-
+### गुणविधिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विहिते कर्मणि तद्-अङ्गतया द्रव्य-देवतादि-विधायकं वाक्यं गुणवाक्यम् ;  
@@ -401,11 +403,20 @@ Curd etc. are accessories, just because they are enjoined as subsidiaries to a r
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अत्र **होमस्योद्देश्यत्वं** नाम  
++++("होममुद्दिश्याङ्गतया"→)+++ अत्र **होमस्योद्देश्यत्वं** नाम  
 मानान्तर-प्राप्तत्वे सति  
 विधेयान्वयितया निर्देश्यत्वम् । 
 </details>
 
+<details><summary>English</summary>
+
+Here the homa is called a matter under reference \(*uddeśya*\),  
+because it is already known from another authoritative source,1  
+and is at the same time capable of being described as that with which an enjoined rite comes into relation. 
+
+
+1 *Māna* or *pramāṇa* is a means of valid knowledge. Here it is another scriptural text.
+</details>
 
 
 <details><summary>मूलम्</summary>
@@ -414,23 +425,152 @@ Curd etc. are accessories, just because they are enjoined as subsidiaries to a r
 </details>
 
 
-तस्यैव मानान्तरप्राप्तस्य पुनः कथ्यमानरूपत्वमनुवा-द्यत्वम्, दध्यादिगुणान्वयितया प्राधान्यञ्च । दध्यादेर्मानान्तराप्राप्त-त्वादत्रैव विधेयत्वम्, होमसाधनत्वाच्च होमापेक्षया गुणत्वम्, पुरुषेणा-नुष्ठीयमानत्वादुपादेयत्वञ्च । अत्र मानान्तरप्राप्तत्वंं मानान्तरज्ञातत्वम्, अप्राप्तत्वञ्चाज्ञातत्वमिति बोध्यम् ।
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उत्पन्नस्य कर्मणः फलाकांक्षायां फलसम्बन्धबोधको विधिः फलव्धििः ; यथा ‘‘अग्निहोत्रं जुहुयात् स्वर्गकामः’’ इति । अत्र ‘यः स्वर्गं कामयते स तत्साधनत्वेनाग्निहोत्रनामकं होमं भावयेत्—कुयति्’ इति अग्निहोत्रवाक्योत्पन्नस्य कर्मणः फलसम्बन्धो बोध्यत इति फलवाक्यमिदम् । 
+तस्यैव मानान्तर-प्राप्तस्य  
+पुनः कथ्यमान-रूपत्वम् **अनुवाद्यत्वम्**,  
+दध्य्-आदि-गुणान्वयितया **प्राधान्यञ्** च । 
+</details>
 
-Here the homa is called a matter under reference \(*uddeśya*\), because it is already known from another authoritative source,1 and is at the same time capable of being described as that with which an enjoined rite comes into relation. That, again, is called the thing restated, when, as already known from another authoritative source, it is mentioned once more. And, as having curd etc. related to it as its accessories, it is designated as the principal matter. The curd etc., not being known from any other authoritative source, are the things enjoined here itself; being means to the *homa*, they are accessories in respect of it; and being used by a person, they are things to be utilised. Here we must understand that \`being obtained from another authoritative source’ in the text means \`being known from another authoritative source,’ and \`not being obtained’ means \`not being known.’
+<details><summary>English</summary>
 
-An injunction about results is that which, when a rite has been originated,2 and there is an expectancy about its result, inculcates the connection of that rite with a particular result; for example, the sentence, “One who desires heaven should offer the Agnihotra.” It means: One who desires heaven should, as a means to it, bring about or perform the* homa* called Agnihotra. Here we understand the connection of the rite originated by the sentence inculcating the Agnihotra, with a certain result. Hence this is a sentence setting forth results.
+That, again, is called the thing restated,  
+when, as already known from another authoritative source, it is mentioned once more.  
+And, as having curd etc. related to it as its accessories,  
+it is designated as the principal matter. 
+</details>
 
-\[1 *Māna* or *pramāṇa* is a means of valid knowledge. Here it is another scriptural text.
 
-2 That is, originally enjoined by some other text.\]  
+<details><summary>मूलम्</summary>
+
+तस्यैव मानान्तरप्राप्तस्य पुनः कथ्यमानरूपत्वमनुवाद्यत्वम्, दध्यादिगुणान्वयितया प्राधान्यञ्च । 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+दध्यादेर् मानान्तराप्राप्तत्वाद्  
+अत्रैव **विधेयत्वम्**,  
+होम-साधनत्वाच् च होमापेक्षया **गुणत्वम्**,  
+पुरुषेणानुष्ठीयमानत्वाद् **उपादेयत्वञ्च** । 
+</details>
+
+<details><summary>English</summary>
+
+The curd etc., not being known from any other authoritative source,  
+are the things enjoined here itself;  
+being means to the *homa*,  
+they are accessories in respect of it;  
+and being used by a person, they are things to be utilised. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+दध्यादेर्मानान्तराप्राप्तत्वादत्रैव विधेयत्वम्, होमसाधनत्वाच्च होमापेक्षया गुणत्वम्, पुरुषेणानुष्ठीयमानत्वादुपादेयत्वञ्च । 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अत्र मानान्तर-प्राप्तत्वं **मानान्तर-ज्ञातत्वम्**,  
+अ-प्राप्तत्वञ् **चाज्ञातत्वम्** इति बोध्यम् ।
+</details>
+
+<details><summary>English</summary>
+
+Here we must understand that \`being obtained from another authoritative source’ in the text means  
+\`being known from another authoritative source,’  
+and \`not being obtained’ means \`not being known.’
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अत्र मानान्तरप्राप्तत्वं मानान्तरज्ञातत्वम्, अप्राप्तत्वञ्चाज्ञातत्वमिति बोध्यम् ।
+</details>
+
+### फलवाक्यम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+उत्पन्नस्य कर्मणः फलाकाङ्क्षायां  
+फल-सम्बन्ध-बोधको विधिः **फल-विधिः**;  
+यथा 'अग्निहोत्रं जुहुयात् स्वर्गकामः' इति । 
+</details>
+
+<details><summary>English</summary>
+
+An injunction about results is that which,  
+when a rite has been originated,2  
+and there is an expectancy about its result,  
+inculcates the connection of that rite with a particular result;  
+for example, the sentence,  
+“One who desires heaven should offer the Agnihotra.” 
+
+2 That is, originally enjoined by some other text.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+उत्पन्नस्य कर्मणः फलाकाङ्क्षायां फलसम्बन्धबोधको विधिः फल विधिः; यथा 'अग्निहोत्रं जुहुयात् स्वर्गकामः' इति । 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अत्र 
+
+> ‘यः स्वर्गं कामयते  
+स तत्-साधनत्वेनाग्निहोत्र-नामकं होमं भावयेत् — कुर्यात्' 
+
+इति +अग्नि-होत्र-वाक्योत्पन्नस्य कर्मणः फल-सम्बन्धो बोध्यत  
+इति **फल-वाक्यम्** इदम् । 
+</details>
+
+<details><summary>English</summary>
+
+It means:  
+
+> One who desires heaven should, as a means to it, bring about or perform the *homa* called Agnihotra.  
+
+Here we understand the connection of the rite originated by the sentence inculcating the Agnihotra,  
+with a certain result.  
+Hence this is a sentence setting forth results.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अत्र ‘यः स्वर्गं कामयते स तत्साधनत्वेनाग्निहोत्रनामकं होमं भावयेत्— कुर्यात्’ इति अग्निहोत्रवाक्योत्पन्नस्य कर्मणः फलसम्बन्धो बोध्यत इति फलवाक्यमिदम् । 
+</details>
+
+### फलाय गुणवाक्यम्
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्राप्तं कर्माश्रित्य  
+फलाय गुण-विधौ, फलाय गुण-वाक्यम्;  
+यथा ‘‘दध्नेन्द्रिय-कामस्य जुहुयात्’’ इति । 
+</details>
+
+<details><summary>English</summary>
+
+Where, with regard to a rite already known,  
+an accessory is enjoined for obtaining a certain result,  
+it is a sentence inculcating the accessories for results;  
+for instance, “For a person desiring \(vigorous\) organs \(the priest\) should perform *homa* with curd” \(*Tai. Br*. II. I. v. 5, adapted\). 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+प्राप्तं कर्माश्रित्य फलाय गुणविधौ फलाय गुणवाक्यम्; यथा ‘‘दध्नेन्द्रियकामस्य जुहुयात्’’ इति । 
+</details>
 
 
 
-प्राप्तं कर्माश्रित्य फलाय गुणविधौ फलाय गुणवाक्यम्; यथा ‘‘दध्ने-न्द्रियकामस्य जुहुयात्’’ इति । अत्राग्निहोत्रवाक्योत्पन्नं होममाश्रित्येन्द्रिय-फलाय दधिरूपो गुणो विधीयते—‘होमाश्रितेन दध्ना इन्द्रियरूपं फलं भावयेत्’ इति । होमाश्रितेन होमकारकीभूूतेनेत्यर्थः । अयमेव गुणफलविधिः, गुणकामविधिरिति चोच्यते ।
+अत्राग्निहोत्रवाक्योत्पन्नं होममाश्रित्येन्द्रिय-फलाय दधिरूपो गुणो विधीयते—‘होमाश्रितेन दध्ना इन्द्रियरूपं फलं भावयेत्’ इति । होमाश्रितेन होमकारकीभूूतेनेत्यर्थः । अयमेव गुणफलविधिः, गुणकामविधिरिति चोच्यते ।
 
-Where, with regard to a rite already known, an accessory is enjoined for obtaining a certain result, it is a sentence inculcating the accessories for results; for instance, “For a person desiring \(vigorous\) organs \(the priest\) should perform *homa* with curd” \(*Tai. Br*. II. I. v. 5, adapted\). Here, with regard to the *homa* originated by the sentence inculcating the Agnihotra, an accessory, viz., curd, is enjoined for obtaining \(vigorous\) organs as a result; the sentence meaning, ‘One should bring about \(vigorous\) organs as a result by means of curd used in the *homa*. \`Used in the *homa*’ means, \`forming a constituent of the *homa*.’ This is also called \`an injunction inculcating results due to \(particular\) accessories,’ and \`an injunction inculcating desired objects due to accessories.’
+Here, with regard to the *homa* originated by the sentence inculcating the Agnihotra, an accessory, viz., curd, is enjoined for obtaining \(vigorous\) organs as a result; the sentence meaning, ‘One should bring about \(vigorous\) organs as a result by means of curd used in the *homa*. \`Used in the *homa*’ means, \`forming a constituent of the *homa*.’ This is also called \`an injunction inculcating results due to \(particular\) accessories,’ and \`an injunction inculcating desired objects due to accessories.’
 
 द्रव्यदेवतादिगुण- विशिठ कर्मविधायकं वाक्यं सगुणकर्मोत्पत्तिवाक्यम्; यथा ‘‘सोमेन यजेत’’ इति । अत्र सोमलताविशिठो यागो विधीयते । विशिठविधावपि विशेषणस्यार्थाद्विधिः ।
 
@@ -452,7 +592,7 @@ Sometimes a sentence originating a rite is also indicative of its connection wit
 
 **THE INJUNCTION REGARDING PERFORMANCE**
 
-प्रधानविधिरेवाङ्ग-विधिभिरेक वाक्यतया महावाक्यतामापन्नः सन् सर्वाङ्गविशिठ-प्रधान प्रयोगविधायकत्वात् प्रयोगविधिरित्युच्यते; यथा ‘‘ञ्प्रग्निहोत्रं जुहुयात् स्वर्गकामः’’ इति । अत्र ‘ञ्प्रग्निहोत्रहोमेन स्वर्गं भावयेत्’ इत्यर्थः प्रतीयते । भावयेत्—उत्पादयेत्, कुर्यात् इति यावत् । अत्र ‘कथमनेन होमेन स्वर्गं कुर्यात्’ इति कथम्भावाकांक्षा जायते । यथा ‘कुठारेण द्वैधीभावं कुर्यात्’ इत्युक्ते भवत्याकांक्षा ‘कथमनेन द्वैधीभावं कुर्यात्’ इति । तत्र ‘उद्यमननिपातनादिसहायेन’ इति गम्यते । तद्वदत्रापि ‘‘अग्निं प्रणयति,’’ ‘‘अग्निषु समिध ञ्प्रादधाति’’ इत्याद्यङ्ग-विधिविहित-प्रणयनसमिदाधानायतन-शोधनादिकाङ्गकलपजनितो- पकारसहितेन ञ्प्रग्निहोत्रहोमेन स्वर्गं कुर्यात् इति प्रकरणकल्पितेन महावाक्येन स्वर्गाय साङ्गाग्निहोत्रप्रयोगो विधीयत इत्येतादृशः प्रयोगविधिः । ञ्प्रङ्गजातमेवेत्थम्भाव इति, इतिकर्तव्यता इति चोच्यते । अत्राग्निहोत्रहोमः प्रधानम्, प्रणयनादिकं सर्वमङ्गम् ।
+प्रधानविधिरेवाङ्ग-विधिभिरेक वाक्यतया महावाक्यतामापन्नः सन् सर्वाङ्गविशिठ-प्रधान प्रयोगविधायकत्वात् प्रयोगविधिरित्युच्यते; यथा ‘‘ञ्प्रग्निहोत्रं जुहुयात् स्वर्गकामः’’ इति । अत्र ‘ञ्प्रग्निहोत्रहोमेन स्वर्गं भावयेत्’ इत्यर्थः प्रतीयते । भावयेत्—उत्पादयेत्, कुर्यात् इति यावत् । अत्र ‘कथमनेन होमेन स्वर्गं कुर्यात्’ इति कथम्भावाकाङ्क्षा जायते । यथा ‘कुठारेण द्वैधीभावं कुर्यात्’ इत्युक्ते भवत्याकाङ्क्षा ‘कथमनेन द्वैधीभावं कुर्यात्’ इति । तत्र ‘उद्यमननिपातनादिसहायेन’ इति गम्यते । तद्वदत्रापि ‘‘अग्निं प्रणयति,’’ ‘‘अग्निषु समिध ञ्प्रादधाति’’ इत्याद्यङ्ग-विधिविहित-प्रणयनसमिदाधानायतन-शोधनादिकाङ्गकलपजनितो- पकारसहितेन ञ्प्रग्निहोत्रहोमेन स्वर्गं कुर्यात् इति प्रकरणकल्पितेन महावाक्येन स्वर्गाय साङ्गाग्निहोत्रप्रयोगो विधीयत इत्येतादृशः प्रयोगविधिः । ञ्प्रङ्गजातमेवेत्थम्भाव इति, इतिकर्तव्यता इति चोच्यते । अत्राग्निहोत्रहोमः प्रधानम्, प्रणयनादिकं सर्वमङ्गम् ।
 
 The injunction regarding a principal rite, forming a unitary passage with injunctions regarding subsidiary rites, becomes a comprehensive passage, and since it enjoins the performance of the principal rite comprising all its subsidiary rites, it is designated as an injunction regarding performancel; for instance, the sentence, “One who desires heaven should offer the Agnihotra.” Here the meaning is understood to be: “One should bring about heaven through the *homa* called Agnihotra.” ‘Should bring about’—that is to say, \`should produce,’ or \`should perform.’ Here there is an expectancy as to the process: “How should one bring about heaven through this *homa?*”—just as when it is stated, “One should cut in two with an axe,” there is the expectancy: “How should the cutting in two be done with this?” Then one understands that it should be done through such means as raising the axe and letting it come down. Similarly, here also the performance of the Agnihotra together with its subsidiary rites is enjoined with a view to heaven by the following comprehensive sentence, assumed from the context: One should bring about heaven through the *homa* called Agnihotra, with the aid given by the totality of subsidiary rites such as leading the fire,2 laying the fuel and purifying the altar, prescribed by injunctions regarding subsidiary rites such as, “One should lead the fire,” and “One should add fuel to the fire.” Such is the injunction regarding performance. The subsidiary rites taken together are also designated as the manner or *modus operandi*. Here the *homa* called Agnihotra is the principal rite, and leading \(the fire\) and the rest are all subsidiaries.
 
@@ -494,7 +634,7 @@ But in the case of the new-moon \(Darśa\) and full-moon \(Pūrṇamāsa\) sacri
 
 
 
-ननु ‘‘यदाग्नेय’’ इति वाक्ये यागवाचकपदस्याश्रवणात् कथं याग- विधायकत्वमिति चेत्, मैवम् । ञ्प्रग्निर्देवता ञ्प्रस्य पुरोडाशस्य इत्यर्थे विहितदेवतातद्धितान्त ञ्प्राग्नेयशब्दः । तस्य पुरोडाशपदसामानाधि- करण्याद्द्रव्यदेवंतासम्बन्धोऽवगतः । स यागमन्तरा न सम्भवति, द्रव्यदेवतासम्षन्धस्य यागादन्यत्र व्रिâयायामसम्भवात् यागव्रिâयायामेव सम्बन्धो वाच्यः । देवतोद्देशेन द्रव्यत्यागस्य यागरूपत्वाङ्गीकारात् । ञ्प्रतः श्रुतद्रव्यदेवतासम्बन्धानुमितो यागो यजेतेति कल्पितेन पदेन विधीयते, ञ्प्र्रग्निदैवत्यपुरोडाशद्रव्य-कामावास्यादिकालकर्तव्ययागेन इष्टं भावयेदिति । एवं यत्र द्रव्यदेवतासम्बन्धमात्रं श्रूयते, ‘‘सौर्यञ्चरुं निर्वपेत्’’ इत्यादौ, तत्र द्रव्यदेवतासम्बन्धानुमितो यागो विधीयत इति न कश्चिद्दोषः ।
+ननु ‘‘यदाग्नेय’’ इति वाक्ये यागवाचकपदस्याश्रवणात् कथं याग- विधायकत्वमिति चेत्, मैवम् । ञ्प्रग्निर्देवता ञ्प्रस्य पुरोडाशस्य इत्यर्थे विहितदेवतातद्धितान्त ञ्प्राग्नेयशब्दः । तस्य पुरोडाशपदसामानाधि- करण्याद्द्रव्यदेवन्तासम्बन्धोऽवगतः । स यागमन्तरा न सम्भवति, द्रव्यदेवतासम्षन्धस्य यागादन्यत्र व्रिâयायामसम्भवात् यागव्रिâयायामेव सम्बन्धो वाच्यः । देवतोद्देशेन द्रव्यत्यागस्य यागरूपत्वाङ्गीकारात् । ञ्प्रतः श्रुतद्रव्यदेवतासम्बन्धानुमितो यागो यजेतेति कल्पितेन पदेन विधीयते, ञ्प्र्रग्निदैवत्यपुरोडाशद्रव्य-कामावास्यादिकालकर्तव्ययागेन इष्टं भावयेदिति । एवं यत्र द्रव्यदेवतासम्बन्धमात्रं श्रूयते, ‘‘सौर्यञ्चरुं निर्वपेत्’’ इत्यादौ, तत्र द्रव्यदेवतासम्बन्धानुमितो यागो विधीयत इति न कश्चिद्दोषः ।
 
 *Objection*: In the sentence, “Because \(the cake\) relating to the Fire,” etc. there is no word denoting a sacrifice. So how can it enjoin a sacrifice ?
 
@@ -542,7 +682,7 @@ And sacrifices such as the Prayāja, Ājyabhāga and Anūyāja, which are mentio
 
 
 
-एवं स्थिते ‘‘दर्शपूर्णमासभ्यां स्वर्गकामो यजेत’’ इत्यस्यायमर्थः — दर्शपूर्णमासाभ्यां समुदायाभ्यां परस्परसहिताभ्यां स्वर्गापूकर््ंकुर्यादिति । तत्र कथं कालद्वयवर्तिनोः समुदाययोः परस्परसाहित्यामित्याकांक्षायां स्वरूपेण साहित्याभावेऽपि त्रिकात्त्रिकादेकैकमपूर्वं जायते, तद्- द्वारा द्वयोः समुदाययोः साहित्यमित्युच्यते । एकैकस्य त्रिकस्यापि त्रिकापूर्वजनकत्वं कथमित्याकांत्त्दायां प्रयाजानूयाजादिपूर्वोत्तराङ्ग-कलापविशिष्टस्य एकैकस्य त्रिकस्य समुदायापूर्वजनकत्वमुच्यते । एकैकत्रिकस्य सर्वाङ्गसाहित्यं स्वरूपेण न सम्भवतीति त्रिभिर्यागैस्त्री-ण्युत्पत्त्यपूर्वाणि जायन्ते, तद्द्वारा सर्वाङ्गसाहित्यम् ।
+एवं स्थिते ‘‘दर्शपूर्णमासभ्यां स्वर्गकामो यजेत’’ इत्यस्यायमर्थः — दर्शपूर्णमासाभ्यां समुदायाभ्यां परस्परसहिताभ्यां स्वर्गापूकर््ङ्कुर्यादिति । तत्र कथं कालद्वयवर्तिनोः समुदाययोः परस्परसाहित्यामित्याकाङ्क्षायां स्वरूपेण साहित्याभावेऽपि त्रिकात्त्रिकादेकैकमपूर्वं जायते, तद्- द्वारा द्वयोः समुदाययोः साहित्यमित्युच्यते । एकैकस्य त्रिकस्यापि त्रिकापूर्वजनकत्वं कथमित्याकान्त्त्दायां प्रयाजानूयाजादिपूर्वोत्तराङ्ग-कलापविशिष्टस्य एकैकस्य त्रिकस्य समुदायापूर्वजनकत्वमुच्यते । एकैकत्रिकस्य सर्वाङ्गसाहित्यं स्वरूपेण न सम्भवतीति त्रिभिर्यागैस्त्री-ण्युत्पत्त्यपूर्वाणि जायन्ते, तद्द्वारा सर्वाङ्गसाहित्यम् ।
 
 Such being the case, the sentence, “One who desires heaven should perform the new- and full-moon sacrifices,” means: “One should bring about the unique result leading to heaven by means of the two groups \(of sacrifices\) called the new- and full-moon sacrifices, in combination with each other.” Now, if it be asked how two groups \(of sacrifices\) belonging to different times can ever combine with each other, the answer is that although by themselves they cannot combine, yet each triad \(of sacrifices\) produces a unique result, and through these the two groups can combine. If it be asked how each triad also can produce its own unique result, the answer is that each triad, including all its prior and posterior subsidiary rites such as the Prayāja and Anūyāja, produces a unique result for the group. Since each triad cannot by itself combine with all its subsidiary rites, we must suppose that the three sacrifices produce three initial unique results, and through these they combine with all their subsidiaries.
 
@@ -620,7 +760,7 @@ Syntactical connection is the joint utterance with some other word. For example,
 
 
 
-प्रकरण्ां नाम परस्पराकांक्षा । यथा ‘‘दर्शपूर्णमासाभ्यां स्वर्गकामो यजेत’’ इत्यत्र दर्शपूर्णमासाभ्यां स्वर्गापूर्वं कुर्यादित्युक्ते भवत्याकांक्षा —कथमाभ्यां स्वर्गापूर्वं कर्तव्यामिति । तथा फलवदाग्नेयादिसन्निघौ ‘‘समिघो यजति,’’ ‘‘तनूनपातं यजति,’’ ‘‘आज्यभागौ यजति’’ इत्यादिभिः प्रयाजयदयः फलरहिताः श्रुताः, तेषां स्ववाक्येषु फला- श्रवणात् भवति प्रयोजनाकांक्षा—किमेतेषां प्रयोजनमिति । ततश्च प्रयाजादीनां प्रयोजनाकांक्षायां दर्शपूर्णमासयोश्च कथम्भावकांक्षायां परस्पराकांक्षालक्षणेन प्रकरणेन प्रयाजादीनां सर्वेषां दर्शपूरर्णमासाङ्गत्वं निश्चीयते । 
+प्रकरण्ां नाम परस्पराकाङ्क्षा । यथा ‘‘दर्शपूर्णमासाभ्यां स्वर्गकामो यजेत’’ इत्यत्र दर्शपूर्णमासाभ्यां स्वर्गापूर्वं कुर्यादित्युक्ते भवत्याकाङ्क्षा —कथमाभ्यां स्वर्गापूर्वं कर्तव्यामिति । तथा फलवदाग्नेयादिसन्निघौ ‘‘समिघो यजति,’’ ‘‘तनूनपातं यजति,’’ ‘‘आज्यभागौ यजति’’ इत्यादिभिः प्रयाजयदयः फलरहिताः श्रुताः, तेषां स्ववाक्येषु फला- श्रवणात् भवति प्रयोजनाकाङ्क्षा—किमेतेषां प्रयोजनमिति । ततश्च प्रयाजादीनां प्रयोजनाकाङ्क्षायां दर्शपूर्णमासयोश्च कथम्भावकाङ्क्षायां परस्पराकाङ्क्षालक्षणेन प्रकरणेन प्रयाजादीनां सर्वेषां दर्शपूरर्णमासाङ्गत्वं निश्चीयते । 
 
 Context is mutual expectancy. For example, in the sentence, “One who desires heaven should perform the new- and full-moon sacrifices,” when it is stated that one should bring about the unique result leading to heaven by means of the new- and full-moon sacrifices, there is the expectancy: how is that unique result to be brought about by these two \(sacrifices\)? Similarly, in proximity to sacrifices relating to the Fire and so on, which produce definite results, are mentioned the Prayāja and other sacrifices without any results, in sentences like: “One should perform the Samidh sacrifice” \(*Tai. S.* II. VI. i. 1\), “One should perform the Tanunapāt sacrifice”1 \(*Ibid*.\) and “One should sacrifice with the two oblations of ghee \(to the Fire and the Moon\)” \(*Ibid*.\). Since no results are mentioned for them in their respective sentences, there is the expectancy : what is the utility of these? Hence, there being an expectancy with regard to the utility of the Prayāja and the other sacrifices, and \(a similar\) expectancy with regard to the *modus operandi* of the new- and full-moon sacrifices, it is decided by reason of the context, which is mutual expectancy, that the Prayāja and all the other sacrifices are subsidiaries to the new- and full-moon sacrifices.
 
@@ -630,7 +770,7 @@ Context is mutual expectancy. For example, in the sentence, “One who desires h
 
 स्थानं नाम सन्निधिः । यथा सान्नाय्यपात्रसन्निघौ ‘‘शुन्घध्वम्’’ इति मन्त्रस्य पाठात् सन्निधानात् सान्नाय्यपात्रप्रोक्षणाङ्गत्वम् ।
 
-समारव्या संज्ञा । यथा अध्वर्युकाण्डप्रतिपादिते कर्मजाते आध्वर्यवसमारव्यावशात् अध्वर्योः कर्तृत्वेनाङ्गत्वम् । तथा ‘‘ऐन्द्राग्नमेकाद- शकपालं निर्वपेत् प्रजाकामः’’ इत्यादिषु काम्येष्टिसमारव्यातेषु ‘‘ऐन्द्राग्नदियागेषु काम्येष्टियाज्यानुवाक्याकाण्ड-समारव्यावशात् ‘‘उभा वामिन्द्राग्नी’’ इत्यादिनां याज्यानुवाक्यात्वेन विनियोगः । विनियोगो नाम अङ्गत्वेनान्वयः ।
+समारव्या सञ्ज्ञा । यथा अध्वर्युकाण्डप्रतिपादिते कर्मजाते आध्वर्यवसमारव्यावशात् अध्वर्योः कर्तृत्वेनाङ्गत्वम् । तथा ‘‘ऐन्द्राग्नमेकाद- शकपालं निर्वपेत् प्रजाकामः’’ इत्यादिषु काम्येष्टिसमारव्यातेषु ‘‘ऐन्द्राग्नदियागेषु काम्येष्टियाज्यानुवाक्याकाण्ड-समारव्यावशात् ‘‘उभा वामिन्द्राग्नी’’ इत्यादिनां याज्यानुवाक्यात्वेन विनियोगः । विनियोगो नाम अङ्गत्वेनान्वयः ।
 
 Position is proximity. For example, inasmuch as in proximity to the \(mention of the\) vessels of curd and milk, there occurs the sacred text, \`Be purified’ \(*Tai. S*. I. i. 3 etc.\), this text is taken on account of the proximity to be a subsidiary to the act of sprinkling the vessels of curd and milk.
 
@@ -668,7 +808,7 @@ Similarly, in the passage, “\(O cake\), I am making a comfortable abode for th
 
 
 
-‘‘स्योनं ते’’ इत्यस्य ‘‘तस्मिन् सीद’’ इत्यनेनैकवाक्यत्वबलात् यथाकथञ्चित् सादनसामर्थ्यरूपं लिङ्गं कल्पयित्वा ‘अनेन विशिष्टमन्त्रेण सादनं कुर्यात्’ इति श्रुतिः कल्पनीया । सदनप्रकाशनरूपप्रत्यत्त्दलिङ्गेन कल्पितया ‘स्योनं ते इत्यनेेन सदनं कुर्यात्’ इति श्रुत्या ‘‘स्योनं ते’’ इत्यस्य शीघ्र सदने विनियोगे सति तेनैव मन्त्रस्य नैराकांक्ष्यात् वाक्यप्रमाणात् लिङ्गं कल्पयित्वा श्रुतिकल्पना प्रतिबध्यते, विलम्बि- तत्वादिति लिङ्गेन वाक्यस्य बाधः ।
+‘‘स्योनं ते’’ इत्यस्य ‘‘तस्मिन् सीद’’ इत्यनेनैकवाक्यत्वबलात् यथाकथञ्चित् सादनसामर्थ्यरूपं लिङ्गं कल्पयित्वा ‘अनेन विशिष्टमन्त्रेण सादनं कुर्यात्’ इति श्रुतिः कल्पनीया । सदनप्रकाशनरूपप्रत्यत्त्दलिङ्गेन कल्पितया ‘स्योनं ते इत्यनेेन सदनं कुर्यात्’ इति श्रुत्या ‘‘स्योनं ते’’ इत्यस्य शीघ्र सदने विनियोगे सति तेनैव मन्त्रस्य नैराकाङ्क्ष्यात् वाक्यप्रमाणात् लिङ्गं कल्पयित्वा श्रुतिकल्पना प्रतिबध्यते, विलम्बि- तत्वादिति लिङ्गेन वाक्यस्य बाधः ।
 
 एवं वाक्येन प्रकरणस्य, प्रकरणात् व्रâमस्य, व्रâमात्समारव्याया बाधो वेदितव्यः । तथा श्रुत्या वाक्यादेरपि बाधः । तदेवमङ्गताबो- धकप्रमाणानि श्रुत्यादीनि निरूपितानि ।
 
@@ -745,13 +885,13 @@ To this the reply is: Disposal is purification of just what has been used, not o
 
 For disposal is threefold, viz., that subsequent to the principal sacrifice, that concurrent with it, and that antecedent to it. Of these, the first is illustrated by such acts as the eating of the remnant of the cake; the second, by *homa* etc. To explain: In the section on the new- and full-moon sacrifices it is stated, “One should smear \(the *homa* vessel\) with ghee once, cut a slice off the oblation twice and pour ghee on it once—\(thus\) offer the quadruple oblation.” Here, in the sentence inculcating the quadruple oblation, the material of the quadruple oblation is not enjoined as a restatement of *homa* as being its accessory, since the *homa*, not being already known, cannot be restated.
 
-नच ‘‘यदाग्नेय’’- वाक्याद्धोमप्राप्तिः तद्वाक्यस्य यागविधायकत्वेन होमविधायकत्वाभावात् । नच यागहोमयोरभेद इति वाच्यम् । देवतोद्देशेन द्रव्यत्यागस्य यागशब्दार्थत्वात् , प्रत्देपविशिष्टस्य यागस्य होमशब्दार्थत्वात् । तत्रागे्नयचोदनया यागस्य प्राप्तत्वेऽपि प्रत्देनस्य शक्त्याऽप्राप्तत्वेनानुवादासम्भवात् । किन्तूपस्तणद्विरवदा- नाभिघारणवाक्यैः प्राप्तं चतुरवतत्तमुद्दिश्य तत्संस्कारत्वेन प्र्रत्देपो जुहोतीत्यनेन विधीयते । स च संस्कारः प्रतिपत्तिरूप एव । ‘‘ञ्प्रग्नये जुष्टमभिघारयामि’’ इत्यादिनिर्देशैर्यागाङ्गभूंताग्नयादिदेव- तार्थतया यथाकथञ्चिदुपयुतâस्य पुरोडाशस्य प्रतिपत्त्यपेत्देतया तदवय- वद्वयवदानकर्मकप्रत्देपस्य प्रतिपत्तिकर्मत्वौचित्यात् ।
+नच ‘‘यदाग्नेय’’- वाक्याद्धोमप्राप्तिः तद्वाक्यस्य यागविधायकत्वेन होमविधायकत्वाभावात् । नच यागहोमयोरभेद इति वाच्यम् । देवतोद्देशेन द्रव्यत्यागस्य यागशब्दार्थत्वात् , प्रत्देपविशिष्टस्य यागस्य होमशब्दार्थत्वात् । तत्रागे्नयचोदनया यागस्य प्राप्तत्वेऽपि प्रत्देनस्य शक्त्याऽप्राप्तत्वेनानुवादासम्भवात् । किन्तूपस्तणद्विरवदा- नाभिघारणवाक्यैः प्राप्तं चतुरवतत्तमुद्दिश्य तत्संस्कारत्वेन प्र्रत्देपो जुहोतीत्यनेन विधीयते । स च संस्कारः प्रतिपत्तिरूप एव । ‘‘ञ्प्रग्नये जुष्टमभिघारयामि’’ इत्यादिनिर्देशैर्यागाङ्गभून्ताग्नयादिदेव- तार्थतया यथाकथञ्चिदुपयुतâस्य पुरोडाशस्य प्रतिपत्त्यपेत्देतया तदवय- वद्वयवदानकर्मकप्रत्देपस्य प्रतिपत्तिकर्मत्वौचित्यात् ।
 
 It cannot be urged that the *homa* is already known from the sentence, “Because \(the cake\) relating to the Fire,” etc. \(*Tai. S.* II. VI. iii. 3\), for that sentence enjoining a sacrifice \(*yāga*\), it cannot enjoin *homa*. Nor can it be urged that a sacrifice and *homa* are identical, for the word \`sacrifice’ means the dedication of something to a deity, while the word *homa* means a sacrifice attended with offering \(in the fire\). Such being the case, although a sacrifice is known from the injunction conveyed by the sentence, “Because \(the cake\) relating to the Fire,” offering is not known from the denotative power of the word, and hence its restatement is out of the question. But with reference to the quadruple oblation, conveyed by the sentence inculcating smearing with ghee, cutting off a slice twice and pouring ghee, offering is enjoined as a purification of it by the verb \`should offer.’ And that purification is indeed a form of disposal. Because the cake, somehow utilised for the purpose of a deity like the Fire, which is a subsidiary to the sacrifice on account of directions like, “I am pouring ghee \(on thee, O cake\) who art dear to the Fire,” requires disposal, therefore the act of offering concerning a part of the cake sliced off twice should be treated as disposal.
 
 स च संस्कारः प्रधानसमकालः । प्रधानसमकालः । होमो हि ‘‘वषट्कृते जुहोति’’ इति विघानात् वषट्कारोत्तरक्षणे अध्वर्युणा कर्तव्यः । यागोऽपि तस्मिन्नेव क्षणे यागस्य स्मरणार्थेन वषट्कारेण स्मारितः सन् यजमानेनानुष्ठेय इति तयोर्यौगपद्यसम्भवात् । तदिदं सर्वप्रदाना-धिकरणवाति्र्तके स्थितम् ।
 
-प्रधानपूर्वकाला प्रतिपत्तिर्यथा — ‘‘शकृत्संप्रविघ्यति,’’ ‘‘लोहितंनि- रस्यति’’ इति शकृत्संप्रवेधनलोहितनिरसने । इदमपि ‘‘पशावनालम्भाल्लोहितशकृतोर-कर्मत्वम्’’ इत्यधिकरणे स्थितम् ।
+प्रधानपूर्वकाला प्रतिपत्तिर्यथा — ‘‘शकृत्सम्प्रविघ्यति,’’ ‘‘लोहितन्नि- रस्यति’’ इति शकृत्सम्प्रवेधनलोहितनिरसने । इदमपि ‘‘पशावनालम्भाल्लोहितशकृतोर-कर्मत्वम्’’ इत्यधिकरणे स्थितम् ।
 
 That purification is concurrent with the principal sacrifice. For the injunction being, “One should perform *homa* when the word \`*vauṣaṭ*’ has been uttered” \(*Śat. Br*. II. iv. iii. 37, etc.\), *homa* should be performed by the priest called *adhvaryu* at the next moment of the utterance of the word \`*vauṣaṭ*’ The sacrifice also is to be performed at that very moment by the sacrificer, on its being recalled by the utterance of the word \`*vauṣaṭ*,’ which is meant to remind one of the sacrifice. Hence the simultaneity of the two is possible. All this is established in the gloss1 on the topic relating to \`the offering of the whole.’
 
@@ -769,7 +909,7 @@ Purification of what is to be used is also manifold, viz., purification of what 
 
 
 
-पशुपुरोडाशयागस्तू-पयुक्तोपयोक्ष्यमाण देवता-संंस्कारार्थः, त्यागांशे ञ्प्रदृष्टार्थश्च । अत्र तत्संस्कार्याग्नीषोमदेवताया वपायागे उपयुक्तत्वात्, ह्य्दयाद्यङ्गयागेषु उपयोक्ष्यमाणत्वाच्च । स्विष्टकृद्यागो द्रव्यांशे देवतांशे चोपयुक्तसंस्कारार्थः, त्यागांशे ञ्प्रदृष्टार्थश्च । सूक्तवाकसाधनकं प्रहरणमपि तथैव । उत्तमप्रयाजो यक्ष्यमाणदेवतासंस्कारत्वात् तदंशे उपयाक्ष्यमा- णसंस्कारः, इतरांशे ञ्प्रदृष्टार्थः । ह्य्दयादिहविर्यागात्पूर्वं क्रियमाणो वसाहोमोऽपि वसांशे प्रतिपात्तिः, इतरांशे अदृष्टार्थ इत्याद्यूह्मम् ।
+पशुपुरोडाशयागस्तू-पयुक्तोपयोक्ष्यमाण देवता-संस्कारार्थः, त्यागांशे ञ्प्रदृष्टार्थश्च । अत्र तत्संस्कार्याग्नीषोमदेवताया वपायागे उपयुक्तत्वात्, ह्य्दयाद्यङ्गयागेषु उपयोक्ष्यमाणत्वाच्च । स्विष्टकृद्यागो द्रव्यांशे देवतांशे चोपयुक्तसंस्कारार्थः, त्यागांशे ञ्प्रदृष्टार्थश्च । सूक्तवाकसाधनकं प्रहरणमपि तथैव । उत्तमप्रयाजो यक्ष्यमाणदेवतासंस्कारत्वात् तदंशे उपयाक्ष्यमा- णसंस्कारः, इतरांशे ञ्प्रदृष्टार्थः । ह्य्दयादिहविर्यागात्पूर्वं क्रियमाणो वसाहोमोऽपि वसांशे प्रतिपात्तिः, इतरांशे अदृष्टार्थ इत्याद्यूह्मम् ।
 
 The sacrifice with cakes in an animal sacrifice, however, is for the purification of the deities who have played their part in the sacrifice and are still to do so, and in respect of the dedication it is for generating the unique result; for the deities Fire and Moon, whom that sacrifice is meant to purify, have played their part in the sacrifice with the omentum, and they are still to do so in the sacrifices with the heart and other parts of the animal. The sacrifice called Sviṣṭakṛt is, in respect of both materials and deities, for the purification of what has been used, while in respect of the dedication it is for generating the unique result. The same is the case with the oblation1 \(of the sheaf of *kuśa* grass\) to the utterance of the hymns called Sūktavāka. Since the final Prayāja2 is a purification of the deity in whose h onour it is to be performed, in respect of that it is a purification of what is to be used, while in other respects3 it is for generating the unique result. The *homa* with fat that is performed before the sacrifice with oblations such as the \(animal’s\) heart, is also disposal in respect of the fat, while in other respects4 it is for generating the unique result, and so on, we must understand.
 
@@ -804,7 +944,7 @@ Subsidiary rites are again fourfold, being divided into origination, attainment,
 
 
 
-अर्थकर्म त्रिविधम्—नित्यनैमित्तिककाम्यभेदात् । तत्र ‘‘यावज्जीव- मग्निहोत्रं जुहोति,’’ ‘‘सायं जुहोति,’’ ‘‘प्रातर्जुहोति’’ इति जीवता पुरूबेण सायंप्रातःकालयोर्नियमेन कर्तव्यतया अवगतमग्निहोत्रादिकं नित्यम् । ‘‘अग्नये पथिकृते पुरोडाशमष्टाकपालं निर्वपेत्’’ इति दर्शपूर्णमासातिप- तिनिमित्तकपथिकृदिष्टयादिकं नैमित्तिकम् ।
+अर्थकर्म त्रिविधम्—नित्यनैमित्तिककाम्यभेदात् । तत्र ‘‘यावज्जीव- मग्निहोत्रं जुहोति,’’ ‘‘सायं जुहोति,’’ ‘‘प्रातर्जुहोति’’ इति जीवता पुरूबेण सायम्प्रातःकालयोर्नियमेन कर्तव्यतया अवगतमग्निहोत्रादिकं नित्यम् । ‘‘अग्नये पथिकृते पुरोडाशमष्टाकपालं निर्वपेत्’’ इति दर्शपूर्णमासातिप- तिनिमित्तकपथिकृदिष्टयादिकं नैमित्तिकम् ।
 
 Principal rites are threefold, being divided into regular, occasional and optional rites. Of these, the Agnihotra etc. are regular rites, since from sentences like, “One should offer the Agnihotra for life,” “One should perform *homa* in the evenings” \(*Tai*. *Br*. II. I. ix. 2\), and “One should perform *homa* in the mornings” \(*Ibid*. II. I. ii. 7, 8\), we know that such rites are to be unfailingly performed every evening and morning by a person as long as he lives. The *iṣṭi* sacrifice known as Pathikṛt, occasioned by the non-performance of the new- and full-moon sacrifices at the proper time, and other such sacrifices are occasional rites, as we know from sentences like, “One should set apart a cake baked on eight thin tiles for the Fire called Pathikṛt \(maker of the way\)” \(*Tai*. *S*. II. II ii. I; *Tai*. *Br*. I. IV. iv. 10 \).
 
@@ -844,11 +984,11 @@ Now the way in which a sentence conveying an injunction performs its function, i
 
 
 
-सा चार्थभावना व्ािंâ, केन, कथमिति ञ्प्रंशत्रयविशिष्टा । तथाहि यजेत इत्यत्र प्रथमं प्रत्ययेन ‘भावयेत्’ इति प्रतियते । सुबन्ताभिहितानां सर्वीषां कारकाणां तिङन्तार्थव्रिâयान्वयनियमे सति तिङन्तार्थस्य प्राधान्यात् । तत्र च प्रकृत्यर्थापत्दया प्रत्ययार्थस्य प्राधान्यात् प्रथमं प्रत्ययार्थभावनाया उपस्थितिर्युक्ता । ततः करोतिसमाना- र्थकभावयतेः सकर्मकत्वात् ‘व्ािंâ भावयेत्’ इति कर्माकांक्षायां भिन्नपदोपा- त्तोऽपि स्वर्गो भाव्यत्वेनान्वेति । भाव्यत्वेन कर्मत्वेनेत्यर्थः, साध्- यत्वेनेति यावत् । न तु समानपदोपात्तोऽपिधातवर्थाी भाव्यत्वे- नान्वेति । दुःखात्मकस्य यागस्य ईप्सिततमत्वरूपकर्मत्वायोग्- यत्वात् । स्वर्गस्य त्चानन्दात्मकत्वेन ईप्सिततमतया कर्मत्वेनान्वययो- म्यत्वात् । ततश्च ‘स्वर्गं भावयेत्’ इति बोधो भवति ।
+सा चार्थभावना व्ािंâ, केन, कथमिति ञ्प्रंशत्रयविशिष्टा । तथाहि यजेत इत्यत्र प्रथमं प्रत्ययेन ‘भावयेत्’ इति प्रतियते । सुबन्ताभिहितानां सर्वीषां कारकाणां तिङन्तार्थव्रिâयान्वयनियमे सति तिङन्तार्थस्य प्राधान्यात् । तत्र च प्रकृत्यर्थापत्दया प्रत्ययार्थस्य प्राधान्यात् प्रथमं प्रत्ययार्थभावनाया उपस्थितिर्युक्ता । ततः करोतिसमाना- र्थकभावयतेः सकर्मकत्वात् ‘व्ािंâ भावयेत्’ इति कर्माकाङ्क्षायां भिन्नपदोपा- त्तोऽपि स्वर्गो भाव्यत्वेनान्वेति । भाव्यत्वेन कर्मत्वेनेत्यर्थः, साध्- यत्वेनेति यावत् । न तु समानपदोपात्तोऽपिधातवर्थाी भाव्यत्वे- नान्वेति । दुःखात्मकस्य यागस्य ईप्सिततमत्वरूपकर्मत्वायोग्- यत्वात् । स्वर्गस्य त्चानन्दात्मकत्वेन ईप्सिततमतया कर्मत्वेनान्वययो- म्यत्वात् । ततश्च ‘स्वर्गं भावयेत्’ इति बोधो भवति ।
 
 That objective urge consists of three parts—what, through what and how. To explain: In the word *yajeta* \(should sacrifice\), first of all the suffix conveys the idea of \`should bring about.’ For, since all the cases, designated as words ending in *sup* \(attributive inflexions\), must invariably be in agreement with verbs, denoted by words ending in *tiṅ* \(verbal inflexions\), the latter are predominant. Here again, the meaning of the suffix being more important than that of the root, it is but proper that the meaning of the suffix, viz., to bring about, should first flash before the mind. Then, the verb ‘to bring about,’ which is synonymous with the verb \`to do,’ being transitive, there is the expectancy about an object, viz., “What should one bring about ?”—and heaven, although presented by a different term, is connected as the thing to be brought about, that is, as an object, or as what is to be realised; but the root-meaning, although presented by the same word, is not connected as the thing to be brought about. For a sacrifice, which is painful by nature, cannot be an object, which is \(defined to be\) the most covetable thing, while heaven, being of the nature of joy, is a most covetable thing, and as such can be connected \(with the action denoted by the suffix\) as an object, and that leads to the understanding, “One should realise heaven.”
 
-ततः ‘केन’ इति करणाकांन्दायां समानपदोपात्तो यागः करणत्वेना- न्वेति—‘यागेन स्त्रर्गं कुयति्’ इति । ततः ‘कवं यागेन स्वर्गं कुर्यात्’ इति कथम्भावाकांक्षायाम् ञ्प्रग्न्यन्वाधानावहननादिज न्यदृठोपकारेण प्रयाजादि-जनितादृष्टोपकारसहितेन यागेन स्वर्गं कुर्यादिति ञ्प्रग्न्वाधानप्रयाजादिकमङ्गजातम् इतिकर्तव्यतात्वेनाऽन्वेति । कथम्भावाकांत्दापूरकत्वमिति कर्तव्यतात्वम् । यथा ‘ञ्प्रोदनकामः पचेत्’ इत्यत्र लिङा भावना प्रतीयते। व्ािंâ भावयेदित्याकांत्त्दायाम् ञ्प्रोदनो भाव्यत्वेनान्वेति, केनेत्याकांत्त्दायां पाकेनेति लभ्यते, कथमित्याकां- त्दायां तृणफूत्कारादिसहितेनेति । ततश्च तृणफूत्काराद्युपकृतेन पाकेन \(तेजःसंयोगेन\) ओदनं भावयेदिति वाक्यार्थः सम्पद्यते । तद्वद्वेदेऽपि बोध्यम् ।
+ततः ‘केन’ इति करणाकान्न्दायां समानपदोपात्तो यागः करणत्वेना- न्वेति—‘यागेन स्त्रर्गं कुयति्’ इति । ततः ‘कवं यागेन स्वर्गं कुर्यात्’ इति कथम्भावाकाङ्क्षायाम् ञ्प्रग्न्यन्वाधानावहननादिज न्यदृठोपकारेण प्रयाजादि-जनितादृष्टोपकारसहितेन यागेन स्वर्गं कुर्यादिति ञ्प्रग्न्वाधानप्रयाजादिकमङ्गजातम् इतिकर्तव्यतात्वेनाऽन्वेति । कथम्भावाकान्त्दापूरकत्वमिति कर्तव्यतात्वम् । यथा ‘ञ्प्रोदनकामः पचेत्’ इत्यत्र लिङा भावना प्रतीयते। व्ािंâ भावयेदित्याकान्त्त्दायाम् ञ्प्रोदनो भाव्यत्वेनान्वेति, केनेत्याकान्त्त्दायां पाकेनेति लभ्यते, कथमित्याकां- त्दायां तृणफूत्कारादिसहितेनेति । ततश्च तृणफूत्काराद्युपकृतेन पाकेन \(तेजःसंयोगेन\) ओदनं भावयेदिति वाक्यार्थः सम्पद्यते । तद्वद्वेदेऽपि बोध्यम् ।
 
 Then, to satisfy the expectancy about the means — ”Through what? “—the sacrifice, presented by the same word, is connected as the means, signifying, “One should achieve heaven by means of a sacrifice.” Next, to satisfy the expectancy regarding the *modus operandi*—”How should one realise heaven by means of a sacrifice?”—subsidiaries such as the placing of the fire and the sacrifices called Prayāja, are connected as the *modus operandi*, so as to signify: “One should realise heaven by means of a sacrifice, backed by the visible help given by the placing of the fire, the threshing \(of rice\), etc., and by the invisible help1 given by sacrifices like the Prayāja. The *modus operandi* is what satisfies the expectancy regarding the how of the thing. As, in the sentence, “One who desires a rice meal should cook,” the optative suffix denotes bringing about; to satisfy the expectancy, “What should one bring about?” the food is connected as the thing to be realised; in answer to the query, “By what means?” we get, “Through cooking;” and in answer to the query, “How?” we get, “With \(dry\) grass, blowing, etc.” So the meaning of the sentence is, “One should prepare a rice meal by cooking, that is, by the application of heat, helped by \(dry\) grass, blowing, etc. Similarly we must understand in the Vedas also.
 
@@ -864,7 +1004,7 @@ That very optative suffix, in so far as it is such a suffix, denotes a verbal ur
 
 
 
-सैषा शाब्दी भावनापि ञ्प्रंशत्रयविशिष्टा । तत्र षुरुषप्रवृत्तिरूपार्थभावना भाव्यत्वेनान्वेति, ञ्प्रघ्ययनावगतलिङादिकं करणत्वेनान्वेति, ञ्प्रर्थवा- दप्रतिपाद्यप्राशस्त्यज्ञानमिति कर्तव्यतात्वेनान्वेति । तत्र ‘साङ्गवेदाध्येतारों- ऽधीतव्याकरण निगमनिरुक्तादिवशाद्व्युत्पत्तिमन्तः पुरुषा ञ्प्रध्यय- नंगृहीतस्वाध्यायगतलिङादिभिः प्राशस्त्यज्ञानसचिवैर्यागाद्यर्थं स्वकर्तव्य- त्वेन बुद्धा यागदीननुतिष्ठेयुः’ इति शाव्दभावनाबोधः । ञ्प्रनुतिष्ठेयुः ञ्प्रनुष्ठानं कुर्युरित्यर्थः । ञ्प्रनुुष्ठानं प्रवृत्तिः । तेन पुरुषप्रवृत्तेः शब्दभावनाभाव्यत्वमक्षतम् ।
+सैषा शाब्दी भावनापि ञ्प्रंशत्रयविशिष्टा । तत्र षुरुषप्रवृत्तिरूपार्थभावना भाव्यत्वेनान्वेति, ञ्प्रघ्ययनावगतलिङादिकं करणत्वेनान्वेति, ञ्प्रर्थवा- दप्रतिपाद्यप्राशस्त्यज्ञानमिति कर्तव्यतात्वेनान्वेति । तत्र ‘साङ्गवेदाध्येतारों- ऽधीतव्याकरण निगमनिरुक्तादिवशाद्व्युत्पत्तिमन्तः पुरुषा ञ्प्रध्यय- नङ्गृहीतस्वाध्यायगतलिङादिभिः प्राशस्त्यज्ञानसचिवैर्यागाद्यर्थं स्वकर्तव्य- त्वेन बुद्धा यागदीननुतिष्ठेयुः’ इति शाव्दभावनाबोधः । ञ्प्रनुतिष्ठेयुः ञ्प्रनुष्ठानं कुर्युरित्यर्थः । ञ्प्रनुुष्ठानं प्रवृत्तिः । तेन पुरुषप्रवृत्तेः शब्दभावनाभाव्यत्वमक्षतम् ।
 
 This verbal urge, too, has three parts. Here the objective urge, represented by a person’s inclination, comes into relation as the thing to be achieved; the optative suffix etc., known through study, comes into relation as the means; and the knowledge of praise-worthiness that is conveyed by corroborative statments comes into relation as the *modus operandi*. So the cognition of the verbal urge takes the following form. “Persons who have studied the Vedas with their branches1 and have become enlightened by grammar, explanatory texts, etymology, etc. read by them, understand, from the optative suffix etc. which occur in the Vedas of their own school that they have acquired through study, and which are aided by their knowledge of the praiseworthiness \(of certain rites\), that matters like sacrifices are to be performed by them, and that they should perform them.” ‘Should perform’ means ‘should undertake the performance of,’ and performance is a form of inclination. So the fact of a person’s inclination2 being caused by the verbal urge is intact.
 
@@ -884,7 +1024,7 @@ Although this verbal urge appears in its potential form in each sentence inculca
 
 
 
-तथाहि—अधिपूर्वकात् ‘‘इङ् ञ्प्रध्ययने’’ इति धातोः कर्मणि तव्यप्रत्यसो विहितः । कर्म च स्वाध्यायः प्रधानम् । तत्संस्कारकमध्ययनं गुणकर्म, व्रीहिसंस्कारकप्रोक्षणादिवत् । ञ्प्रध्ययनजनितप्रहणसंस्का- रविशिष्टस्वाध्यायस्य प्रयोजनाकांक्षायां स्वाध्यायगतलिङादिवि- शिष्ठवाक्यसामर्थ्यलभ्यं यदनुष्ठानौपयिकं यागदिरूपार्थज्ञानं तदेव दृठत्वात्, तत्तत्कर्मानुष्ठानदूारा स्वर्गादिरूपालौकिकश्रेयःसाधनत्वाच्च प्रयोजनम्, कर्मावबोधं विना कर्मानुष्ठानायोगात् । न त्वदृठं प्रयोजनम्, दृठफले सम्भवत्दृठफलकल्पनाऽयोगात् ।
+तथाहि—अधिपूर्वकात् ‘‘इङ् ञ्प्रध्ययने’’ इति धातोः कर्मणि तव्यप्रत्यसो विहितः । कर्म च स्वाध्यायः प्रधानम् । तत्संस्कारकमध्ययनं गुणकर्म, व्रीहिसंस्कारकप्रोक्षणादिवत् । ञ्प्रध्ययनजनितप्रहणसंस्का- रविशिष्टस्वाध्यायस्य प्रयोजनाकाङ्क्षायां स्वाध्यायगतलिङादिवि- शिष्ठवाक्यसामर्थ्यलभ्यं यदनुष्ठानौपयिकं यागदिरूपार्थज्ञानं तदेव दृठत्वात्, तत्तत्कर्मानुष्ठानदूारा स्वर्गादिरूपालौकिकश्रेयःसाधनत्वाच्च प्रयोजनम्, कर्मावबोधं विना कर्मानुष्ठानायोगात् । न त्वदृठं प्रयोजनम्, दृठफले सम्भवत्दृठफलकल्पनाऽयोगात् ।
 
 To explain: \(In the sentence quoted\), the verb *adhyetavya* \(should be studied\) is derived by adding the suffix *tavya* in the passive voice to the root *iṅ*, meaning \`to study,’ prefixed by *adhi*. The object \(changed into nominative in the passive form\), viz., one’s own Vedas, is predominant. Study, which purifies that, is a subsidiary rite, like sprinkling, for instance, that purifies the rice grains. When an expectancy arises as to the purpose of one’s own Vedas, to which is imparted the purification called knowledge produced by study, that purpose is just the knowledge of the meaning \(of a Vedic text\), for example, a sacrifice, which knowledge is derived from the power of sentences having words with optative suffixes such as *liṅ* that occur in one’s own Vedas, and is conducive to performance; for it is something visible, and is a means to supernatural welfare such as heaven, through the performance of particular rites, inasmuch as it is impossible to perform rites without a knowledge of them. But no invisible purpose should be attributed, for it is improper to assume an invisible result when a visible result is possible.
 
@@ -922,7 +1062,7 @@ An urge \(*bhāvanā*\) is a stimulating activity for that which is to take plac
 
 **FOUR TESTS OF NAMES**
 
-शास्त्रे हि तत्प्ररव्य-तदचपदेश-यौगिक-वाक्यभैदैश्चतुर्भिर्नामत्वंं प्रतिपादितम् । तथाहि —‘‘ञ्प्रग्निहोत्रं जुहोति’’ इत्यत्र अग्निहोत्रशब्देन ञ्प्रग्निदेवतारूपो गुणो न विधीयते, ‘‘ञ्प्रग्निर्ज्योतिर्ज्योतिरग्निः स्वाहेति सायं जुहोति’’ इति वाक्यविहितेन मन्त्रेण देवतायाः प्राप्तत्वात् । किन्तु ञ्प्रग्निप्ररव्यापकम् \(ञ्प्रग्निप्रापकं\) यच्छास्रान्तरम् — ‘‘ञ्प्रग्नि- र्ज्योतिर्ज्योतिरग्निः’’ इत्यादिकम्, तेन प्राप्तमग्निसम्बन्घं निमित्तीकृत्य ‘ञ्प्रग्निये’ होत्रं होमेऽस्मिन् इति बहुव्रीहिणा अिfग्नहोत्रपदस्य होमना- मधेयत्वम् ।
+शास्त्रे हि तत्प्ररव्य-तदचपदेश-यौगिक-वाक्यभैदैश्चतुर्भिर्नामत्वं प्रतिपादितम् । तथाहि —‘‘ञ्प्रग्निहोत्रं जुहोति’’ इत्यत्र अग्निहोत्रशब्देन ञ्प्रग्निदेवतारूपो गुणो न विधीयते, ‘‘ञ्प्रग्निर्ज्योतिर्ज्योतिरग्निः स्वाहेति सायं जुहोति’’ इति वाक्यविहितेन मन्त्रेण देवतायाः प्राप्तत्वात् । किन्तु ञ्प्रग्निप्ररव्यापकम् \(ञ्प्रग्निप्रापकं\) यच्छास्रान्तरम् — ‘‘ञ्प्रग्नि- र्ज्योतिर्ज्योतिरग्निः’’ इत्यादिकम्, तेन प्राप्तमग्निसम्बन्घं निमित्तीकृत्य ‘ञ्प्रग्निये’ होत्रं होमेऽस्मिन् इति बहुव्रीहिणा अिfग्नहोत्रपदस्य होमना- मधेयत्वम् ।
 
 For in this system there are four grounds to establish that a certain word is a name, viz., declaration of a particular thing, distinctive mention from a particular feature, derivation, and split of the sentence. To explain: In the sentence, “One should offer the Agnihotra” \(*Tai. S.* I. v. ix. 1\), the word \`Agnihotra’ does not enjoin an accessory in the form of the deity Fire, for the deity is already familiar from the sacred text prescribed in the sentence, “One should offer an oblation in the evening, saying, ‘Fire is light, and light is Fire—*svāhā*’ ” \(*Mai. S*. I. VI. 10; *Tai*.* Br*. II. I. ix. 2\). But with reference to the relation to the Fire, already familiar from the other text declaring the Fire—i.e., making it known—viz., “Fire is light, and light is Fire,” etc., the compound called Bahuvrīhi, expounded as, “There is a *hotra* or offering to the Fire in this,” makes the word ‘Agnihotra’ a name of the *homa*.
 
@@ -936,7 +1076,7 @@ It cannot be contended that, since the *homa* is a means to the objective urge1 
 
 
 
-तथा ‘‘श्येनेनाभिचरन्यजेत’’ इत्यत्र श्येनपदं यागनामधेयम्, न तु यागाङ्गत्वेन श्येनपक्षिरूपगुणविघिः । ‘‘यथा वै श्येनो निपत्यादत्ते एवमेवायं द्विषन्तं भ्रातृव्यं निपत्यादत्ते यमभिचरति श्येनेन’’ इत्युपमानो- पमेयव्यपदेशानुपपत्तिप्रसङ्गात् । ‘श्येनपत्दी यथा पक्ष्यन्तरं निपत्यादत्ते एवमयमपि श्येननामकः कर्मविशेषो भ्रातृव्यं शत्रुंनिपत्यादत्ते एवमयमपि श्येननामकः कर्मविशेषो भ्रातृव्यं शत्रुं निपत्यादत्ते’ इति व्यपदेशः कर्मनामत्वपत्द एव युज्यते । यागाङ्गतया श्येनपत्त्दिविघै तु स्वस्य स्वेनैवोपमानेपमेयभावः स्यात् । स चायुक्तः । तस्माच्छेपनतुल्य- ताव्यपदेशाच्छेपनपदं कर्मनामधेयम् । ततश्च ‘अभिचरन् शत्रुवधकामः श्येननामेकेन यागेन ञ्प्रभिचारं भावयेत्’ इति वाक्यार्थः ।
+तथा ‘‘श्येनेनाभिचरन्यजेत’’ इत्यत्र श्येनपदं यागनामधेयम्, न तु यागाङ्गत्वेन श्येनपक्षिरूपगुणविघिः । ‘‘यथा वै श्येनो निपत्यादत्ते एवमेवायं द्विषन्तं भ्रातृव्यं निपत्यादत्ते यमभिचरति श्येनेन’’ इत्युपमानो- पमेयव्यपदेशानुपपत्तिप्रसङ्गात् । ‘श्येनपत्दी यथा पक्ष्यन्तरं निपत्यादत्ते एवमयमपि श्येननामकः कर्मविशेषो भ्रातृव्यं शत्रुन्निपत्यादत्ते एवमयमपि श्येननामकः कर्मविशेषो भ्रातृव्यं शत्रुं निपत्यादत्ते’ इति व्यपदेशः कर्मनामत्वपत्द एव युज्यते । यागाङ्गतया श्येनपत्त्दिविघै तु स्वस्य स्वेनैवोपमानेपमेयभावः स्यात् । स चायुक्तः । तस्माच्छेपनतुल्य- ताव्यपदेशाच्छेपनपदं कर्मनामधेयम् । ततश्च ‘अभिचरन् शत्रुवधकामः श्येननामेकेन यागेन ञ्प्रभिचारं भावयेत्’ इति वाक्यार्थः ।
 
 Similarly, in the sentence, “He who wants to kill \(his enemy\) should sacrifice through the Śyena” \(*Ṣaḍ. Br*. III. viii. 2\), the word \`Śyena’ is the name of a sacrifice, and not an injunction relating to an accessory, viz., a hawk, as a subsidiary to a sacrifice; for then the distinctive mention of something being likened to some other thing would be inconsistent in the sentence, “Just as a hawk swoops on and seizes \(its prey\), so does this man swoop on and seize his spiteful enemy—whom he desires to kill through the Śyena \(sacrifice\)” \(*Ibid*. III. viii. 3\). As a hawk swoops on and seizes another bird, so does this particular rite called Śyena swoop on and seize one’s enemy—this distinctive mention would be consistent only if ‘Śyena’ was the name of a rite. Were it, however, an injunction about a hawk as being a subsidiary to a sacrifice, an identical thing would be likened to itself, which is not proper. Hence, on account of the distinctive mention of likeness to a hawk, the word ‘Śyena’ is the name of a rite. Therefore the sentence means, “He who desires to kill his enemy, should effect the killing through the sacrifice called Śyena.”
 
@@ -962,11 +1102,11 @@ Similarly, in the sentence, “One who desires cattle should sacrifice through t
 
 Similarly, if Udbhid be an accessory enjoined with reference to a sacrifice, then the latter is more important than the accessory sought to be enjoined, it is something \(known\) to which reference is made, and it is something restated; this is the second triad \(of characteristics\) in a sacrifice. And these two triads, opposed to each other, would apply to one and the same sacrifice. Hence the instance cited is not an injunction regarding an accessory.
 
-न च ‘‘सोमेन यजेत’’ इत्यत्र विरुद्धत्रिकं विनैव सोमशब्दस्य सोमवति यागे लक्षणामठीकृत्य ‘सोमवता यागेनेष्टं भावयेत्’ इति सोमवि- शिष्टयागविधानाद्यथा सोमरूपगुणविधिः, तद्वदुद्भित्पदस्यापि मत्वर्थल- क्षणयाऽत्रोंद्भिद्गुणविशिष्टयागविधिः स्यादिति वाच्यम् । सोमादौ गत्यन्तराभावात् मत्वर्थलत्त्दणया विशिष्टविध्यठीकारात् । उद्भिदादौ नामत्वेन गतिसम्भवद्विशिष्टविध्यठीकारायोगात् । तस्माद्योगवशादुद्भि- दादीनंंां नामत्वम् । 
+न च ‘‘सोमेन यजेत’’ इत्यत्र विरुद्धत्रिकं विनैव सोमशब्दस्य सोमवति यागे लक्षणामठीकृत्य ‘सोमवता यागेनेष्टं भावयेत्’ इति सोमवि- शिष्टयागविधानाद्यथा सोमरूपगुणविधिः, तद्वदुद्भित्पदस्यापि मत्वर्थल- क्षणयाऽत्रोन्द्भिद्गुणविशिष्टयागविधिः स्यादिति वाच्यम् । सोमादौ गत्यन्तराभावात् मत्वर्थलत्त्दणया विशिष्टविध्यठीकारात् । उद्भिदादौ नामत्वेन गतिसम्भवद्विशिष्टविध्यठीकारायोगात् । तस्माद्योगवशादुद्भि- दादीनंां नामत्वम् । 
 
 It cannot be urged that just as in the sentence, “One should sacrifice with the *soma,” *even without the mutually opposed triads, the word ‘*soma’ *is admitted to denote by implication a sacrifice that has the *soma *\(juice\) \(for its characteristic\), and we understand that a sacrifice characterised by the *soma *is enjoined—the sentence meaning, “One should realise one’s desired object by means of the sacrifice characterised by the *soma,” *so that it is an injunction regarding an accessory, viz., the *soma, *similarly, here, the word ‘udbhid’ meaning by implication something possessing that characteristic, the sentence may well be an injunction regarding a sacrifice with a characteristic called Udbhid as its accessory. For, in the case of ‘*soma*’ etc., there being no alternative, an injunction regarding something possessing a particular characteristic is admitted by attributing to those words the implied meaning of ‘possessing a certain characteristic.’ But in the case of words such as ‘udbhid,’ since there is the possible alternative of treating them as names, it is improper to admit an injunction regarding something possessing a certain characteristic. Therefore, Udbhid and the like are names by virtue of derivation.
 
-तथा ‘‘चित्रया यजेत पशुकामः’’ इत्यत्र चित्रापदं प्राजापत्यनामधेयम् । ‘‘दधिमधुघृतमापो धानास्तण्डुलास्तत्संसृष्टं प्राजापत्यम्’’ इत्यत्र ‘तत्संसृष्टं प्राजापत्यम्’ इति सामानाधिकरण्याद्यो दध्यादिद्रव्यषट्कस्य प्रजापतिदेवतासम्बन्धः श्रुतः तेनानुमितो यागो विधीयते । विहितस्य यागस्य फलाकांत्त्दायां ‘‘चित्रया यजेत’’ इति वाक्यं फलसम्बन्धविधायकम् । तत्र फलार्थत्वेन पुनर्विधिरिति तस्य प्राजापत्ययागस्य दध्यादिविचित्रद्रव्यकत्वात् चित्रापदं कर्मनामधेयम्; न तु ‘‘अग्नीषोमीयं पशुमालभेत’’ इति वाक्यप्रात्पं पशुयागं ‘यजेत’ इत्यनूद्य चित्रत्वस्त्रीत्वरू- पगुणद्वयविधानम् । मानान्तरप्राप्तं कर्मेद्दिश्य तत्रानेकंगुणविधाने वाक्यभेदात् । तदुक्तम् ‘‘प्राप्ते कर्मणि नानेको विधातुं शक्यते गुणः’’ इति । मानान्तराप्राप्ते कर्मणि त्वनेकदेवताऽष्टाकपालपुरोडाशा- मावास्यपौर्णमास्याद्यनेकगुणविशिष्टो द्रव्यदेवतासम्बन्धेनानुमितो यागो विधीयते इति सिद्धान्तः । तदुक्तम् ‘‘अप्राप्ते तु विधीयन्ते बहवोऽप्येकयन्तत इति ।’’
+तथा ‘‘चित्रया यजेत पशुकामः’’ इत्यत्र चित्रापदं प्राजापत्यनामधेयम् । ‘‘दधिमधुघृतमापो धानास्तण्डुलास्तत्संसृष्टं प्राजापत्यम्’’ इत्यत्र ‘तत्संसृष्टं प्राजापत्यम्’ इति सामानाधिकरण्याद्यो दध्यादिद्रव्यषट्कस्य प्रजापतिदेवतासम्बन्धः श्रुतः तेनानुमितो यागो विधीयते । विहितस्य यागस्य फलाकान्त्त्दायां ‘‘चित्रया यजेत’’ इति वाक्यं फलसम्बन्धविधायकम् । तत्र फलार्थत्वेन पुनर्विधिरिति तस्य प्राजापत्ययागस्य दध्यादिविचित्रद्रव्यकत्वात् चित्रापदं कर्मनामधेयम्; न तु ‘‘अग्नीषोमीयं पशुमालभेत’’ इति वाक्यप्रात्पं पशुयागं ‘यजेत’ इत्यनूद्य चित्रत्वस्त्रीत्वरू- पगुणद्वयविधानम् । मानान्तरप्राप्तं कर्मेद्दिश्य तत्रानेकङ्गुणविधाने वाक्यभेदात् । तदुक्तम् ‘‘प्राप्ते कर्मणि नानेको विधातुं शक्यते गुणः’’ इति । मानान्तराप्राप्ते कर्मणि त्वनेकदेवताऽष्टाकपालपुरोडाशा- मावास्यपौर्णमास्याद्यनेकगुणविशिष्टो द्रव्यदेवतासम्बन्धेनानुमितो यागो विधीयते इति सिद्धान्तः । तदुक्तम् ‘‘अप्राप्ते तु विधीयन्ते बहवोऽप्येकयन्तत इति ।’’
 
 Likewise, in the sentence, “One who desires cattle should sacrifice through the Citrā” \(*Tai. S. *II. IV. vi. 1\), the word ‘Citrā’ is the name of the sacrifice relating to Prajāpati. In the sentence, “Curd, honey, ghee, water, fried barley and rice—associated with these is the sacrifice relating to Prajāpati,” from the co-ordination \(of the subject and predicate\) in the last part of the sentence, we understand that a sacrifice inferred from the expressed relation of the six materials beginning with curd to the deity called Prajāpati, is enjoined. To satisfy the expectancy regarding the result of the enjoined sacrifice, the sentence, “One who desires cattle should sacrifice through the Citrā,” lays down the relation \(of the rite\) to the result. Here, there is a further injunction for the sake of the result, and therefore, inasmuch as that sacrifice relating to Prajāpati consists of diverse \(*vicitra*\) materials such as curd, the word ‘Citrā’ is the name of a rite; not that restating, through the words ‘should sacrifice,’ the animal sacrifice known from the sentence, “One should kill the animal relating to the Fire and the Moon,” two accessories, viz., diversity and femininity, are enjoined. For if more accessories than one are enjoined with reference to a rite already known from some other source, it would create a split of the sentence. As it has been said, “With regard to a rite already known, more than one accessory cannot be enjoined” \(*Tan. Vār*’. II. ii. 6\). But with regard to a rite not known from any other source, the decision is that a sacrifice possessing multiple characteristics such as many deities, a cake baked on eight thin tiles and the new- or full-moon day, and inferred from its relation to materials and deities, is enjoined. As it has been said, “But with regard to an unknown rite, many accessories even are enjoined in one effort”1 \(*Ibid.*\).
 
@@ -974,7 +1114,7 @@ Likewise, in the sentence, “One who desires cattle should sacrifice through th
 
 
 
-अथ—यथा ‘‘पशुना यजेत’’ इत्यत्र मानान्तरप्राप्तयागमुद्यिश्य तदठतया ‘पशुना’ इत्येकपदोपात्तानां पशुद्रव्यतद्रतलिठसंरव्यानां त्रयाणं वाक्यभेदं विनैव विधिरठीकृतः, तद्वदत्राप्येकपदोपात्तचि- त्रत्वस्त्रीत्वविशेषितशुद्रव्यकारकस्य विधानान्न वाक्यभेदः । अत एव तत्र विधेयस्य पशोरुपादेयत्वात् तद्रतमेकत्वं यज्ञाठतया विवक्षितमित्येकेनैव पशुना यष्टव्यम्, ‘‘ग्नहं संमार्ष्टि’’ इत्यत्र उद्देश्यग- तत्वादेकत्वमविवक्षितमिति सिद्धान्तप्रवादः ।
+अथ—यथा ‘‘पशुना यजेत’’ इत्यत्र मानान्तरप्राप्तयागमुद्यिश्य तदठतया ‘पशुना’ इत्येकपदोपात्तानां पशुद्रव्यतद्रतलिठसंरव्यानां त्रयाणं वाक्यभेदं विनैव विधिरठीकृतः, तद्वदत्राप्येकपदोपात्तचि- त्रत्वस्त्रीत्वविशेषितशुद्रव्यकारकस्य विधानान्न वाक्यभेदः । अत एव तत्र विधेयस्य पशोरुपादेयत्वात् तद्रतमेकत्वं यज्ञाठतया विवक्षितमित्येकेनैव पशुना यष्टव्यम्, ‘‘ग्नहं सम्मार्ष्टि’’ इत्यत्र उद्देश्यग- तत्वादेकत्वमविवक्षितमिति सिद्धान्तप्रवादः ।
 
 *Objection*: Just as in the sentence, “One should sacrifice with an animal,” with reference to a sacrifice already known from some other source, an injunction is admitted, without a split of the sentence, regarding three things, viz., the material, that is, animal, and its sex and number—all cognised from the same phrase ‘with an animal’—as subsidiaries to that sacrifice, similarly, here also a constituent of the sacrifice, viz., the material animal, characterised by variegatedness and femininity—cognised from the same phrase1—being enjoined, there is no split of the sentence. For this very reason, since the animal which is enjoined is something that is utilised, its unity is sought to be conveyed as a subsidiary to the sacrifice; hence the sacrifice should be performed with only one animal. In the sentence, “One should scour the sacrificial cup,” however, the unity is not sought to be conveyed, since it relates to a matter under reference \(*uddeśya\).*2 Such is the traditional decision in this system.
 
@@ -984,7 +1124,7 @@ Likewise, in the sentence, “One who desires cattle should sacrifice through th
 
 
 
-कथम् ? ‘‘ग्रहं संमार्ष्टि’’ इत्यत्र ‘ग्रहम्’ इति द्वितीयया ग्रहस्- येप्सिततमत्वेनोद्देश्यत्वात् प्रयोजनवत्वाच्च प्राधान्यं गम्यते । संमार्गस्तु ग्रहं प्रति गुणभूतः। ‘प्रतिप्रधानं गुण ञ्प्रवर्तनीयः’ इति न्यायात् ‘यावन्तो ग्रहास्तेषां सर्वेषां संमार्गः’ इति निश्चये सति, ‘कति ग्रहाः संमार्जनीयाः’ इति बुभुत्साया अभावादुद्देश्यगतमेकत्वं श्रूयमाणमप्यविवक्षितम् । यद्युच्येत ‘‘नेदमुद्देश्यगतं किन्तु स्त्रयं विधे- यम्— ग्रहं संमृज्यात्, तं चैकम्’ इति, तथा सति विधेयभेदाद्वाक्यभेदः स्यात् । तथा बुभुत्साया अभावात् विधानायोेगाच्चोद्देश्यगता संरव्या न विवक्षिता । उद्देश्यगतमपि विशेषणं किञ्चिद्विवाक्षितं यस्य विशेषणस्य विवक्षां विना उद्देश्यप्रतीतिर्न पर्यवस्यति । यथा तत्रैव ग्रहत्वं विवक्षितम्, तद्विवक्षां विना उद्देश्यस्वरूपस्स ज्ञातुम- शक्यत्वात् । तेन ग्रहजातीय साधनकसोमयागापूर्वार्थत्वाच्चमसेषु न संमार्ग इति स्थितम् ।
+कथम् ? ‘‘ग्रहं सम्मार्ष्टि’’ इत्यत्र ‘ग्रहम्’ इति द्वितीयया ग्रहस्- येप्सिततमत्वेनोद्देश्यत्वात् प्रयोजनवत्वाच्च प्राधान्यं गम्यते । सम्मार्गस्तु ग्रहं प्रति गुणभूतः। ‘प्रतिप्रधानं गुण ञ्प्रवर्तनीयः’ इति न्यायात् ‘यावन्तो ग्रहास्तेषां सर्वेषां सम्मार्गः’ इति निश्चये सति, ‘कति ग्रहाः सम्मार्जनीयाः’ इति बुभुत्साया अभावादुद्देश्यगतमेकत्वं श्रूयमाणमप्यविवक्षितम् । यद्युच्येत ‘‘नेदमुद्देश्यगतं किन्तु स्त्रयं विधे- यम्— ग्रहं सम्मृज्यात्, तं चैकम्’ इति, तथा सति विधेयभेदाद्वाक्यभेदः स्यात् । तथा बुभुत्साया अभावात् विधानायोेगाच्चोद्देश्यगता संरव्या न विवक्षिता । उद्देश्यगतमपि विशेषणं किञ्चिद्विवाक्षितं यस्य विशेषणस्य विवक्षां विना उद्देश्यप्रतीतिर्न पर्यवस्यति । यथा तत्रैव ग्रहत्वं विवक्षितम्, तद्विवक्षां विना उद्देश्यस्वरूपस्स ज्ञातुम- शक्यत्वात् । तेन ग्रहजातीय साधनकसोमयागापूर्वार्थत्वाच्चमसेषु न सम्मार्ग इति स्थितम् ।
 
 How? In the sentence, “One should scour the sacrificial cup,” from the accusative case in the word ‘cup,’ the cup, being what is most desired, is a matter under reference, and its predominance is understood from this fact as also from its possessing utility. The scouring, however, is an accessory to the cup. For on the principle, “With regard to each predominant item the accessory is to be repeated,” we know for certain that all the sacrificial cups that are there, are to be scoured. Consequently, there being no curiosity as to how many cups are to be scoured, the unity pertaining to the matter under reference, although expressed, is not sought to be conveyed. If it be urged that the unity does not relate to the matter under reference, but is itself a predicate, meaning, “One should scour the sacrificial cup and that, too, one,” then an extra thing being enjoined, it would create a split of the sentence. Similarly, an injunction also not being in order on account of the absence of curiosity, the number relating to the matter under reference is sought to be conveyed.1 Some characteristic of the matter under reference even may be sought to be conveyed, but it should be such that without its being conveyed, the matter under reference itself would not be intelligible. As, in the very instance cited, the special character of the sacrificial cup \(*grahatva*\) is sought to be conveyed, for unless this is done, it would be impossible to know the real nature of the matter under reference.2 Therefore it is established3 that, since the scouring is for producing the unique result in a *soma *sacrifice, an accessory to which is the species of sacrificial cups \(*graha*\)*, *it is not to be performed with regard to sacrificial bowls \(*camasa*\)*.*
 
@@ -996,7 +1136,7 @@ How? In the sentence, “One should scour the sacrificial cup,” from the accus
 
 
 
-‘‘पशुना यजेत’’ इत्यत्र तु यागं प्रति पशुर्विधेयत्वाद्गुणभूतः । प्रतिगुणं प्रधानावृत्तिर्नास्तीति कियद्भिः पशुभिः यागः कर्तव्य इत्याकांक्षायाम् एकवचनेन प्रतियमानं विधेयगतमेकत्वं विवक्षितम्, बुभुत्सितत्वात् ।
+‘‘पशुना यजेत’’ इत्यत्र तु यागं प्रति पशुर्विधेयत्वाद्गुणभूतः । प्रतिगुणं प्रधानावृत्तिर्नास्तीति कियद्भिः पशुभिः यागः कर्तव्य इत्याकाङ्क्षायाम् एकवचनेन प्रतियमानं विधेयगतमेकत्वं विवक्षितम्, बुभुत्सितत्वात् ।
 
 किञ्च लिठसंरव्याविशेषितस्य पशुद्रव्यरूपकारकस्य एकपदोपात्तस्य विधेयत्वाद्विधेयपशुद्वारा तद्रतलिठसंरव्यादेरपि व्रिâयाठत्वादेकत्वं विवक्षितम् ।
 
@@ -1018,7 +1158,7 @@ Or, the sex and number denoted by the instrumental case-ending and appropriated 
 
 3 *Pū. Mī. Sū.* III. i. 12.
 
-तदेवमुद्देश्यगत विशेषणमविवक्षितम्, उपादेयगतं विवक्षितमिति स्थितम् । एवञ्च चित्रापदेन चित्रत्वरुत्रीत्वोभयविशेषितशुकारकस्य यजेतेति पदानूदितेऽग्नीषोमीयपशुयागे विधातुं शक्यत्वात् कथं नामत्वमिति चेत्, न । यथा सति प्रकृतस्य प्राजापत्ययागस्य फल-सम्बन्धाकांत्त्दस्य हानम् । अप्रकृतस्य अग्नीषोमीययागस्य कल्पना च स्यात् । तद्द्वयमयुक्तम् । तस्माच्चित्रापदं कर्मनामधेयम् । एवं तत्प्ररव्यादिभिरन्यतमेन सर्वत्र कर्मनामत्वमूह्यम् ॥ इत्थं विधिवाक्यस्य प्रामारायं विचारितम् ।
+तदेवमुद्देश्यगत विशेषणमविवक्षितम्, उपादेयगतं विवक्षितमिति स्थितम् । एवञ्च चित्रापदेन चित्रत्वरुत्रीत्वोभयविशेषितशुकारकस्य यजेतेति पदानूदितेऽग्नीषोमीयपशुयागे विधातुं शक्यत्वात् कथं नामत्वमिति चेत्, न । यथा सति प्रकृतस्य प्राजापत्ययागस्य फल-सम्बन्धाकान्त्त्दस्य हानम् । अप्रकृतस्य अग्नीषोमीययागस्य कल्पना च स्यात् । तद्द्वयमयुक्तम् । तस्माच्चित्रापदं कर्मनामधेयम् । एवं तत्प्ररव्यादिभिरन्यतमेन सर्वत्र कर्मनामत्वमूह्यम् ॥ इत्थं विधिवाक्यस्य प्रामारायं विचारितम् ।
 
 Thus, then, it is established that the characteristics of the matter under reference are not sought to be conveyed, but those of what is utilised are. Hence, inasmuch as by the word ‘Citrā’1 a constituent, viz., an animal characterised by both variegatedness and femininity, can be enjoined for an animal sacrifice to the Fire and the Moon, restated by the words \`should sacrifice,’ how can ‘Citrā’ be a name?
 
@@ -1114,7 +1254,7 @@ Reply: Not so; for it is for the purpose of exclusion. Under the topic of brick-
 
 That exclusion has three defects, viz., abandonment of the primary meaning, acceptance of a strange meaning and annulment of the *prima facie* view. Now, the primary meaning of the sentence, “One should seize the rein of the horse,” is that one should catch hold of the rein of the horse, uttering this sacred text; that is abandoned. The withholding of the sacred text from \(the seizing of\) the rein of the donkey is a strange meaning; that is accepted. And the sacred text \(minus this clause\) applies *prima facie*, from the indication, to \(the seizing of\) the rein of the donkey also; this is annulled by this clause. Thus exclusion, which has these three defects, is admitted, since there is no alternative. It would not be admissible if there were any alternative.
 
-एवमष्टदोषदुष्ट विकल्पोऽप्यगतिकोऽठ्रीकृतः । यथा, ञ्प्राग्नेयो- ऽष्टाकपालः संस्कृतः पुरोडाशो यागाठत्वेनावगतः। तत्र अपूपविशेषस्य पुरोडाशस्य प्रकृतिद्रव्याकांक्षायम् अनियमेन यस्य कस्यचिद्द्रव्यस्य प्राप्तौ ‘‘व्रीहिभिर्यजेत’’ इति वाक्यात् व्रीहयो नियम्यन्ते । एवं ‘‘सवैर्यजेत’’ इति वाक्याद्यवा अपि नियम्यन्ते । तयोरेकार्थत्वाद्विकल्पः ।
+एवमष्टदोषदुष्ट विकल्पोऽप्यगतिकोऽठ्रीकृतः । यथा, ञ्प्राग्नेयो- ऽष्टाकपालः संस्कृतः पुरोडाशो यागाठत्वेनावगतः। तत्र अपूपविशेषस्य पुरोडाशस्य प्रकृतिद्रव्याकाङ्क्षायम् अनियमेन यस्य कस्यचिद्द्रव्यस्य प्राप्तौ ‘‘व्रीहिभिर्यजेत’’ इति वाक्यात् व्रीहयो नियम्यन्ते । एवं ‘‘सवैर्यजेत’’ इति वाक्याद्यवा अपि नियम्यन्ते । तयोरेकार्थत्वाद्विकल्पः ।
 
 एवम् ‘‘अतिरात्रे षोडशिनं गृह्णाति’’ इत्यतिरोते षोडशिग्रहणं विहितम् । तथा ‘‘नातिरात्रे षोडशिनं गृह्णाति’’ इति प्रतिषेधात् ग्रहरण- भावो विहितः । तयोर्ग्रहणाग्रहणयोः परस्परविरुद्धयोरेकस्मिन् प्रयोगे- ऽनुष्ठातुमशक्यवात् क्वचित् प्रयोगे प्रहणनुष्ठानम्, प्रयोगान्तरे तदभावा- नुष्ठानमिति तत्रापि विकल्पः ।
 
@@ -1188,7 +1328,7 @@ Of the five sentences beginning with, “One should perform the Samidh sacrifice
 
 ‘‘तिस्त्र - ञ्प्राहुतीर्जुहोति’’ इत्यत्र जुहोतिपदाभ्यासाभावेऽपि जुहोतीत्यर्थे होमे त्रित्वसंरव्यान्वयात्परस्परं भिन्नास्त्रयो होमा इति संरव्ययाऽत्र कर्मभेदः ।
 
-‘‘ञ्प्रथैष ज्योतिरथैष विश्ज्योतिरथैष सर्वज्योतिरेतेन सहस्त्रदत्त्दिणेन यजेत’’ इति ज्योतिष्टोप्नप्रकरणे श्रुतानामपि ज्योतिराद्यारूयानां त्रयाणां यागानां –ज्योतिष्टोमसंज्ञापेत्त्दया पृथक् संज्ञात्रयकरणात् ज्योतिष्टोमापेत्त्दया भेदः । भिन्नसंज्ञात्रशादेव त्रयाणांै परस्परं भेद इति संज्ञया कर्मभेदः ।
+‘‘ञ्प्रथैष ज्योतिरथैष विश्ज्योतिरथैष सर्वज्योतिरेतेन सहस्त्रदत्त्दिणेन यजेत’’ इति ज्योतिष्टोप्नप्रकरणे श्रुतानामपि ज्योतिराद्यारूयानां त्रयाणां यागानां –ज्योतिष्टोमसञ्ज्ञापेत्त्दया पृथक् सञ्ज्ञात्रयकरणात् ज्योतिष्टोमापेत्त्दया भेदः । भिन्नसञ्ज्ञात्रशादेव त्रयाणांै परस्परं भेद इति सञ्ज्ञया कर्मभेदः ।
 
 In the sentence, “One should offer three oblations” \(*Tai. S.* II. in. IX. 3; *Tai. Br*. I. III. x. 3 etc.; *Sat. Br*. IX. II. i. 2 etc.\), although there is no repetition of the term \`should offer,’ the number \`three’ comes into relation with *homa*, which is the meaning of the verb \`to offer,’ and this proves that these three *homas* are mutually different. Hence here there is a difference of rite on account of number.
 
@@ -1200,7 +1340,7 @@ Similiarly, in the sentence, “One should add curd to hot milk; that fresh chee
 
 तथा कुण्डपायिनामयने श्रूयते—‘‘उपसद्भिश्चरित्वा मासमग्निहोत्रं जुहोति’’ इति । अत्र पूर्वं कर्म किञ्चिदपि सन्निहितं न भवति; ञ्प्रपूर्वकर्म- सन्निधानरूपात् प्रकरणान्तरात् प्रसिद्धाग्निहोत्रधर्मकं तन्नामकं कर्मान्तरं विधीयते । न त्वग्निहोत्रशब्देन प्रसिद्धाग्निहोत्रद्यमनूद्यगुणविधिः । प्राप्ते कर्मणि आनन्तर्य-मासरूपानेकगुणविधौ वाक्यभेदापत्तेरिति प्रकरणन्तरादत्र कर्मभेदः । प्रसिद्धाग्निहोत्रं नैयमिकाग्निहोत्रम्, नित्याग्निहोत्रमिति यावत् ।
 
-तदेवं शब्दान्तराभ्यास-संरव्या-संज्ञा-गुण-प्रकरणन्तरैः कर्मभेदो दर्शितः ।
+तदेवं शब्दान्तराभ्यास-संरव्या-सञ्ज्ञा-गुण-प्रकरणन्तरैः कर्मभेदो दर्शितः ।
 
 Similarly, it is stated in connection with the sacrifice called \`the way of the *kuṇḍapāyins*,’ “After going through the ceremonies called Upasads, one should offer the Agnihotra for a month.” Here no previously known rite whatsoever is present before the mind; owing \(rather\) to the cognition of an original rite—which means a different context—a different rite possessing the characteristics of the well-known Agnihotra and bearing its name is enjoined. It is not an injunction regarding an accessory to the well-known Agnihotra, restated by the word \`Agnihotra.’ For, if with regard to a rite already known, more accessories than one, viz., sequence and \(the duration of\) a month, are enjoined, it would create a split of the sentence. Hence here is a difference of rite on account of a different context. The expression \`well-known Agnihotra’ means the compulsory1 Agnihotra, that is to say, the daily Agnihotra.
 
@@ -1246,7 +1386,7 @@ To explain: In the sentence, “The priest called *adhvaryu*,2 having initiated 
 
 ‘‘समिधो यजति,’’ ‘‘तनूनपातं यजति’’ इत्यादौ विधिवाक्यपाठ- क्रमादेव समिदादियागनुष्ठानक्रमः ।
 
-‘‘ञ्प्रग्निहोत्रं जुहोति, यवागूं पचति’’ इत्यत्र यवागूपाकस्य होमार्थत्वेन पाकात् पूर्वं होमस्य कर्तुमशक्यत्वात् पाठक्रमंत्यक्त्वा- ऽर्थकमः स्वीकर्तव्यः । अर्थः प्रयोजनं होमादिरूपम्, तदधीनः क्रमः अर्थक्रमः । तेन पूर्वं पाकः, पश्चाद्धोमः ।
+‘‘ञ्प्रग्निहोत्रं जुहोति, यवागूं पचति’’ इत्यत्र यवागूपाकस्य होमार्थत्वेन पाकात् पूर्वं होमस्य कर्तुमशक्यत्वात् पाठक्रमन्त्यक्त्वा- ऽर्थकमः स्वीकर्तव्यः । अर्थः प्रयोजनं होमादिरूपम्, तदधीनः क्रमः अर्थक्रमः । तेन पूर्वं पाकः, पश्चाद्धोमः ।
 
 In passages like, “One should perform the Samidh” sacrifice \(*Tai. S.* II. VI. i. 1.\), and “One should perform the Tanūnapāt sacrifice” \(*Ibid*.\), the order of performance of the sacrifices Samidh etc. should be just according to the order of reading of the sentences inculcating the injunctions.
 
