@@ -1076,7 +1076,6 @@ If the latter alone produced the final unique result, the result of the rite als
 
 
 
-
 ननु सर्वाङ्गविशिष्टस्य प्रधानस्यापूर्वजनकत्वमयुक्तम्, आशुतर-विनाशिनः प्रधानस्याङ्गसाहित्याभावादिति चेत्, न; प्रधानकर्मणः स्वरूपेणाङ्गसाहित्याभावेऽपि उत्पत्यपूर्वद्वारा साहित्यसम्भवात् । प्रधानस्य सर्वाङ्गसाहित्यसिद्धयर्थ प्रधानकर्मपरमापूर्वयोर्मध्ये प्रधान- मात्रजन्यमुत्पत्तिनामकं किञ्चदपूर्वमस्तीत्यङ्गीकारात् । एवमङ्गानामपि परस्परसहितानामेव प्रधानोप कारकत्वात्तेषां स्वरूपेण साहित्याभावात् तत्तदुत्पत्यपूर्वद्वारा साहित्यं बोध्यम् । अङ्गानां प्रधानोपकारकत्वं नाम प्रधानस्य फलापूर्वजनन-सामर्थ्योन्मुखीकरणमेव ।
 
 *Objection*: But it is unreasonable to hold that the principal rite together with all its subsidiaries produces the unique result; for the principal rite, which perishes very quickly, can never combine with its subsidiaries.
