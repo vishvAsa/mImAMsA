@@ -52,6 +52,11 @@ Just like an evolution of a single-celled to a complex creature, we trace the mo
 ## 20 chapters
 The first textual evidence of mimamsa of 20 chapters comes from an inscription from 999 AD, Anur in Chengalpat district during the reign of of Raja Raja I, where a v1 is mentioned to have studied mimamsa of 20 chapters. See Footnote 4 of Lariviere's chapter. We can posit that this is the earliest available attestation of the meme "Mimama shastra consists of 20 chapters". Even shakara, while accepting that purvamimamsa + vedanta forms the "krtsna shastra" - i.e. the full shastra, he doesn't accept that both form one unified shastra or confirm that the total chapters of the "krtsna shastra" is 20. Hence, the reasonable inference is that attention to vedanta darshana spiked after shankara and by 999 AD, we have a confirmed meme "mimamsa shastra of 20 chapters"
 
+
+See this thread for more context on the inscription: ...
+
+A happenstance development is that the paper confirms a few aspects of my speculation on what happened. For now, just keep in mind that the inscription is about a job posting and subsequent hiring hiring of a v1 in a vaishnava temple. The qualifications sought were: mastery of 2 Vedas out of which 1 must be samaveda, grammar, alankarashastra and mimamsa of 20 chapter. Take away is: "vaishnava temple", and "mimamsa of 20 chapters".
+
 ## purvamimamsa authors
 It is unclear whether purvamimamsa authors considered Jaimini's text consisting of 16 chapters or whether they considered purvatantra of 1 chapters and sankarsha as 2 separate works. Sabara quotes from SK and we have devasvamin's (DS) bhashya of SK. We can part ways with the mimamsakas as in - that tradition there is no confusion around what exactly is SK or who the author is. The problem starts with the "20-chapter" meme and the next solid textual reference comes from prapancha hridaya (PH).
 
@@ -112,3 +117,30 @@ We'll prematurely make another point that will come into play later. In none of 
 To summarize, there was a real tradition of daivi mimamsa. We can tentatively speculate that this tradition produced an actual devata kanda (or possible the daivata kanda of nirukta itself is the missing devata kanda).
 
 In the next thread, we'll look at sarva siddhanta sangraha, briefly touching upon Ramanuja.
+
+## prapancha-hridayam
+
+Coming to prapancha hridayam (PH), the key take aways are:
+
+1. Sankarsha kanda is called devata kanda
+2. Sankarsha is a commentator of SK
+3. From the description, it is about deities of the veda, their characteristics and performance of satkarmas to attain "devata phalam".
+4. There's no elevation of a sectarian devata as supreme.
+
+Let's dig a bit deeper on the last point, lest someone brings up "argument from silence" objection. 
+
+PH is like Wikipedia but dealing only with 8 topics - "body and world", "veda", "6 vedangas", "upangas", "upavedas", "6 vargas", "jnana", and "yoga".
+
+Each chapter in PH reads like diverse information on the topic is crammed inside. 
+
+### Multi-sectarianism
+The jnana prakarana is a chapter on sankhya. It glorifies purusha/kshetrajna who is narayana and correct knowledge of kshetra and kshetrajna leads to liberation. This chapter obviously espouse Vishnu paratvam. Also calls out Kapila as the acharya. But we can't call PH as a vaishnava leaning text as the very next chapter on yoga will say something else.
+
+The chapter on yoga not just deals with stuff you see in patanjali, but also chakras, nadis, pranayama specificities etc. Now this chapter is also obviously shivapara. References to shrikanthanatha, from brahma to sadashiva and injunction to meditate on the "one shiva" is seen.
+
+It also has an analogous passage of "pranava is the bow, your Atma is arrow and brahman is the target" from mandukya upanishad. "Omkara is the chariot. Vishnu is the charioteer. Brahmaloka is the target. With adoration to rudra, making your Atma as one of the kindling stick and Om as the other kindling stick, create the yoga fire and so on and so forth.
+
+What does this tell you? PH isn't staying away from recording sectarianism if the chapter calls for it - shaiva or vaishnava and doesn't take sides.
+
+Crucially, it doesn't attest any sectarianism in the devata kanda. This point is important to keep in mind when we deal with sarvamata sangraha and sarvasiddhanta sangraha.
+
