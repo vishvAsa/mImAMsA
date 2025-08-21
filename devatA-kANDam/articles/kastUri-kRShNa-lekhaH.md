@@ -144,3 +144,42 @@ What does this tell you? PH isn't staying away from recording sectarianism if th
 
 Crucially, it doesn't attest any sectarianism in the devata kanda. This point is important to keep in mind when we deal with sarvamata sangraha and sarvasiddhanta sangraha.
 
+## saṅkarṣa and saṅkarṣaṇa confusion
+
+In the previous threads we saw a simple meme of mīmāṃsā of 20 chapters getting complex by acquiring the memes "4 chapter of SK before brahmasūtra", "SK authored by jaimini" and "devatākāṇḍa is synonymous with SK". 
+
+In this thread, we see the next mutation: "saṅkarṣa and saṅkarṣaṇa confusion". pūrvamīmāṃsā authors and brahmasūtra commentators śankara and śrīkaṇṭha call SK as saṅkarṣa. rāmānuja in his śrībhāṣya calls it saṅkarṣaṇa. vedāntins post śankara only repeat the same - same quote śankara has made in his bhāṣya - no extra references, no new sūtra quotations. It is highly probably they don't have SK text before them. 
+
+### mImAMsA text
+śankara's SK quote is from the genuine SK which is a karmakāṇḍa text. Nothing about devata investigation. Also, as per rāmānuja (and deśika later also), SK is authored by jaimini only. PH makes saṅkarṣa an SK commentator.
+
+### vyAsa authored SK?
+Now comes sarvasiddhānta saṅgraha (SSS) which introduces a spectacular confusion. vyāsa is the author of SK!! If rāmānuja just conflates saṅkarṣa with saṅkarṣaṇa, SSS boldy proposes SK authored by vyāsa. SK is not even reckoned as pūrvamīmāṃsā but uttaramīmāṃsā (UM). UM is of 2 parts - devatā and jñānakāṇḍas both authored by vyāsa.
+
+### saṅkarṣa
+Moreover devatākāṇḍa is about the devatās referred in the mantras taught by saṅkarṣaṇa. I posit that PH's claim of "saṅkarṣa being the author of SK" itself is bogus. The explanation for the word saṅkarṣa given by devaswāmin (collecting and explaining the scattered rules) is the correct one.+++(5)+++ Later mīmāṃsakas too accept this explanation. 
+
+As per SSS??, some saṅkarṣaṇa himself is SK's originator. M. Rangacharya,translator of SSS (in 1908) would really like to confirm śankara SSS's author and engages ins special pleading. Perhaps the obvious vaiṣṇava leaning of the text and the possibility śankara leaning towards vaiṣṇavism is too juicy to pass up. We'll show in a bit that it is unlikely and perhaps it is pre-rāmānuja or at least coeval with him. maṇavāḷā māmunigaḷ in his pramāṇathiraṭṭu quotes from SSS. Atsushi is surprised that no connection has been suggested between saṅkarṣa and saṅkarṣaṇa and a connection to pāñcarātra. Looks like indos and jap imitators are just napping and didn't look @ SSS carefully.
+
+### SSS's summary
+As per SSS vyāsa is the architect of the devatā and vedānta. We see a summary of those two in the last 2 chapters. The penultimate one is one taught in bhārata and repeats sāṅkhya principles. But sāṅkhya is already dealt with in a previous chapter.
+
+It talks about the puruṣa, prakṛti, 3 guṇas - sattva rajas tamas, their colors etc. pāñcarātra connection is right there as it makes viṣṇu of the 4 vyūhas creating the 4 varṇas. It goes ahead and associates brahmā & rudra with rajas tamas. 
+
+It hilariously makes atharvaveda for rājasas tāmasas - For these guys also the worship of brahmā and rudra, Whereas sāttvikas worship viṣṇu. 
+
+However it is supreme viṣṇu only who gives blessings to deities, demons and goblins as per guṇas.
+
+A bunch of remarks are in order:
+
+1. This is an extremely vaiṣṇava para chapter.
+2. It has no characteristics of a daivi mīmāṃsā. However of you squint your eyes, you can see echoes of devatā, guṇas etc. which prapañcahṛdaya alludes to.
+3. The next chapter is just vedānta.
+
+It ends with a reference to bhāgavata purāṇa, avadhūta mārga as taught by kṛṣṇa to uddhava. This reference makes SSS post śankara and even post rāmānuja as neither refer to bhāgavata in their works on prasthānatraya.
+
+Summary:  
+With one saṅkarṣa-saṅkarṣaṇa confusion, SK became uttaramīmāṃsā, got a pāñcarātra connection and a vīravaiṣṇava coloring. SSS still retains advaita leaning nevertheless.
+
+We will move to sarvamatasaṅgraha (SMS) & miscellaneous references next.
+
