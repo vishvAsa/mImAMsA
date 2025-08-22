@@ -5,11 +5,14 @@ Source: [TW](https://threadreaderapp.com/thread/1957299199030296941.html)
 
 <details><summary>विश्वास-टिप्पनी</summary>
 
-This argues that the 4 chapter devatA kANDa quoted by R as sankarSha(Na) kANDa, but lost by VD's time was a vaiShNava insertion; and that sankarSha kANDa part of the 12 chapter pUrva mImAMsA text is indeed the actual sankarSha kANDa. prapancha-hRdaya and sarva-mata-sAra-sangraha, having pAncharAtra leaning chapters effectively repeat that claim.
+This argues that 
 
-Just as pAncharAtra has ancient Adhvaryava roots, so might the brahmasUtra-s and the lost devatA kANDa. These were both ignored by karma-mImAMsA-paras. Similarly, shankara was not interested in the karma and devatA kANDas (beyond some nyAyas). shankara quotes तदुक्तं सङ्कर्षे — ‘नाना वा देवता पृथग्ज्ञानात्’ इति । too. 
+- the 4 chapter devatA kANDa, lost by VD's time was a vaiShNava insertion; and that attempted to replace the sankarSha kANDa appendix to the 12 chapter pUrva mImAMsA text. 
+- prapancha-hRdaya and sarva-mata-sAra-sangraha, having pAncharAtra leaning chapters effectively repeat the devatA kANDa genuineness claim.
 
-So, the later calling of the 12th chapter portion by that name may've been the mistake?
+Just as pAncharAtra has ancient Adhvaryava roots, so might the brahmasUtra-s and the lost devatA kANDa. These were both ignored by karma-mImAMsA-paras. Similarly, shankara was not interested in the karma and devatA kANDas (beyond some nyAyas). So, their ignoring the devatA kANDa need not imply non-existence. 
+
+The only (later) V mistake may've been conflating devatA kANDa with the then rare sankarSha appendix.
 </details>
 
 
