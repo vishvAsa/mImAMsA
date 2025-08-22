@@ -223,7 +223,7 @@ Obviously pāñcarātra's origins were in sāṅkhya and had its own trajectory.
 
 <details><summary>विश्वास-टिप्पनी</summary>
 
-pAncharAtra being sAnkhya-origin is wrong - as it originates in KYV as MT points out. (Reg. sAnkhya - other way round or lateral transfer.) And PN was heavily vedAntic from upaniShats itself.
+pAncharAtra being sAnkhya-origin is wrong - as it originates in SYV as MT points out. (Reg. sAnkhya - other way round or lateral transfer.) And PN was heavily vedAntic from upaniShats itself. sAnkhya (itself an elaboration of the old 5 elements) was developed and adapted across the board at a post-upaniShadic stage.
 </details>
 
 
