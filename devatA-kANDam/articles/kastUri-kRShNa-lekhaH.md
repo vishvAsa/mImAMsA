@@ -3,6 +3,14 @@ title = "KastUri kRShNa lekhaH"
 +++
 Source: [TW](https://threadreaderapp.com/thread/1957299199030296941.html)
 
+<details><summary>विश्वास-टिप्पनी</summary>
+
+This argues that the 4 chapter devatA kANDa quoted by R as sankarSha(Na) kANDa, but lost by VD's time was a vaiShNava insertion; and that sankarSha kANDa part of the 12 chapter pUrva mImAMsA text is indeed the actual sankarSha kANDa. prapancha-hRdaya and sarva-mata-sAra-sangraha, having pAncharAtra leaning chapters effectively repeat that claim.
+
+Just as pAncharAtra has ancient Adhvaryava roots, so might the brahmasUtra-s and the lost devatA kANDa, which were both ignored by karma-mImAMsA-paras. The conflation (in name) with sankarSha part of 12-chapter might be the only V error.
+</details>
+
+
 Thread by @RangaTheDude on Thread Reader App – Thread Reader App
 
 ## Context
@@ -123,7 +131,7 @@ In the next thread, we'll look at sarva siddhanta sangraha, briefly touching upo
 Coming to prapancha hridayam (PH), the key take aways are:
 
 1. Sankarsha kanda is called devata kanda
-2. Sankarsha is a commentator of SK
+2. Sankarsha is a commentator+++(-> author)+++ of SK
 3. From the description, it is about deities of the veda, their characteristics and performance of satkarmas to attain "devata phalam".
 4. There's no elevation of a sectarian devata as supreme.
 
@@ -148,21 +156,40 @@ Crucially, it doesn't attest any sectarianism in the devata kanda. This point is
 
 In the previous threads we saw a simple meme of mīmāṃsā of 20 chapters getting complex by acquiring the memes "4 chapter of SK before brahmasūtra", "SK authored by jaimini" and "devatākāṇḍa is synonymous with SK". 
 
-In this thread, we see the next mutation: "saṅkarṣa and saṅkarṣaṇa confusion". pūrvamīmāṃsā authors and brahmasūtra commentators śankara and śrīkaṇṭha call SK as saṅkarṣa. rāmānuja in his śrībhāṣya calls it saṅkarṣaṇa. vedāntins post śankara only repeat the same - same quote śankara has made in his bhāṣya - no extra references, no new sūtra quotations. It is highly probably they don't have SK text before them. 
+In this thread, we see the next mutation: "saṅkarṣa and saṅkarṣaṇa confusion". pūrvamīmāṃsā authors and brahmasūtra commentators śankara and śrīkaṇṭha call SK as saṅkarṣa. 
 
-### mImAMsA text
-śankara's SK quote is from the genuine SK which is a karmakāṇḍa text. Nothing about devata investigation. Also, as per rāmānuja (and deśika later also), SK is authored by jaimini only. PH makes saṅkarṣa an SK commentator.
+### jaimini as per rAmAnuja
+rāmānuja in his śrībhāṣya calls it saṅkarṣaṇa. Ramanuja calls SK as sankarshana kanda but holds jaimini as the author.
 
-### vyAsa authored SK?
-Now comes sarvasiddhānta saṅgraha (SSS) which introduces a spectacular confusion. vyāsa is the author of SK!! If rāmānuja just conflates saṅkarṣa with saṅkarṣaṇa, SSS boldy proposes SK authored by vyāsa. SK is not even reckoned as pūrvamīmāṃsā but uttaramīmāṃsā (UM). UM is of 2 parts - devatā and jñānakāṇḍas both authored by vyāsa.
+<details><summary>विश्वास-टिप्पनी</summary>
 
-### saṅkarṣa
+Reg. R's conflation, you refer to
+तदुक्तं साङ्कर्षणे "नाना वा देवतापृथक्त्वात्" इति ? It seems that VD's pATha was साङ्कर्ष only.
+</details>
+
+
+vedāntins post śankara only repeat the same - same quote śankara has made in his bhāṣya - no extra references, no new sūtra quotations. It is highly probably they don't have SK text before them. 
+
+#### mImAMsA text
+śankara's SK quote is from the genuine SK which is a karmakāṇḍa text. Nothing about devata investigation. Also, as per rāmānuja (and deśika later also), SK is authored by jaimini only. 
+
+
+### vyAsa as per sarvasiddhānta saṅgraha
+Now comes sarvasiddhānta saṅgraha (SSS) which introduces a spectacular confusion. vyāsa is the author of SK!! If rāmānuja just conflates saṅkarṣa with saṅkarṣaṇa, SSS boldy proposes SK authored by vyāsa. SSS ignores jaimini altogether and says SK is authored by vyAsa as an exposition of mantras taught by a sankarshana. SK is not even reckoned as pūrvamīmāṃsā but uttaramīmāṃsā (UM). UM is of 2 parts - devatā and jñānakāṇḍas both authored by vyāsa.  As per SSS vyāsa is the architect of the devatā and vedānta.
+
+### saṅkarṣa as author
 Moreover devatākāṇḍa is about the devatās referred in the mantras taught by saṅkarṣaṇa. I posit that PH's claim of "saṅkarṣa being the author of SK" itself is bogus. The explanation for the word saṅkarṣa given by devaswāmin (collecting and explaining the scattered rules) is the correct one.+++(5)+++ Later mīmāṃsakas too accept this explanation. 
 
-As per SSS??, some saṅkarṣaṇa himself is SK's originator. M. Rangacharya,translator of SSS (in 1908) would really like to confirm śankara SSS's author and engages ins special pleading. Perhaps the obvious vaiṣṇava leaning of the text and the possibility śankara leaning towards vaiṣṇavism is too juicy to pass up. We'll show in a bit that it is unlikely and perhaps it is pre-rāmānuja or at least coeval with him. maṇavāḷā māmunigaḷ in his pramāṇathiraṭṭu quotes from SSS. Atsushi is surprised that no connection has been suggested between saṅkarṣa and saṅkarṣaṇa and a connection to pāñcarātra. Looks like indos and jap imitators are just napping and didn't look @ SSS carefully.
+
+### SSS's author
+M. Rangacharya,translator of SSS (in 1908) would really like to confirm śankara SSS's author and engages in special pleading. Perhaps the obvious vaiṣṇava leaning of the text and the possibility śankara leaning towards vaiṣṇavism is too juicy to pass up. 
+
+We'll show in a bit that it is unlikely and perhaps it is pre-rāmānuja or at least coeval with him. 
+
+maṇavāḷā māmunigaḷ in his pramāṇathiraṭṭu quotes from SSS. Atsushi is surprised that no connection has been suggested between saṅkarṣa and saṅkarṣaṇa and a connection to pāñcarātra. Looks like indos and jap imitators are just napping and didn't look @ SSS carefully.
 
 ### SSS's summary
-As per SSS vyāsa is the architect of the devatā and vedānta. We see a summary of those two in the last 2 chapters. The penultimate one is one taught in bhārata and repeats sāṅkhya principles. But sāṅkhya is already dealt with in a previous chapter.
+We see a summary of those two in the last 2 chapters. The penultimate one is one taught in bhārata and repeats sāṅkhya principles. But sāṅkhya is already dealt with in a previous chapter.
 
 It talks about the puruṣa, prakṛti, 3 guṇas - sattva rajas tamas, their colors etc. pāñcarātra connection is right there as it makes viṣṇu of the 4 vyūhas creating the 4 varṇas. It goes ahead and associates brahmā & rudra with rajas tamas. 
 
@@ -182,4 +209,35 @@ Summary:
 With one saṅkarṣa-saṅkarṣaṇa confusion, SK became uttaramīmāṃsā, got a pāñcarātra connection and a vīravaiṣṇava coloring. SSS still retains advaita leaning nevertheless.
 
 We will move to sarvamatasaṅgraha (SMS) & miscellaneous references next.
+
+## vedAntification of vaiShNavas
+
+Whatever one may think of śankara's philosophy, his endeavors caused waves in the āstika circles. Bhāskara stepped in wrote a commentary on brahmasūtra to correct śankara's misrepresentations of bādarāyaṇa (though he doesn't name the opponent directly). In this milieu, we see vaiṣṇavas taking interest and commencing a vedāntisation initiative.
+
+Obviously pāñcarātra's origins were in sāṅkhya and had its own trajectory. 
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+pAncharAtra being sAnkhya-origin is wrong - as it originates in KYV as MT points out. (Reg. sAnkhya - other way round or lateral transfer.) And PN was heavily vedAntic from upaniShats itself.
+</details>
+
+
+Also, not all vaiṣṇava leaning v1s were pāñcarātrins. A recombination with vedānta module was the need of the hour.
+
+### SK rarity
+By 10th century CE, we see job openings for a mīmāmsā scholar vaiṣṇava circle from and a confirmed inscriptional evidence of a job hire with qualifications that included "20 chapter mīmāmsā" expert. His job duties also included teaching 4 students. Evidently he didn't do a good job as far as SK is concerned. Also, this hiring couldn't be a solitary instance and there should have been a drive to hire many such experts.
+
+The only problem was SK was not a widely available text. It is supplemental by nature and inessential for mīmāmsā studies. Even in the mīmāmsā circles, it was rare despite a commentary from devasvāmin (14th CE). In early 1900s, scholars who looked into the matter even doubted if this was a genuine work. It was even suggested that SK was a spurious work by khaṇḍadeva. Only by 1960s, its genuineness was established beyond doubt. 
+
+### sankarShaNa option
+If this was the case and given there were job openings for an expert in "20 chapter mīmāmsā" around 10th CE, what could have happened? I suspect enterprising V1s started inserting pāñcarātra texts leveraging the similarity of saṅkarṣa and saṅkarṣaṇa as the missing 4 chapters. 
+
+### Insertion and loss
+In such insertion attempts there should also be an instance of a karmakāṇḍa leaning daivimīmāmsā which would have quickly been quickly consigned to the bin. It wouldn't have solved anyone's purpose (and a more attractive vaiṣṇava alternative is making rounds). 
+
+There is no way vaishnavas would have let go of a genuine madhyama mīmāmsā if it confirmed viṣṇuparatva. There would have been bhāṣyas and vṛttis on those 4 chapters and systematic inclusion into the syllabus for future propagation. 
+
+Instead, we see Deśika explicitly confirming SK was lost. meghanādasūri from around the same period says the same. 
+
+Thus the interest in SK briefly flashed from 10th to 15th centuries and got lost again in mists of time until it was brought back to light in 20th century.
 
