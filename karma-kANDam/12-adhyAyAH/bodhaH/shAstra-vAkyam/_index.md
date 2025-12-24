@@ -1,5 +1,5 @@
 ---
-title: +वेदवाक्यम्
+title: +शास्त्र-वाक्यम्
 unicode_script: devanagari
 ---
 
