@@ -92,3 +92,10 @@ Multiple appropriate meanings
 - vena = venus in RV hymn 10.123 etc.. ([TW1](https://twitter.com/blog_supplement/status/869392725682122752)) Not intelligeible with bhAShya ([S_RV](https://archive.org/stream/RgVedaWithSayanasCommentaryPart4/rv_sayanabhasya_part4#page/n865/mode/2up)).
 - In somayaga, there's subrahmanya vachana. "gaurāvaskandin ahalyāyai jāra" - meaning for indra obscure.
   - "One atrocious Ramayana story or explaining away with solar interpretation by kumarila."
+
+## ताटस्थ्यम्
+> इत्थमर्थाविशेषेपि योजनाभेदमात्रतः ।  
+प्राचां विवादस्संवृत्तो भाष्यकारैरवारितः ॥  
+
+इति वेङ्कटनाथः।  
+एवं क्वचिच् छास्त्रार्थे निश्चिते सत्य् अपि, योजनासु नाग्रहः। 
