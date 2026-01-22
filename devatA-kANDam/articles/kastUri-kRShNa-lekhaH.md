@@ -12,7 +12,7 @@ This argues that
 
 Just as pAncharAtra has ancient Adhvaryava roots, so might the brahmasUtra-s and the lost devatA kANDa. These were both ignored by karma-mImAMsA-paras. Similarly, shankara was not interested in the karma and devatA kANDas (beyond some nyAyas). So, their ignoring the devatA kANDa need not imply non-existence. 
 
-The only (later) V mistake may've been conflating devatA kANDa with the then rare sankarSha appendix.
+The only (later) VD mistake may've been conflating devatA kANDa with the then rare sankarSha appendix.
 </details>
 
 
