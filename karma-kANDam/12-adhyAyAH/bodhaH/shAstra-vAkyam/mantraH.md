@@ -25,6 +25,10 @@ title: मन्त्रः
   - रथन्तरम् - प्रसिद्ध-रथन्तरसाम्नो रागस्य नाम। यथा तेनैव रागेण भकारान् गायन्ति। "स्वरादिविशेषानुपूर्वीमात्रस्वरूपे ऋगक्षरव्यतिरिक्तं यत् गानम् तद्रथन्तरम्" इति लक्षणम्। 
   - महावैराजम् - रागविशेषः।
 
+> Gāthās - Heroic recitations akin to the Nārāśaṃsī verses; essentially a supplement to what was then a combined Itihāsapurāṇa tradition.  
+The Kumbyas were maxims or wise sayings.  
+The Kumbyas and Gāthās aren't extant in their original forms, but were likely reworked into the Epics, nītiśāstras, etc.
+
 विभागान्तरम् - छन्दो-नाम्ना। ऋषि-नाम्ना। देवता-नाम्ना।
 
 दीर्घतया - 
