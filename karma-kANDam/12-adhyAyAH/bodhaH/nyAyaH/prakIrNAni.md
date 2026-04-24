@@ -8,8 +8,6 @@ title = "प्रकीर्णानि"
 - सावकाशता - निरवकाशो विधिस् सावकाशापेक्षया बलवान्।
 - अन्यथा समान-बले सति, धर्मि-ग्राहक-प्रमाणानि बलीयांसि धर्म-मात्र-ग्राहक-प्रमाणापेक्षया।
 
-- प्रामाण्ये तारतम्यम् - इदम् [अन्यत्र](/AgamaH/AryaH/hinduism/sAmya-vaiShamye/bases/5_internal-contradictions/hierarchy) निश्चितम्। बलवत्-प्रमाणानुसारेणावरः प्रमाणो नेयः, नान्यथा।
-
 ### न हि निन्दा
 - By the nahi-nindA nyAya, scholars ([LT_U](https://archive.org/stream/LakshmiTantra/Lakshmi%20Tantra%201975%20VKrishnamacharya#page/n12/mode/1up)) have often understood these contesting statements as merely advertising their own exaltedness - given the mutual complementarity (besides competitiveness) of the relationship between such texts and traditions.
 - Consider the analogous role of myths showing conflicts among the deva-s.
