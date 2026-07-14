@@ -13,18 +13,29 @@ unicode_script: devanagari
 ### प्रमासम्बन्धः
 प्रमा-परिचयो [ऽत्र](/AgamaH/AryaH/hinduism/branches/nyAya-vaisheShike/vishvAsaH/pramA/)। वैदिकप्रमालक्षणं ततो ज्ञेयम्। 
 
-### वक्तृ-विषय-वैलक्षण्ये
+## वक्तृ-विषय-वैलक्षण्ये
 मीमांसकैः शब्दनिष्ठं तात्पर्यम् बोध्यते। इदं **विषय-वैलक्षण्यम्** उच्यते।   
 तद् अन्तरा बहुदा वक्तृनिष्ठं तात्पर्यं बुध्येत -  
 यथा साक्षाद् उपलभ्यमाने ऽन्यथा सुपरिचिते वा वक्तरि।   
 विवक्षा हि तत्र प्रधाना। इदं **वक्तृ-वैलक्षण्यम्** उच्यते। 
 
-शब्द-निष्ठं तात्पर्यम् - तत्र-स्था प्रमा-जननानुकूल-शक्तिः। तात्पर्यविषयीभूते ऽर्थे शब्दः प्रमां जनयति। कारिका - 
+शब्द-निष्ठं तात्पर्यम् - तत्र-स्था प्रमा-जननानुकूल-शक्तिः। तात्पर्यविषयीभूते ऽर्थे शब्दः प्रमां जनयति। 
+
+## लिङ्गानि
+कारिका - 
 
 > "उपक्रमोपसंहारौ  
 > अभ्यासोऽपूर्वता फलम्।  
 > अर्थवादोपपत्ती च  
 > लिङ्गं तात्पर्यनिर्णये॥" 
+
+ShaD-linga from tAtparya-nirNaya - A way to gauge the essence of what one's position :
+- The beginning ( upakrama) and the conclusion (upasamhāra)
+- abhyāsa: Repetition.
+- apūrvatā: That which is something unprecedented
+- phalam: The fruit of that study
+- arthavāda: Eulogy or praise.
+- upapatti: Demonstration through examples or analogies.
 
 ### गौणार्थ-ग्रहणम्
 > > वरं हि वाक्य-वैयर्थ्य-परिहारार्थं पदस्य  
