@@ -1,0 +1,215 @@
+INTRODUCTION 
+The Sankarṣa Kaṇḍa-Its Nature and Scope 
+1. The Sankarṣa Kāṇḍa (SK) in four chapters is a basic work of Mimamsa by Jaimini, which, together with his better known and widely studied Tantra Kanda or Dvadaśalakṣaṇī, makes up the complete Purvamīmāmsa-Sastra. The main object of the SK is the redaction of those principles of interpretation of Dharma which had not been included in the Dvadaśalakṣani. It also forms a continuation of and supplement to the last two chapters of the Dvadaśalakṣaṇī in that, like those two chapters, viz., the Tantra and the Prasanga adhyayas, it too has been composed for the interpretation, on the principles of upadeśa and atideśa, of Dharma set forth in obscure and ambiguous Vedic passages.2 It bases itself mainly on the rules enunciated in the first twelve chapters and discusses the further application of those rules to other mantras in some other contexts.3 
+2. A short commentary on the SK, the Bhaṭṭacandrika, by the 18th century polymath Bhaskararaya, has since long been before the scholars but the original Sutras were not to be had. This made the work appear suspect. The truncated topical (adhikaraṇa) Sutras available with the commentary hardly helped to clear these doubts; in fact they only served to deepen them.5 A unique manuscript of the original Sutras, now discovered and presented here in a critical edition with a detailed discussion on the genuineness and authenticity of the SK, should suffice to dispel the doubts hitherto entertained about this ancient work. 
+1. Cf. धर्मविचारार्थं द्वादशलक्षणीं कृत्वा, तत्रासूत्रितान् कांश्चिन्यायाना लक्ष्य तत्संग्रहार्थं द्वादशलक्षणीशेषं सङ्कर्षकाण्डं कृतवतो महर्षिवरस्य जैमिने: etc. Brahmasutra - Kalpataru- Parimala of Appayya Diksita, N. S. Press, Bombay, 1917, p. 50. 
+2. Cf. द्वादशलक्षण्यविचारितनानाविषयन्यायविचारात्मकः तत्परिशिष्टः तन्त्रप्रसङ्गवदु दिशा- तिदेशसाधारण्येन प्रकीर्णकः प्रवर्तितः । Ib. p. 838. 
+3. Cf. एवं द्वादशभिरध्यायैः प्रकृतिविकृतिभेदेन कतिपयान् न्यायान् संशोध्य तैरेव न्यायैः इतस्ततो विप्रकीर्णान् वेदवाक्यार्थान् ऐदंपर्येण सम्यक् निष्कृष्य निर्णेतुमेषा चतुरध्याय्यारभ्यते । 
+Intro. to his commentary on SK by Bhaskararaya, p. 1. 
+4. Sankarsa Kanda, Ed. Pt. Swami Rama Misra Sastri. Pandit Reprint, Banaras, 1894. 
+5. See for instance, the objections of M. L. Sandal, below, § 7. 
+viii 
+Manuscript of the Sutras 
+SANKARṢA KĀŅDA 
+3. The discovery of this manuscript of the SK Sutras was made in the family collection of 767 palm-leaf and paper manuscripts of R. Krishnaswami Sastri of Tanjore acquired by the late R. A. Sastri some years back for the Madras University Library. This manuscript, No. 62 of the collection, is in palm-leaf (7"x11") and is written in very readable and generally correct Grantha script. Folio 1 of the manuscript commences with the sūtra स आहवनीयः स्यादाहुतिसंयोगात्, being XII.iv.24 of the Dvadaśalakṣaṇī. The last chapter of the Dvadaśalakaṣaṇī is concluded on folio 2 with the colophon : द्वादशस्य चतुर्थः पादः. The SK sutras are commenced next and are continued upto folio 21, where the manuscript breaks off with the first sutra of ch. II, pada i, of the SK. Though written in close continuation of the Dvadaśalakaṣaṇī, the SK is considered here as a separate work, its chapter and pada colophons reading, सङ्कर्षकाण्डे प्रथमस्य प्रथमः पादः, प्रथमस्य द्वितीयः पादः etc. It may, how- ever be noted that the flyleaf of the manuscript, on which are written some of the pratikas of the sutras, treats the SK as an organic continuation of the Dvadasalakaṣaṇī, the chapter prefixes given there being '१३ अध्याये,” and “१४ अध्याये". 
+Vimsatyadhyayaṁ Mīmāṁsā-Śāstram 
+4. Tradition holds that Mīmāmsā-Śāstra in its full form consists of twenty chapters, the first sixteen constituting Purva-Mimämsä and the remaining four, Uttara-Mimämsä or Vedanta. Thus, in his Brahmasutra- Bhāṣya, Sankara implies that the 'Sastra' commences with the Purvamīmāmsa-Sutras when he says, on Brahmasutra III.iii.53: शास्त्रप्रमुख एव प्रथमे पादे शास्त्रफलोपभोगयोग्यस्य देहव्यतिरिक्तस्यात्मनोऽस्तित्वमुक्तम् । सम्यगुक्तं भाष्यकृता [ शबरस्वामिना ] न तु तत्रात्मास्तित्वे सूत्रमस्ति । इह तु स्वयमेव सूत्रकृता तदस्तित्वमाक्षेपपुरस्सरं प्रतिष्ठापितम् | Sankara further terms the Mimārsāsutras the 'First treatise' (prathama-tantra) and the Vedantasūtras, the 'Remainder' (śeşa) of the 'Full Śāstra' (kṛtsna-śāstra); cf. 3⁄4 ya a भगवता उपवर्षेण प्रथमे तन्त्रे आत्मास्तित्वाभिधानप्रसक्तौ " शारीर के वक्ष्यामः" इत्युद्धारः कृतः । इह चेदं चोदनालक्षणेपूपासनेषु विचार्यमाणेषु आत्मास्तित्वं विचार्यते कृत्स्नशास्त्र - शेषत्वप्रदर्शनाय । (Bhāṣya on III.iii.53). This tradition is discernable down the ages. 
+5. On the composition of the Mīmāmsa-Sastra, the Prapancahṛdaya which sets out to describe the various systems of traditional learning elaborates thus : तत्र साङ्गोपाङ्गस्य वेदस्य पूर्वोत्तरकाण्डसंभिन्नस्याशेषवाक्यार्थं विचार- परायणं मीमांसाशास्त्रम् । तदिदं विंशत्यध्याय निबद्धम् । तत्र षोडशाध्यायनिबद्धं पूर्वमीमांसा- शास्त्रं पूर्वकाण्डस्य धर्मविचारपरायणं जैमिनिकृतम् । तदन्यदध्यायचतुष्कं उत्तरमीमांसाशास्त्रं 
+¡ 
+INTRODUCTION 
+" 
+ix 
+उत्तरकाण्डस्य ब्रह्मविचारपरायणं व्यासकृतम् । Rāmānuja, the expounder of the Visiṣṭādvaita school of Vedanta, observes: मीमांसाशास्त्रम् 'अथातो 'धर्मजिज्ञासा' (Mīmānsāsutra Ii. 1) इत्यारभ्य 'अनावृत्तिः शब्दादनावृत्तिः शब्दात् ' (Brahmasutra IV.iv.22) afara fafaz His follower Vedantadesika says the same thing with the further detail that totally the śāstra consists of twenty chapters : 'अथातो धर्मजिज्ञासा' (Mīmāmsāsūtra Ii. 1) इत्यारभ्य 'अनावृत्तिः शब्दादन वृत्तिः शब्दात्' (Brahmasutra IV.iv. 22 ) इत्येवमन्तं विंशतिलक्षणं मीमांसाख्यमेकं शास्त्रम् 8 The same author introduces his comments on the first sūtra of Mimāmsā : विंशतिलक्षण्यां वक्ष्यमाणं कृत्स्नवेदार्थ- विचारं प्रतिजानीते - 'अथातो धर्मजिज्ञासा' ( I. 1. 1 ) . Exponents of other schools also refer to the complementary nature of the Dvadaśalakṣaṇī, Sankarṣa Kāṇḍa and Brahmasutra. Epigraphical evidence for the twenty-chapter division of Mimamsa-Sastra is forthcoming in a South Indian inscription, No. 76 of 1932-33, from Anur, Chingleput Dt., Madras, dated A.D. 999, where, among other qualifications for a Brahman to receive Bhatta-vṛtti ("living for a learned Brahmana'), a knowledge of the Mimamsa-Sastra in "Twenty chapters" is prescribed.10 
+The SK and its genuineness 
+6. By its very structure the Dvādaśalakṣaṇī (Tantra Kāṇḍa) of the Purvamīmāmsa-Sastra was self-complete so far as the enunciation of the principles of interpretation of dharma and the elucidation. of the methodology of the application of Vedic mantras were concerned. And this rusulted in the Dvadaśalakṣaṇī being considered, rightly enough, as a complete work. It gained also wide prominence through the Bhasya of Sabara and the Varttika of Kumarila, and the mass of literature which followed in their wake. These two circumstances had the ultimate effect of throwing the second part of the work, viz., SK, into disuse and oblivion11 to such an extent that serious doubts have been 
+6. Edn. Trivandrum Sanskrit Series, No. 45, pp. 38-39. 
+7. Cf. Śrībhāṣya of Rāmānujacarya, Bombay Skt. and Pkt. Series, No. 68, pp. 2-3. 
+8. See his Sesvaramēmāmṣā, Šāstramukthāvalī, No. 16, Conjeeveram, 1902, 
+p. 1. 
+9. 
+Ib. p. 3. 
+10. On this see S. Krishnaswami Ayyanagar, Wcolner Com. Volume, Lahore, 1930, 1 ff. 
+11. Cf. आसीत् षोडशलक्षणी श्रुतिपदा या धर्ममीमांसिका 
+सङ्कर्षाख्यचतुर्थभागविधुरा कालेन साऽऽजायत । 
+Bhaskararaya, concluding verse of his com. on the SK, Pandit Reprint, p. 127. 
+X 
+SANKARṢA KĀŅDA 
+expressed by modern scholars even on its genuineness. The non- availability of manuscripts of the work coupled with the fragmentary, imperfect and unconnected nature of the topical sutras in the Pandit Reprint only augmented these doubts. 
+7. Thus M. L. Sandal in the Introduction to his English Transla- tion of the Mimāmsā Sutras has raised several points in this respect.12 "(In the SK) there are no adhikaranas and the sutras are meagre; it is an apocryphal portion of the Mimāmsā, most probably palmed off by Khandadeva as genuine." (i) 
+"All the writers of the Mimamsa have characterised Jaimini's Mīmāmsā 
+as containing twelve chapters." (ii) 
+"Strange to say that the SK is not mentioned by Alberuni and Abul 
+Fazal." (iii) 
+"The SK never found popularity amongst the students of Mīmāṁsā, and was, therefore, very properly consigned to oblivion. We do not find it mentioned in any ancient works prior to Rāmānuja in his Brahmasutra-Bhāṣya or Madhusudana Sarasvati in Prasthana- bheda." (iv) 
+"The style of the so-called Sutras does not resemble that of Jaimini; it is so very curt and mutilated that one cannot make out anything without the help of Bhaskara's Bhaṭṭacandrikā." (v) 
+"The last sutra in the fourth pada of the fourth chapter, which is the 
+16th chapter in the work, ends with the word 
+which 
+has been repeated and imitated from the final endings in the Samkhyapravacana or the Vedantasūtras." (vi) 
+"It is a valuable work in Mīmamsa literature and is more in the nature of the Kalpa Sutras. It does not criticize any general principle as is done by Jaimini in his Mimamsa. The well-known twelve principles have been discussed in the twelve chapters by Jaimini; but in the work under description (SK) there is a simple description of the post-sacrificial minor ceremonies, which really form the subject of the Śrauta part of the Kalpa Sutra. In this view which I take of the SK, it cannot be considered a supplement of Jaimini's Mīmāmsā." (vii) 
+"I am of opinion that Sankarṣaṇa is a spurious work. Further I am of opinion that the work as it exists now in the present form, is either the work of Khaṇḍadeva or of Bhaskara." (viii) 
+12. Pub. Sacred Books of the Hindus, Allahabad, 1925, Pp. x.xii. 
+INTRODUCTION 
+xi 
+8. A careful examination of the SK and the references to it in later literature will show that the above objections have all been raised probably due to the insufficiency of reference and manuscript material of the SK available at the time when these objections were raised. In a learned paper on the subject, the late Prof. V. A. Ramaswami Sastri has endeavoured to meet these obections effectively.13 It might still be worthwhile, in this context, to consider these objections afresh in the light of the additional materials which have come to light as a result of further investigation. 
+9. (Obj. i and viii) The statement that there are no adhikaranas and that the sutras are meagre is based on the presumption that the frag- mentary words printed in bold type at the head of each paragraph in the Pandit Reprint comprise the sutras of the work. In fact they are only the initial letters of the topical (adhikaraṇa) sūtras. The error in the statement will be obvious on an examination of the full sutras now discovered and edited in the following pages. It may also be noted that neither is there the absence of adhikaranas nor are the sutras meagre either in form or in number. Attention may be drawn here also to the fact when SK sutras are referred to in later works, it is done so generally with reference to their adhikaraṇa, just as in the case of the Dvadaśalakṣaṇī-sutras. Cf. Prabhavali of Sambhubhaṭṭa on Khaṇḍadeva's Bhāṭṭadīpikā : इदं हि प्रथमाध्यायसङ्कर्षकाण्डस्थं सप्तमाधिकरणसूत्रम् । तत्र हि etc. (Edn. Madras University Sanskrit Series, Pt. I, 1957, p. 434, on Mim. sutra IV. iii. adhi. 15) ; अत्र च सङ्कर्षे द्वितीयाध्याये “मध्यमायामुपसद्यग्निश्चीयते प्रकृत्युपकृतत्वात् " (SK II. i. adhi. 26) etc. (Edn. N. S. Press, Bombay, 1921, p. 212a, on Mim. sūtra II, iii. adhi. 10); Adhvara-Mīmāṁsā-Kutūhala-Vṛtti of Vasudeva Diksita: सङ्कर्षकाण्डे द्वितीयाध्यायस्य द्वितीयपादाद्याधिकरणे etc. (Edn. Vani Vilas Sastra Series, No. 1, Srirangam, 1907 ff., p. 160, on Mīm. sutra II. ii. 2). 
+10. To say either that the work is "most probably palmed off by Khandadeva" or that it is the work of Khandadeva (15th cent.) or Bhâs- kara (18th cent.) is equally unwarranted, for, besides references, specific and implied, to its author being Jaimini (see below § 19), the SK has been made mention of and quoted many centuries prior to Khandadeva by several authorities including Sabarasvamin himself who quotes from SK with mention of its name in his Bhasya on the Mim. sutras X. iv. 32 and XII. ii. 11 (see below § 20). Śankara, Rāmānuja and Srikantha quote from 
+13 'The Samkarsa Kāṇḍa-A Genuine supplement to the Purvamīmāmṣā Sastra', Indian Historical Quarterly, IX (1933) 290-99.Xii 
+SANKARSA KANDA 
+'यच्छक्नुपात्तद्यात्' इति 
+the SK in their Bhāsyas on the Brahmasutra प्रदानवदेव तदुक्तम् (III. iii. 43).14 Other authorities earlier to Khandadeva (15 cent.) like Vedäntadesika (13-14 cent.) in his Seśvaramimāmsā (ib. pp. 2, 6 ) and the Prapancahrdaya (ib. p. 39) refer to it (see above § 5). Even the references that Khandadeva makes to SK in his Bhaṭṭadipika are quite natural in their contexts; also they are so commented upon by his own pupil Sambhubhaṭṭa in his Prabhāvali. Cf. on Mim sutra IV. iii. adhi. 11: दक्षिणाभेदान्नानाच्च प्रयोगभेदस्य सङ्कर्षे वक्ष्यमाणत्वात् । Com. : 
+चतुरध्यायात्मक- सङ्कर्षकाण्डमीमांसायामित्यर्थः । (Bhattadipika with Prabhāvali, Madras Univ. Skt. Series. 1957, Pt. I. p. 425) ; On Mim. sutra IV. iii. adhi. 15: 'क्रत्वङ्गत्वं वा चित्येत्वङ्गे नोपपद्यते ' ( SK Ii. 15 ) इति सङ्कर्षणसूत्रं तु कवपूर्वोपयोग भिप्रायें व्याख्येयम् | Com. : इदं हि प्रथमाध्यायसङ्कर्षकाण्डस्थं सप्तमाधिकरणमुत्रम् । तत्र हि etc. ib. p. 434). 
+11. (ii) The remark that “all writers of the Mīmārsā have charac- terised Jaimini's Mīmāmsā as containing twelve chapters" has to be taken as an overstatement, in view of the fact that though the twelve- chapter-Dvādaśalakṣaṇī is taken as a self-complete unit and spoken of as such, when the question of the ' entire ' Mimāmsā śastra is considered, authorities speak of the Soḍaśalakṣaṇī. Cf. Rāmānuja : तदाह वृत्तिकारः- “वृत्तात् कर्माधिगनादनन्तरं ब्रह्मविविदिषेति" । वक्ष्यति च कर्मब्रह्ममीमांसयोरैकशास्त्र्यं, “संहितमेतच्छारीरकं जैमिनीयेन षोडशलक्षणेनेति शास्त्र कत्वसिद्धिः" इति । (ib. p. 2). Vedantadeśika has the same quotation from Vrttikāra Bodhayana 
+14. Sankara : तस्मात् पृथगेवोपगमनम् । प्रदानवत् । यथा 'इन्द्राय राज्ञे पुरोडाशमेकादश- कपालम्, इन्द्रायाधिराजाय इन्द्राय स्वरराज्ञे', इत्यस्यां त्रिपुरोडा शिन्यामिष्टौ 'सर्वेषामभिगमयन्न- वद्यत्यछंवट्कारम्' इति । अतो वचनादिन्द्राभेदाच्च सहप्रदानशङ्कायां राजा दिगुणभेदाद् याज्यानुवाक्याव्यत्यासविधानाच्च यथान्यासामेव देवता पृथक्त्वात् प्रदान पृथक्त्वं भवति । एवं तत्त्वाभेदेऽपि आध्ययांशपृथक्त्वाद् आध्यान पृथक्त्वमित्यर्थः । तदुक्तं सङ्क- 'नाना वा देवता पृथग्ज्ञानात्' (SK II. ii. adhi. 15) इति । तत्र तु द्रव्यदेवताभेदाद् यागभेदो विद्यते । नैवमिह विद्याभेदोऽस्ति । (Edn. Brahma-sutra Sankarabhāsya with the com. of Govindānanda, Vacaspati and Anandagiri, N. S. Press, Bombay, 1909, p. 755-56). 
+Rāmānuja ; प्रदानत्रदेव प्रदानवदावर्तनीयमित्यर्थः । तदुक्तं सङ्कर्षणे – 'नाना वा देवता पृथक्त्वात्' (SK II. ii. adhi. 15) इति । ( Sribhasya, Bombay Skt. and Pht. Series, No. 68, Bombay, 1914, p. 659). 
+..... 
+Srikantha : 'इन्द्रप्रदानंवत् यथा 'इन्द्राय राज्ञे पुरोडाशमेकादशकपालम् । स्वराज्ञे' इति गुणभेदात् पृथक् पुरोडाशप्रदानम् । 'नाना वा देवता पृथग्ज्ञानातू' (SK II ii. adhi. 15) इति सङ्कर्षे तथोक्तत्वात् । 
+INTRODUCTION 
+xiii 
+in a different context: उभयाभियवेदी भगवान् बोधायनो विंशतिलक्षणीं मीमांसां परस्परसंगमार्थं विस्तरेण व्याख्यादिति वृद्धा विदामासुः । तथा च स्वयमेवाह - " संहितमेतच्छा- रीरक जैमिनीयेन षोडशलक्षणेनेति शास्त्रकत्वसिद्धिः । " इति । (ib. p. 45 ). Cf. also the passage : आसीत् षोडशलक्षणी श्रुतिपदा या धर्ममीमांसिका from Bhaskararaya quoted above (fn, 11). 
+12. (iii) The non-mention of the SK by Alberuni and Abul Fazal, while the Dvadaśalakṣaṇī is mentioned by them, can at best point to the wide prevalence of the latter work, but cannot be an affirmative argument for the non-existence, at that time, of the SK in the light of the evidences pointed out above. 
+13. (iv) Neither can the argument that the SK is not mentioned in any ancient work prior to Rāmānuja or Madhusudana Sarasvati stand when it has been shown above that not one, but several authorities prior to Rāmānuja have referred to the SK by name and have quoted from it. The work has also been commented upon by early authors (see below § 24-25). 
+14. (v) The statement that the style of the sutras does not resemble that of Jaimini has obviously been made on the basis of the mutilated bits of a few of the sutras found in the Pandit Reprint. An examination of the full text of the sutras of ch. I now available will fully prove the error of the above observation and will also show how close it is to the style of the Dvadaśalakṣaṇī. 
+15. (vi) The repetition of the words in the concluding sutra as याज्यासम्प्रेषो याज्यासम्प्रेषः is necessary for the sense of the sutra even as Bhaskararaya shows in his commentary; it should also be taken as an auspicious ending to the entire Purva-Mimāṁsā-Śastra ; cf. Bhaskararāya: भ्राजस्वन्तं यजेति याज्यासम्प्रेषावृत्तिदर्शनात् । सूत्रे वाक्यावृत्तिः 'शास्त्र' - परिसमाप्तिद्योतनार्था । (Pandit Reprint, p. 126). It can never be asserted without any tangible evidence that "it is imitated from the final endings in the Samkhyapra- vacana or the Vedantasutras." 
+16. (vii) Sandal is right in saying that the SK is a valuable work in Mimāmsa literature and is in the nature of the Kalpa Sutras. It is as it should be. For, the main object of the SK is not the enunciation of new principles for the interpretation of dharma but the application of known principles to ambiguous Vedic passages which require such elucidation (see above). The likeness, therefore, which some portions of the SK might bear to the Kalpa Sutras does not go against the authenti- city of the SK; it may only support its authenticity. 
+xiv 
+SANKARṢA KĀŅDA 
+17. In a recent publication, Citations in Śabara-Bhāṣya (Deccan College Dissertation Series, No. 8, Poona, 1952), D. V. Garge seems to present a divided opinion, first conceding the probability but then expressing a doubt, when he says, pp. 4-5: "Where Sabara refers to a portion of Jaimini's work as Sankarṣa, he probably refers to this very Sankarṣakāṇḍa. Unfortunately his Bhasya on that portion is not available. Now Kumārila who carefully notes the number of the sutras of Jaimini passed over by Sabara and explains the absence of a bhāṣya thereon, was not expected to omit a reference to a whole kāṇḍa like Sankarṣa as uncommented on by Sabara." The reasoning here does not seem to be correct. We can expect Kumārila to call attention to Sabara's passing over a sutra, when he (Kumārila) is commenting on that sutra. But we 
+cannot "expect" Kumarila to call attention while commen- ting on the Sabarabhāṣya of the Dvādaśalakṣaṇī portion to his (Sabara's) not having commented upon the SK. 
+18. On the extent of the Purvamimaṁsā, Ganganatha Jha observes in his Purvamīmāmsā in its Sources (Banaras, 1942, p. 11): "The work as generally known to us consists of twelve adhyāyas; but there is a belief-which appears to have some foundation-that there are four more adhyayas of the Jaiminiyasutra known as the Sankarṣakāṇḍa". Elsewhere,15 after commenting on the two quotations in the Sabarabhāṣya from SK, Jha observes: "There thus can be no doubt that there is a section (of Jaimini's sutras perhaps) under the name of Sankarṣa and that it has been commented upon by Sabara. Here is an interesting point of investigation for manuscript hunters and researchers." It is such a search that has led to the discovery of the present manuscript of the SK and its edition, 
+Authorship of the SK 
+19. Authorities, both late and ancient, have, when context required them to speak on the authorship of the SK, mentioned Jaimini as its author. The views to this effect of Ramanuja, Vedāntadeśika, Appayya Dikşita and the Prapancahṛdaya are evident from relevent passages quoted above (see f.n. 1; §, 5, 11). Sambhubhaṭṭa's Prabhavali explains the the term Mimāmsā thus : मीमांसा - 'अथातो धर्मजिज्ञासा' इत्यादिना जैमिनिप्रणीता द्वादशाध्यायी सङ्कर्षकाण्डात्मिका चतुरध्यायी च कर्ममीमांसा, 'अथातो ब्रह्मजिज्ञासा' 
+15. Shabara-Bhasya, Translated into English by Ganganatha Jha, Pt. III, GOS 73, Baroda, 1935, Intro. vii. The doubts that Jha has entertained regarding the identity of the SK sutra quoted by Sabara under XII. ii. 11, which he could compare only with its opening letters in the Pandit Reprint, will be set at rest by comparing it with the full sutra available in the present edition, 
+INTRODUCTION 
+XV 
+इत्यादिना व्यासप्रणीता चतुरध्यायी शारीरकमीमांसा च । (Edn. N. S. Press, Bombay, 1921, p, 43 ). Madhusūdana Sarasvati in his Prasthānabheda, a work describing the systems of Indian learning, says of Mimämsä : एवं मीमांसापि द्विविधा, कर्ममीमांसा, शारीरकमीमांसा चेति । तत्र द्वादशाध्यायी कर्ममीमांसा, 'अथातो धर्मजिज्ञासा' इत्यादिः, 'अन्वाहार्ये च दर्शनात्' इत्यन्ता भगवता जैमिनिना प्रणीता । ....... तथा सङ्कर्षकाण्डमप्यध्याय चतुष्टयात्मकं जैमिनिप्रणीतम् । (Edn. Vani Vilas Press, Srirangam, 1912, p. 11). 
+20. śabarasvāmin, in his Bhāsya on Mim sutra X. iv. 32 and XII.ii. 11, quotes two SK sutras, 16 both of which are traced to the present SK, which thus proves its authenticity. Sabara's quoting these sutras with the words iti Sankarṣe vakṣyate and iti Sankarşe vakṣyati, respectively, in the same manner as he quotes in his Bhāṣya any posterior sūtra in the Dvādaśalakṣaṇī without the mention of the author in the sense of इति (सूत्रकारेण जैमिनिना) वक्ष्यते and इति (सूत्रकारो जैमिनिः) वक्ष्यति, tends to the natural deduction that here too he means only इति सङ्कर्षे (सूत्रकारण जैमिनिना) वक्ष्यते and इति सङ्घर्षे (सूत्रकारो जैमिनिः) वक्ष्यति । 
+, 
+21. The Vedāntasutras too seem to presuppose the SK. It is generally known that when Badarāyaṇa wants to call attention to some topic already dealt with in the Mimämsäsutras, he refers to it with the word तदुक्तम् । For instance Br. sutra III. iii. 33, अक्षरधियां त्ववरोधः सामान्यतद्भावाभ्यां औपसदवत् तदुक्तम्, refers to Mim. sutra III. iii. 8, गुणमुख्यव्यतिक्रमे तदर्थत्वान्मुख्येन वेदसंयोगः ; and Br. sutra III. iii. 26, हानौ तूपायनं शब्दशेषत्वात् कुशाञ्छन्दः स्तुत्युपागानवत् तदुक्तम् to Mim. sutra X. viii. 4, अपि तु वाक्यशेषः स्यादन्याय्यत्वाद् विकल्पस्य विधीनामेकदेशः स्यात् । Now, another sutra of Badarāyana, प्रदानवदेव तदुक्तम् (Br. sutra III. iii. 43 ) has been, as mentioned before (in § 10), pointed out by Sankara, Rāmānuja and Srikantha as referring to the SK sutra, II. ii. adhi. 15, नाना वा देवता पृथग्ज्ञानात् । This implies clearly that just as Bādarayana has referred to the Purvatantra-Dvādaśalakṣaṇī of Jaimini by ag elsewhere, in the third instance above suffixed with age, he has referred only to the Purvatantra- SK of Jaimini. 
+ช่ 
+16. Cf. under Xiv. 32 : विधिनिगमभेदः प्रकृतौ कृतः । “स्त्रिष्टकृद्विकारश्च वनस्पतिः " (SK II.iv. adhi. 20) इति सङ्कर्षे वक्ष्यते ; and under XII.ii. 11 : नार्थः पुनराह्नानेन । नव पशोर्हविष्कृदस्ति औषधार्हा । " अवहननार्था वा यथा पत्नीतुल्यः श्रूयते” (SK 1.i.36) इति सङ्घर्षे वक्ष्यति | 
+xvi 
+SANKARṢA KÄNDA 
+Kasakṛtsna, the Mimamsaka 
+22. It has been suggested that SK might be a work of Kasakṛtsna on the basis of a quotation from Tattvaratnakara found in the Tattvavārttika, a commentary on the Śrībhāṣya of Rāmānuja : 
+कर्मदेवताब्रह्मगोचरा सा त्रिधोद्बभौ सूत्रकारतः । 
+• 
+जैमिनेर्मुनेः काशकृत्स्नतो बादरायणादित्यतः क्रमात् ॥ 
+That there was an ancient Mimamsaka by name Käśakṛtsna who was held in esteem by Visiṣṭādvaita authors, is not a point at dispute. He has even been mentioned by name in the Mahabhaṣya of Patanjali17 and in the Brahmasutras.18 But as K C. Chatterjee, who has a short study on Kāśakṛtsna, says, "the Sankarṣa Kanda as published from Benares contains nothing like the view attributed to Kāśakṛtsna by Badarāyaṇa,19 the author of the Brahmasutras, and though the Sankarşa Kanda is fairly early, ... it is still difficult to hold that Kāśakṛtsna is its author. On the other hand, the fact that Sabara says: Iti Sankarşe vakṣyati (XII,2,11) would lead one to suppose that according to Sabara the Sankarṣa Kanda also is from the pen of the author of the Mimamsa Sutras."20 Now Vedantadeśika, the prominent exponent of Rāmānuja's Visiṣṭadvaita, who also mentions Kaśakrtsna reverently in the same order as in the above-quoted verse in an introductory verse to his Seśvaramīmāṁsā : 
+a ayfa Šiafaciải gafa ya: magmentsfa 
+B: 
+नारायणावतारो जयति परं बादरायणः श्रीमान् ॥ ( Intro verse 2), continues : विंशतिलक्षणं मीमांसाख्यमेकं शास्त्रम् । ... सङ्कर्षारम्भः "संहितमेतच्छारीरकं जैमिनीयेन षोडशलक्षणेनेति शास्त्रकलसिद्धिः" इति वृत्तिग्रन्थs etc. (ib. pp. 1-2). Vedäntadesika's quoting with approbation a statement as above clearly indicates his view that he considered only Jaimini as the author of 'all' the sixteen chapters of the Mimämsä-Sastra; and the natural deduction is that though he revered Kāśakṛtsna as a great Mimämsaka, he did not consider him as the author of any part of the 16-chapter Mimamsa-Sastra. 
+17. Cf. Mahabhasya on Panini IV.i.4., 93; iii.155: afar मीमांसा काशकृत्स्नीमधीते काशकृत्स्ना ब्राह्मणी । 
+18. Br. sutra Iiv. 22, अवस्थितेरिति काशकृत्स्नः । 
+19. Cf. Sānkarabhāṣya and other commentaries on Br. sūtra I.iv.22. 
+Kakṛtsna', Indian Historical Quarterly, VIII (1932) 225-26. 
+20.INTRODUCTION 
+xvii 
+Scope of the SK 
+23. The general nature of the SK has been indicated already at the beginning of this Introduction. On the significance of the word Sankarsa, Devasvamin, the Bhāṣyakära of SK, quotes at the beginning of his work, an old verse :- 
+सिद्वैस्तु लक्षणैरेतैः श्रुतियोग प्रदर्शयन् । 
+लक्षगानि श्रुतीचैव सङ्कष्याधिजगौ मुनिः ॥ 
+: 
+Thus in the SK the author correlated the Vedic passages through the established principles of interpretation by bringing together the principles and the passages concerned. The term sankarṣa emphasises the main function of the SK, viz., the clear and comprehensive exposition of Vedic propositions scattered in Vedic texts: Cf. सम्यक् निःशेषतया स्फुटतया च कृष्ट्वा आकृष्य विप्रकीर्णवेदवाक्येभ्यः संगृह्य निर्णीयन्त इति पदव्युत्पत्तिः । Anandagiri explains the word sankarsa thus : संकृष्यंत कर्मकाण्डस्थनेवावशिष्टं कर्म संक्षिप्योच्यत इति सङ्कर्षो देवताकाण्डम् | (under Sankarabhāsya on Br. Sutra III. iii. 43). Its stress on the ritual of upāsana is drawn attention to by Madhusudana Sarasvati in the Prasthanabheda : तथा सङ्कर्षकाण्डमप्यध्याय- चतुष्टयात्मकं जैमिनिप्रणीतम् । तच्च देवताकाण्डसंज्ञया प्रसिद्धमप्युपासनाख्यकर्मप्रतिपादकत्वात् कर्ममीमांसान्तर्गतमेव । (ib. p. 11). 
+Commentaries on the SK 
+24. The Prapañcahrdaya mentions a long line of commen- tators of the SK, Bodhāyana, Upavarsa, Devasvāmin, Bhavadasa and Sankarsana : तस्य विंशत्यध्याय निबद्धस्य मीमांसाशास्त्रस्य कृतकोटिनामधेयं भाष्यं बोधायनेन कृतम् । तद् ग्रन्थबाहुल्यभयादुपेक्ष्य किञ्चित् संक्षिप्तम् उपवर्षेण कृतम् । तदपि मन्दमतीन् प्रति दुष्प्रतिपादं विस्तीर्णत्वादुपेक्ष्य षोडशलक्षणपूर्वमीमांसाशास्त्रमात्रस्य देवस्वामिना अतिसंक्षिप्तं कृतम् । भवदासेनापि कृतं जैमिनीयभाष्यम् । पुनर्द्विकाण्डे धर्ममीमांसाशास्त्र पूर्वस्य तन्त्रकाण्डस्य आचार्यश्वरस्वामिना अतिसंक्षेपेण सङ्कर्षकाण्डं द्वितीयमुपेक्ष्य कृतं भाष्यम् । तथा देवताकाण्डस्य सङ्कर्षेण (var सङ्कर्षणेन ) (ib. p. 29). 
+25. According to the tradition recorded above, Bodhāyana wrote a Bhāṣya entitled Krtakoti on the entire Sastra of twenty chapters. Finding this too elaborate and discursive, Upavarṣa wrote for the entire work a succinct Vrtti. Manuscripts of these two commenteries are now not available, but fragments from them are preserved in quotations in later works.21 Since even Upavarṣa's commentary was found to be tough and 
+21. Upavarsa is quoted by śabara, Sankara and other writers. For a discussion on some of the views of Upavarṣa as known from quotations, see V. A. Ramaswami Sastri, 'The Conception and Number of Pramanas according to Upavarga,' J of the Ganganatha Jha Res. Inst., II ( I944-45 ) 237-42, 321-25; and 'Old Vrttikāras of the Purva Mīmāmsā Sutras', IHQ X (1934) 431-48. 
+xviii 
+SANKARṢA KANDA 
+lengthy for the mediocrity, Devasvamin wrote a shorter commentary on the first sixteen chapters constituting the Purvamīmāṁsā-Śāstra. Several manuscripts of Devasvamin's Bhasya on the SK are available 22 he is also at times quoted in later works. The fourth commentary on the entire Purvamimamsa was by Bhavadasa. Manuscripts of Bhavadasa's Vṛtti are yet to be traced. Bhavadasa is earlier to Devasvamin since his commentary is found quoted by Devasvamin.23 The Ślokavārttika of Kumārila too refers to Bhavadasa as to have been presupposed by Sabara.24 Lastly, an author by name Sankarṣaṇa commented on the SK portion alone. Possibly this last-mentioned writer got the name 'Sankarṣaṇa' for having commented on the SK. 
+26. The Prapancahṛdaya draws attention to the fact that Sabara did not comment on the SK but restricted his Bhasya to the Tantra Kāṇḍa (Dvādaśalakṣaṇī) (cf. Qn. in § 24). And, nowhere in any ancient text is to be found any reference to Sabara's commentary on the SK. However, some modern scholars have suggested that the SK "was commented upon by Sabara (which) is clear from the Sabarabhaṣya 
+22. Kerala Univ. Mss. Library, Trivandrum, Mss. Nos. CO 1029, CO 1080, T. 564, T. 1170; Gov. Or. Mss. Library, Madras, R. 2695; Adyar Library, 38-A-19; Tekke Matham, Trichur (Kerala), I. 90 A. Umesh Misra's doubting remark that "he (Devasvamin) is also believed to have written (a commentary) on the Sankarṣakanḍa" (vide p. 36 of his Critical Bibliography to the Purvamīmāṁsā in its Sources by Ganganatha Jha), can be affirmed in the face of the availability 
+of these manuscripts of the work. 
+23. Cf. Devasvamin's Bhasya under SK III. ii. 1: fgfaqı सोमः' इत्यारभ्य आपादपरिसमाप्तेः भवदासमेव भाष्यमिति । 
+24. Some of Bhavadasa's views are mentioned by Kumarila as to have been criticised by Sabara; Cf. Ślokavārttika: 
+प्रदर्शनार्थमित्येके केचिन्नानार्थवादिनः । 
+समुदायादवच्छिद्य भवदासेन कल्पितात् ॥ 
+(verse 63, on the 1st, Pratijña, sutra. Edn. ChSS 3, 1898, p. 23) 
+Cf. also: वृत्त्यन्तरेषु केषांचिल्लौकिकार्थव्यतिक्रमः । 
+शब्दानां द्दश्यते तेषामुपालम्भोऽयमुच्यते ॥ 
+(ib. verse 33, p. 11) 
+which Parthasarathi Misra explains: उपालम्भपक्षं परिगृह्णाति - वृत्त्यन्तरेष्विति । केषांचिद् भवदासादीनां वृत्त्यन्तरेषु । ...... पदद्वयमर्थद्वयवाचि लोकप्रसिद्धमपि भवदासेनैकपदीकृत्यानन्तर्यमात्रार्थं व्याख्यातम् । तच्च श्रयुक्तमित्युपालम्भ इति । 
+। 
+(ib. p. 11-12). On Bhavadasa see also V. A. Ramaswami Sastri, 'Some old Vṛttikaras of the Purva Mimämsä Sutras', IHQ X (1934) 451-52. 
+INTRODUCTION 
+xix 
+itself; under sutra X. iv. 32, and XII. ii. 11...."25 This suggestion of theirs presumes that the passages cited under the above two sutras are quota- tions from Sabara's own commentary. But, as can be verified from the text of the full sutras now edited, the passages in question are merely quota- tions of the SK sutras and not of Bhāṣya passages. Neither can we expect Sabara to 'quote' with the word 'iti' in the course of the Bhasya on an earlier sutra, his own posterior Bhāṣya-passages, which he had yet to write. 
+27. Bhaskararaya in his commentary on the SK has several quotations from a SK-Bhāṣya. These, the editor of the Pandit Reprint has presumed to be from Sabara's Bhasya on the SK, which he supposes to be lost (see Pandit Reprint, p. 1 and Intro., p. 6). These quotations have, however, been traced to Devasvamin's Bhasya, of which. as stated above, several manuscripts are available; this goes to show that the Bhasya quoted by Bhaskararaya is that of Devasvamin and not of Sabara. Thus the tradition recorded above that Sabara commented only on the Dvadaśalakṣaṇi seems to be correct. 
+28. A commentary on the SK by Govindopadhyaya is quoted by the dharmasastra writer Hemādri (c. 1230-1300) in his Caturvarga- cintāmaṇi, Pariśeṣakhaṇḍa (Bibl. Ind, Vol. III, pt. ii, p.324): g गोविन्दोपाध्यायेनोक्तं - यस्मिन्नहनि etc. 
+29. Of later authors, Rajacuḍāmaṇi Dikṣita (c. 1580-1650), the prolific writer patronised by king Raghunatha Nayak of Tanjore, wrote a commentary called Sankarṣanyayamuktavali on the SK.26 A manuscript of this commentary has been described and extracted from by Hultzsch in his Reports of Sanskrit Mss, in Southern India (Vol. II, No. 1489, pp. 67, 141). The work opens with the introductory verse: 
+तेजः स्त्रीपुं (स्व) भावव्यतिकरसुभगं भावुकं भावयित्वा 
+कामाक्षीं मातरं तामपि पितृचरणं (? खान् ) श्रीनिवासावरीन्द्रान् । सोदर्यादर्धनारीश्वरमखिवरतोऽधीत्य सर्वच शास्त्रं सङ्कर्षन्यायमुक्तां प्रथयति कतिचिद् राजचूडामणीष्टी ॥ 
+The colophon extracted by Hultzsch from this ms., seems to indicate that it extended only to the end of ch. I; cf. इति सङ्कर्षन्यायसुक्तावल्यां 
+25. Ganganatha Jha, Purvamīmām sā in its Sources, p. 12. Cf. also Umesh Misra's Critical Bibliography, p. 20: "Besides this Bhasya, he (Sabara) also wrote a c. on the Sankarsa which is clear from his own words (vide his Bhagya X. iv. 32; XII. ii. 11)." See also D. V. Garge, Citations in Sabarabhasya, p. 4; K. C. Chatterjee, IHQ VIII (1932) 226; etc. 
+26. For an account of the family, life and works of Rajacuḍāmani Dikṣita, see the Intro. to the edn. of his Rukminikalyana Mahakavya, Adyar, 1929. See also M. Krishnamachariar, Hist. of Classical Skt. Literature, pp. 235-36. 
+XX 
+SANKARṢA KĀŅDA 
+:: (ib. p. 141). This commentary is made mention 
+of by the author along with his other works which he enumerates at the conclusion of his Kavyadarpana :27 
+नव्या सङ्कर्षकाण्डस्य न्यायमुक्तावली तथा । 
+It is mentioned also by Balayajñavedeśvara in the introduction to his commentary on Rajacuḍāmaņi Dikṣita's Rukminikalyana: 
+तेने निष्कृतिदीपिका निरुपमां नित्याग्निहोत्रस्य च 
+ख्यातं तन्त्रशिखामणिं तदनु सङ्कर्षस्य मुक्तावलीम् । 
+(Intro. verse 22, ib. p. 5)28 
+The two other works of Rajacuḍāmaṇi Dikṣita on Mimamsa are his Tantrasikhamaņi, a commentary on Jaimini's Dvadaśalakṣaṇī and Karpūravartikā, a commentary on the Sastradīpikā of Parthasarathi 
+Miśra. 
+30 The latest commentary we have on the SK is by the 18th cent. polymath Bhaskararaya (c. 1700-1760) which has been edited. serially in the Banaras Pandit (NS) vols. XIV-XV (1892-1893) and subsequently issued as a Reprint from the Pandit in 1894. Bhaskararaya who is an ardent admirer of Khandadeva says at the close of the work that he intended to supplement through his commentary the Bhaṭṭadipika of Khandadeva which extended only through the first twelve lakṣaṇas of the Mimamsa-Sastra, leaving out the last four : 
+खण्डदेवकृतभाट्टदीपिका लक्षणैः कतिपयैरसंभृता । 
+gigaga gawexifiafagrât aîzuriaya ang il 
+(Pandit Reprint, p. 126) 
+He also expresses his gratification that by his supplement the Bhatta- dipikā had become complete with all the sixteen kala-s and had become the full-fledged Bhaṭṭacandrika: 
+अद्यावधि कृतिरेषाssद्यन्तविहीनेति दीपिकाख्याऽऽसीत् । 
+षोडशकलाभिरधुना परिपूर्णा भाट्टचन्द्रिकात्वमगात् ॥ ( ib. p. 127 ) 
+The Text of the SK Sutras 
+31. Despite the availability of the commentaries of Devasvamin and Bhaskararaya, the problem of the text of the SK Sutras has remained 
+27. Ed. Vani Vilas Press, Srirangam. Madras Ms. D 12809, Des. Catalogue, vol. XXII, p. 8616. 
+28. Umesh Misra's remark: "It is also believed that he (Rajacuḍāmani Dikṣita) wrote also a c. on the Sankarsakāṇḍa" (Critical Biliography, ib. p. 62) may be stated affirmatively in view of this ms, and corroborative evidence, 
+INTRODUCTION 
+xxi 
+as baffling as ever. In his Short History of the Purva-Mīmaisā Litera- ture, T. R. Chintamani observes: "It is unfortunate that the Devata Kanda has not come down to us in its proper form. In fact we do not know A good deal of research is necessary the Sutra text of that Kända. to find out (from the commentary) what exactly are the Sutras. It will be worth the trouble to take upon ourselves to investigate into and find out the text of the Sankarṣa Kanda Sutras."29 
+32. Bhaskararaya's commentary is extremely brief and contains only the opening letters of the adhikaraṇa sutras. Also it generally gives only the purvapakṣa and siddhanta views of each adhikarana and does not comment on the sutras individually. A definite idea, therefore, of the extent, number or text of the SK sutras is not possible from this 
+source. 
+33 The Bhasya of Devasvamin is more elaborate, but "most of the manuscripts of SK (Bhāṣya) do not contain the sutras in full form and in their sequence. 
+"30"A careful perusal of all these (mss, of the Bhāṣya) may reveal to us the correct text of the sutras but that should The difficulty of resurrecting be done after a good amount of work."31 the sutras from the Bhasya is increased by the similarity of the language of the two. The frequent occurrence of Vedic quotations and cross references of complete or bits of sutras in the Bhasya adds to this difficulty. In the absence of a definite knowledge of the text of the sutras and their sequence, every other passage in the Bhaṣya presents the problem as to whether it is a purvapakṣa or a siddhanta, an elucidation or a quotation; in fact this absence of the definite knowledge of the sutra text has hitherto handicapped a proper under- standing of the Bhāṣya and a critical edition of the same. 
+34. The difficulties outlined above might be illustrated by the results of two attempts at the reconstruction of the sutras from Deva- svamin's Bhāṣya which has been observed to be "probably the only standard work which forms the most important source for reconstruct- ing the lost sutras of Sankarṣa Kanda."32 
+29. Doctorate Dissertation, Madras University. See typescript in the Madras University Library, p. 217. On this see also V. A. Ramaswami Sastri, Introduction to his edition of Tattvabindu (Annamalai University, 1930), p. 13. 
+the Sankarsa Kanda', 30. V. A. Ramaswami Sastri, 'Further light on Siddha Bharati, Pt. II, p. 103. 
+31. T. R. Chintamani, ib., p. 272. 
+32. V. A. Ramaswami Sastri, Intro. to Tattvabindu, p. 58.xxii 
+X 
+२ 
+f 
+1 
+1 
+l 
+h 
+-0 
+2 
+e 
+020 
+I 
+e 
+d 
+1. 
+SANKARSA KANDA 
+35. Using the Madras and Adyar manuscripts of the Bhāṣya, T. R. Chintamani has reconstructed "a few sutras covering a portion of the first pada of the first adhyaya" and has appended it to his thesis on Mimämsä literature referred to above. These reconstructed sutras number nineteen. A comparison of these with the Sutra text now discovered and edited gives the following analysis: Non-sutras (i.e., quotations or bits of the Bhāṣya taken as sutras) 9. Inflated sutras (i.e., sutras inflated with bits of the Bhāṣya) 1. Incomplete sutras 3. Otherwise defective sutras 3. All-correct sutras 3, (i.e., 3 out of 19). 
+Sutras left out in the middle 5. 
+36. The other attempt at such reconstruction is by V. A. Ramaswami Sastri in his paper on 'Further light on the Sankarṣa Kanda'33, where he reconstructs ten sutras from the 'Trivandrum manuscripts' of the Bhasya. Of the reconstructed sutras, one is not a sutra, another is incomplete and two others defective otherwise. Reconstruction from the Bhasya is, therefore, a dubious process and is no safe or sure method for arriving at the original text of the SK Sutras. 
+37. In the circumstances, hardly any excuse is needed for the present edition of the SK Sutras in their correct and full form from the Sutra ms. now available, though it is incomplete and extends only to the beginning of the second chapter. 
+Present edition of the SK 
+38. The text of the sutras preserved in the manuscript available now is generally pure. The manuscript is also well preserved and has few scribal errors, lacunae etc. In the present edition the text in the manuscript has been collated with the full sutras and fragments of sutras found in the commentaries of Devasvamin and Bhaskararaya, the former from its Madras Ms. R. 2695 (a paper ms. in which the variants in three mss. of the Bhasya are recorded) and the latter in the Pandit Reprint. It was found that though Bhaskararaya comments only on the adhikarana sutras, his commentary contains portions of several sutras and sometimes even full sutras, though these have not been so indicated in the printed edition. 
+39. The chapters of the SK are numbered XIII-XVI by Bhaskara- raya, taking the work as a direct continuation of the Dvadaśalakṣaṇī. Such a numbering is found also in the flyleaf of the Sutra ms. where 
+k 
+33. Siddha-Bharati, Pt. II. 102-05. 
+=y 
+INTRODUCTION 
+xxiii 
+the pratikas of the sutras are written. In the present edition, how- ever, the chapters have been numbered from I onwards as found in the body of the Sutra ms. and in accordance with the practice of the Mimamsa writers who quote from the SK. The work is almost always referred to by the title Sankarṣa Kanda but in a few places it is referred to as Sankarṣaṇa Kanda. The former title which is found in the Sutra ms. and is also found explained in the commentaries (see above § 23) is adopted in this edition. For the easy comprehension of the argument of the text, each sutra has been indicated as to its being a pūrvapakṣa, siddhanta or guņa sūtra by adding after it within brackets the letters q, f and . The SK sutras traced to certain Mimämsā and other works have been given in an Appendix at the end of the edition. The Index of Sutras contains all the sutras of the SK known (including those known only from quotations) and is intended to facilitate reference and to help in the further identification of the SK sutras quoted in other works. 
+पू, 
+गु. 
+40. It will only be an act of dutifulness if I gratefully mention here the late Prof. V. A. Ramaswami Sastri who did spade-work in this field by establishing the authenticity of the SK and who created in me an interest in these supposedly lost sutras of Jaimini which led to the discovery of the present manuscript and this edition. I am indebted also to Sri S. R. Krishnamurti Sastri, Professor, Sanskrit College, Madras, for his help in fixing the text of the sutras and in classifying them. 
+V. V. R INSTITUTE, 
+HOSHIARPUR, 
+March 10, 1963. 
+K. V. SARMA
